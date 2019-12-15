@@ -1,0 +1,8 @@
+this code shows how Fantom5 data has been processed
+
+- Fantom data files:
+	- hg19.cage_peak_phase1and2combined_tpm.osc.txt and robust_phase1_pls_2__description.txt.gz.tmp downloaded on http://fantom.gsc.riken.jp/5/datafiles/latest/extra/CAGE_peaks/
+	- SSTAR FILE downloaded on http://fantom.gsc.riken.jp/5/sstar/Browse_samples; clic on Human samples, retstrict to primary cells and download the csv file
+
+- code written using Python 3
+

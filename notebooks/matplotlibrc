@@ -1,0 +1,4 @@
+pdf.fonttype : 42  # TrueType fonts for ease of editing in illustrator
+font.family : Arial
+font.size : 8.0
+savefig.dpi : 500
