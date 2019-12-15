@@ -1,0 +1,2840 @@
+orf_id_a	orf_id_b	result	experiment	source
+61	53120	0.0	testing_y2h_v3	Lit_BM_13
+61	53120	0.0	testing_y2h_v1	Lit_BM_13
+61	53120	0.0	testing_y2h_v2	Lit_BM_13
+69	3380	0.0	testing_y2h_v3	Lit_BM_13
+69	3380	0.0	testing_y2h_v1	Lit_BM_13
+69	3380	0.0	testing_y2h_v2	Lit_BM_13
+69	8010	0.0	testing_y2h_v3	Lit_BM_13
+69	8010	0.0	testing_y2h_v1	Lit_BM_13
+69	8010	0.0	testing_y2h_v2	Lit_BM_13
+69	56285	0.0	testing_y2h_v3	Lit_BM_13
+69	56285	0.0	testing_y2h_v1	Lit_BM_13
+69	56285	0.0	testing_y2h_v2	Lit_BM_13
+98	4616	0.0	testing_y2h_v3	Lit_BM_13
+98	4616		testing_y2h_v1	Lit_BM_13
+98	4616		testing_y2h_v2	Lit_BM_13
+110	501	0.0	testing_y2h_v3	RRS
+110	501	0.0	testing_y2h_v1	RRS
+110	4489	0.0	testing_y2h_v3	Lit_BM_13
+110	4489	0.0	testing_y2h_v1	Lit_BM_13
+110	4489	0.0	testing_y2h_v2	Lit_BM_13
+110	6596	0.0	testing_y2h_v3	Lit_BM_13
+110	6596	0.0	testing_y2h_v1	Lit_BM_13
+110	6596	0.0	testing_y2h_v2	Lit_BM_13
+110	6722	0.0	testing_y2h_v3	Lit_BM_13
+110	6722	0.0	testing_y2h_v1	Lit_BM_13
+110	6722	0.0	testing_y2h_v2	Lit_BM_13
+110	53218	0.0	testing_y2h_v3	Lit_BM_13
+110	53218	0.0	testing_y2h_v1	Lit_BM_13
+110	53218	0.0	testing_y2h_v2	Lit_BM_13
+113	2663	0.0	testing_y2h_v3	Lit_BM_13
+113	2663	0.0	testing_y2h_v1	Lit_BM_13
+113	2663	0.0	testing_y2h_v2	Lit_BM_13
+115	1095	0.0	testing_y2h_v3	test_space_y2h_v3
+115	7312	0.0	testing_y2h_v3	test_space_y2h_v3
+127	6660		testing_y2h_v3	Lit_BM_13
+127	6660	0.0	testing_y2h_v1	Lit_BM_13
+127	6660	0.0	testing_y2h_v2	Lit_BM_13
+127	54334	0.0	testing_y2h_v3	Lit_BM_13
+127	54334	0.0	testing_y2h_v1	Lit_BM_13
+127	54334	0.0	testing_y2h_v2	Lit_BM_13
+130	4516	0.0	testing_y2h_v1	test_space_y2h_v1
+163	3330	0.0	testing_y2h_v3	Lit_BM_13
+163	3330	0.0	testing_y2h_v1	Lit_BM_13
+163	3330	0.0	testing_y2h_v2	Lit_BM_13
+163	4687	0.0	testing_y2h_v3	Lit_BM_13
+163	4687	0.0	testing_y2h_v1	Lit_BM_13
+163	4687	0.0	testing_y2h_v2	Lit_BM_13
+163	56861	0.0	testing_y2h_v3	Lit_BM_13
+163	56861	0.0	testing_y2h_v1	Lit_BM_13
+163	56861	0.0	testing_y2h_v2	Lit_BM_13
+223	493	0.0	testing_y2h_v3	RRS
+223	493	0.0	testing_y2h_v1	RRS
+223	493	0.0	testing_y2h_v2	RRS
+259	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+343	4700	1.0	testing_y2h_v3	Lit_BM_13
+343	4700	1.0	testing_y2h_v1	Lit_BM_13
+343	4700	1.0	testing_y2h_v2	Lit_BM_13
+343	6080	1.0	testing_y2h_v1	test_space_y2h_v1
+343	6080	1.0	testing_y2h_v3	Lit_BM_13
+343	6080	1.0	testing_y2h_v1	Lit_BM_13
+343	6080	1.0	testing_y2h_v2	Lit_BM_13
+343	9637	0.0	testing_y2h_v3	Lit_BM_13
+343	9637		testing_y2h_v1	Lit_BM_13
+343	9637		testing_y2h_v2	Lit_BM_13
+343	10101	0.0	testing_y2h_v3	test_space_y2h_v3
+343	100010379	0.0	testing_y2h_v3	Lit_BM_13
+343	100010379	0.0	testing_y2h_v1	Lit_BM_13
+343	100010379	0.0	testing_y2h_v2	Lit_BM_13
+359	4616	0.0	testing_y2h_v3	test_space_y2h_v3
+392	100002264	0.0	testing_y2h_v1	test_space_y2h_v1
+392	100002264	0.0	testing_y2h_v3	Lit_BM_13
+392	100002264	0.0	testing_y2h_v1	Lit_BM_13
+392	100002264	0.0	testing_y2h_v2	Lit_BM_13
+435	2845	0.0	testing_y2h_v1	test_space_y2h_v1
+486	5395	0.0	testing_y2h_v3	RRS
+486	5395	0.0	testing_y2h_v1	RRS
+526	5179	0.0	testing_y2h_v3	RRS
+526	5179	0.0	testing_y2h_v1	RRS
+526	11733	0.0	testing_y2h_v1	test_space_y2h_v1
+526	13267	0.0	testing_y2h_v3	RRS
+526	13267	0.0	testing_y2h_v1	RRS
+577	5385	0.0	testing_y2h_v3	RRS
+577	5385	0.0	testing_y2h_v1	RRS
+639	10174	0.0	testing_y2h_v3	RRS
+639	10174	0.0	testing_y2h_v1	RRS
+639	10174	0.0	testing_y2h_v2	RRS
+663	2416	0.0	testing_y2h_v3	test_space_y2h_v3
+663	11486	0.0	testing_y2h_v2	test_space_y2h_v2
+663	14956		testing_y2h_v3	RRS
+663	14956	0.0	testing_y2h_v1	RRS
+663	14956	0.0	testing_y2h_v2	RRS
+693	8010	0.0	testing_y2h_v3	Lit_BM_13
+693	8010		testing_y2h_v1	Lit_BM_13
+693	8010		testing_y2h_v2	Lit_BM_13
+717	7442	0.0	testing_y2h_v3	RRS
+717	7442	0.0	testing_y2h_v1	RRS
+752	8578	0.0	testing_y2h_v3	RRS
+752	8578	0.0	testing_y2h_v1	RRS
+752	8578	0.0	testing_y2h_v2	RRS
+754	6314	0.0	testing_y2h_v3	RRS
+754	6314	0.0	testing_y2h_v1	RRS
+756	11706	0.0	testing_y2h_v3	Lit_BM_13
+756	11706	0.0	testing_y2h_v1	Lit_BM_13
+756	11706	0.0	testing_y2h_v2	Lit_BM_13
+939	4350	1.0	testing_y2h_v3	Lit_BM_13
+939	4350	1.0	testing_y2h_v1	Lit_BM_13
+939	4350	1.0	testing_y2h_v2	Lit_BM_13
+939	6319	1.0	testing_y2h_v1	test_space_y2h_v1
+939	6953	0.0	testing_y2h_v1	test_space_y2h_v1
+939	11746	1.0	testing_y2h_v1	test_space_y2h_v1
+961	3068		testing_y2h_v3	test_space_y2h_v3
+961	3568	0.0	testing_y2h_v2	test_space_y2h_v2
+961	4097	0.0	testing_y2h_v1	test_space_y2h_v1
+961	4516	0.0	testing_y2h_v1	test_space_y2h_v1
+961	7605	0.0	testing_y2h_v3	test_space_y2h_v3
+961	7682	0.0	testing_y2h_v1	test_space_y2h_v1
+961	8611	0.0	testing_y2h_v2	test_space_y2h_v2
+961	9637		testing_y2h_v1	test_space_y2h_v1
+961	10016		testing_y2h_v1	test_space_y2h_v1
+961	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+961	13067	0.0	testing_y2h_v2	test_space_y2h_v2
+961	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+961	100002625	0.0	testing_y2h_v1	test_space_y2h_v1
+1047	3598	0.0	testing_y2h_v1	test_space_y2h_v1
+1047	4350		testing_y2h_v3	test_space_y2h_v3
+1047	100002546		testing_y2h_v3	Lit_BM_13
+1047	100002546	0.0	testing_y2h_v1	Lit_BM_13
+1047	100002546	0.0	testing_y2h_v2	Lit_BM_13
+1102	6953	0.0	testing_y2h_v3	test_space_y2h_v3
+1102	8202	0.0	testing_y2h_v3	test_space_y2h_v3
+1106	3788	0.0	testing_y2h_v3	Lit_BM_13
+1106	3788	0.0	testing_y2h_v1	Lit_BM_13
+1106	3788	0.0	testing_y2h_v2	Lit_BM_13
+1124	1423	1.0	testing_y2h_v2	test_space_y2h_v2
+1124	2853	0.0	testing_y2h_v3	test_space_y2h_v3
+1124	11452		testing_y2h_v1	test_space_y2h_v1
+1124	11452		testing_y2h_v2	test_space_y2h_v2
+1124	11452		testing_y2h_v3	test_space_y2h_v3
+1124	55351	1.0	testing_y2h_v2	test_space_y2h_v2
+1152	6745	0.0	testing_y2h_v3	RRS
+1152	6745	0.0	testing_y2h_v1	RRS
+1152	6745	0.0	testing_y2h_v2	RRS
+1340	1700	0.0	testing_y2h_v3	RRS
+1340	1700	0.0	testing_y2h_v1	RRS
+1340	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+1353	53230	0.0	testing_y2h_v3	RRS
+1353	53230	0.0	testing_y2h_v1	RRS
+1353	53230	0.0	testing_y2h_v2	RRS
+1353	100009596	0.0	testing_y2h_v3	RRS
+1353	100009596	0.0	testing_y2h_v1	RRS
+1353	100009596	0.0	testing_y2h_v2	RRS
+1377	6007	0.0	testing_y2h_v3	RRS
+1377	6007	0.0	testing_y2h_v1	RRS
+1377	6007	0.0	testing_y2h_v2	RRS
+1420	7935		testing_y2h_v3	RRS
+1420	7935	0.0	testing_y2h_v1	RRS
+1420	9637		testing_y2h_v1	test_space_y2h_v1
+1429	4350	0.0	testing_y2h_v3	Lit_BM_13
+1429	4350	0.0	testing_y2h_v1	Lit_BM_13
+1429	4350	0.0	testing_y2h_v2	Lit_BM_13
+1460	14781	0.0	testing_y2h_v3	RRS
+1460	14781	0.0	testing_y2h_v1	RRS
+1460	14781	0.0	testing_y2h_v2	RRS
+1549	3585	1.0	testing_y2h_v1	test_space_y2h_v1
+1549	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+1549	14269	0.0	testing_y2h_v3	test_space_y2h_v3
+1564	4516	0.0	testing_y2h_v1	test_space_y2h_v1
+1564	9637	0.0	testing_y2h_v1	test_space_y2h_v1
+1580	3068	0.0	testing_y2h_v3	test_space_y2h_v3
+1715	7272	0.0	testing_y2h_v3	RRS
+1715	7272	0.0	testing_y2h_v1	RRS
+1715	7272	0.0	testing_y2h_v2	RRS
+1734	3068	0.0	testing_y2h_v3	test_space_y2h_v3
+1734	8202	0.0	testing_y2h_v3	test_space_y2h_v3
+1734	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+1734	52803	0.0	testing_y2h_v3	test_space_y2h_v3
+1749	53304	0.0	testing_y2h_v3	RRS
+1749	53304	0.0	testing_y2h_v1	RRS
+1749	53304	0.0	testing_y2h_v2	RRS
+1768	3214	0.0	testing_y2h_v1	test_space_y2h_v1
+1768	6306		testing_y2h_v3	test_space_y2h_v3
+1768	7244	0.0	testing_y2h_v3	RRS
+1768	7244	0.0	testing_y2h_v1	RRS
+1768	7244	0.0	testing_y2h_v2	RRS
+1768	7605	0.0	testing_y2h_v3	test_space_y2h_v3
+1768	7682	0.0	testing_y2h_v1	test_space_y2h_v1
+1768	10101	0.0	testing_y2h_v3	test_space_y2h_v3
+1768	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+1782	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+1846	4516	0.0	testing_y2h_v1	test_space_y2h_v1
+1846	7682	0.0	testing_y2h_v1	test_space_y2h_v1
+1846	9637		testing_y2h_v1	test_space_y2h_v1
+1846	10016		testing_y2h_v1	test_space_y2h_v1
+1846	11648	0.0	testing_y2h_v1	test_space_y2h_v1
+1846	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+1940	14646	0.0	testing_y2h_v1	test_space_y2h_v1
+1940	14646	0.0	testing_y2h_v2	test_space_y2h_v2
+1940	70773	0.0	testing_y2h_v3	RRS
+1940	70773	0.0	testing_y2h_v1	RRS
+1940	70773	0.0	testing_y2h_v2	RRS
+1944	6836	0.0	testing_y2h_v1	test_space_y2h_v1
+2158	14815	0.0	testing_y2h_v3	RRS
+2158	14815	0.0	testing_y2h_v1	RRS
+2161	56300		testing_y2h_v3	Lit_BM_13
+2161	56300	0.0	testing_y2h_v1	Lit_BM_13
+2161	56300	0.0	testing_y2h_v2	Lit_BM_13
+2161	56851		testing_y2h_v3	Lit_BM_13
+2161	56851	0.0	testing_y2h_v1	Lit_BM_13
+2161	56851	0.0	testing_y2h_v2	Lit_BM_13
+2239	9637		testing_y2h_v1	test_space_y2h_v1
+2239	11416	0.0	testing_y2h_v3	Lit_BM_13
+2239	11416	0.0	testing_y2h_v1	Lit_BM_13
+2239	11416	0.0	testing_y2h_v2	Lit_BM_13
+2239	53089	0.0	testing_y2h_v3	Lit_BM_13
+2239	53089	0.0	testing_y2h_v1	Lit_BM_13
+2239	53089	0.0	testing_y2h_v2	Lit_BM_13
+2265	8189	0.0	testing_y2h_v3	RRS
+2265	8189	0.0	testing_y2h_v1	RRS
+2403	8578	0.0	testing_y2h_v3	Lit_BM_13
+2403	8578	0.0	testing_y2h_v1	Lit_BM_13
+2403	8578	0.0	testing_y2h_v2	Lit_BM_13
+2462	12975	0.0	testing_y2h_v3	RRS
+2462	12975	0.0	testing_y2h_v1	RRS
+2483	7894		testing_y2h_v3	Lit_BM_13
+2483	7894	0.0	testing_y2h_v1	Lit_BM_13
+2483	7894	0.0	testing_y2h_v2	Lit_BM_13
+2538	2838	0.0	testing_y2h_v3	test_space_y2h_v3
+2538	3740		testing_y2h_v2	test_space_y2h_v2
+2538	5044	0.0	testing_y2h_v3	RRS
+2538	5044		testing_y2h_v1	RRS
+2538	5044		testing_y2h_v2	RRS
+2538	6446	0.0	testing_y2h_v3	test_space_y2h_v3
+2538	8001	0.0	testing_y2h_v3	test_space_y2h_v3
+2538	10773	0.0	testing_y2h_v3	test_space_y2h_v3
+2538	11362		testing_y2h_v3	test_space_y2h_v3
+2538	13641	0.0	testing_y2h_v3	test_space_y2h_v3
+2538	52707	0.0	testing_y2h_v3	test_space_y2h_v3
+2561	3425	0.0	testing_y2h_v3	Lit_BM_13
+2561	3425	0.0	testing_y2h_v1	Lit_BM_13
+2561	3425	0.0	testing_y2h_v2	Lit_BM_13
+2561	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+2597	14654		testing_y2h_v3	RRS
+2597	14654	0.0	testing_y2h_v1	RRS
+2655	6223	0.0	testing_y2h_v3	Lit_BM_13
+2655	6223	0.0	testing_y2h_v1	Lit_BM_13
+2655	6223	0.0	testing_y2h_v2	Lit_BM_13
+2687	3729	0.0	testing_y2h_v3	RRS
+2687	3729	0.0	testing_y2h_v1	RRS
+2687	3729	0.0	testing_y2h_v2	RRS
+2691	3598	0.0	testing_y2h_v1	test_space_y2h_v1
+2691	4616		testing_y2h_v1	test_space_y2h_v1
+2691	9846	0.0	testing_y2h_v1	test_space_y2h_v1
+2691	100000239	0.0	testing_y2h_v3	RRS
+2691	100000239	0.0	testing_y2h_v1	RRS
+2691	100000239	0.0	testing_y2h_v2	RRS
+2691	100010379	0.0	testing_y2h_v1	test_space_y2h_v1
+2701	53120	0.0	testing_y2h_v3	Lit_BM_13
+2701	53120	0.0	testing_y2h_v1	Lit_BM_13
+2701	53120	0.0	testing_y2h_v2	Lit_BM_13
+2724	3068	0.0	testing_y2h_v3	test_space_y2h_v3
+2741	7122		testing_y2h_v3	RRS
+2741	7122	0.0	testing_y2h_v1	RRS
+2741	100001929	0.0	testing_y2h_v3	RRS
+2741	100001929	0.0	testing_y2h_v1	RRS
+2767	13962	0.0	testing_y2h_v3	RRS
+2767	13962	0.0	testing_y2h_v1	RRS
+2786	2847	0.0	testing_y2h_v3	Lit_BM_13
+2786	2847	0.0	testing_y2h_v1	Lit_BM_13
+2786	2847	0.0	testing_y2h_v2	Lit_BM_13
+2786	7237	0.0	testing_y2h_v3	Lit_BM_13
+2786	7237	0.0	testing_y2h_v1	Lit_BM_13
+2786	7237	0.0	testing_y2h_v2	Lit_BM_13
+2796	8486	0.0	testing_y2h_v3	RRS
+2796	8486	0.0	testing_y2h_v1	RRS
+2796	8486	0.0	testing_y2h_v2	RRS
+2836	53949	0.0	testing_y2h_v3	test_space_y2h_v3
+2837	3068		testing_y2h_v3	test_space_y2h_v3
+2837	8459		testing_y2h_v3	test_space_y2h_v3
+2852	7878		testing_y2h_v3	test_space_y2h_v3
+2909	7511	0.0	testing_y2h_v3	RRS
+2909	7511	0.0	testing_y2h_v1	RRS
+2909	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+2909	100009545	0.0	testing_y2h_v3	test_space_y2h_v3
+2917	3464		testing_y2h_v2	test_space_y2h_v2
+2917	8349		testing_y2h_v3	test_space_y2h_v3
+2917	10016		testing_y2h_v2	test_space_y2h_v2
+2917	13662		testing_y2h_v1	test_space_y2h_v1
+2917	70794		testing_y2h_v3	test_space_y2h_v3
+2956	7723	0.0	testing_y2h_v3	RRS
+2956	7723	0.0	testing_y2h_v1	RRS
+2956	7723	0.0	testing_y2h_v2	RRS
+2958	4933	0.0	testing_y2h_v3	RRS
+2958	4933	0.0	testing_y2h_v1	RRS
+2966	3638	0.0	testing_y2h_v3	RRS
+2966	3638	0.0	testing_y2h_v1	RRS
+2966	6306	0.0	testing_y2h_v1	test_space_y2h_v1
+2966	7682	0.0	testing_y2h_v1	test_space_y2h_v1
+2966	9637		testing_y2h_v1	test_space_y2h_v1
+2966	10016		testing_y2h_v1	test_space_y2h_v1
+2966	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+2966	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+2966	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+2966	100002625	0.0	testing_y2h_v1	test_space_y2h_v1
+2989	6953	0.0	testing_y2h_v3	test_space_y2h_v3
+3013	11362	0.0	testing_y2h_v3	test_space_y2h_v3
+3038	13503	0.0	testing_y2h_v3	RRS
+3038	13503	0.0	testing_y2h_v1	RRS
+3038	53076		testing_y2h_v3	Lit_BM_13
+3038	53076	0.0	testing_y2h_v1	Lit_BM_13
+3038	53076	0.0	testing_y2h_v2	Lit_BM_13
+3046	9068	0.0	testing_y2h_v3	RRS
+3046	9068	0.0	testing_y2h_v1	RRS
+3046	9068	0.0	testing_y2h_v2	RRS
+3050	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+3065	56879	0.0	testing_y2h_v3	RRS
+3065	56879	0.0	testing_y2h_v1	RRS
+3065	56879	0.0	testing_y2h_v2	RRS
+3071	13210	0.0	testing_y2h_v3	RRS
+3071	13210	0.0	testing_y2h_v1	RRS
+3071	13210	0.0	testing_y2h_v2	RRS
+3071	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+3077	54180	0.0	testing_y2h_v3	Lit_BM_13
+3077	54180	0.0	testing_y2h_v1	Lit_BM_13
+3077	54180	0.0	testing_y2h_v2	Lit_BM_13
+3095	5745	0.0	testing_y2h_v3	RRS
+3095	5745	0.0	testing_y2h_v1	RRS
+3095	7081	0.0	testing_y2h_v1	test_space_y2h_v1
+3095	7081	0.0	testing_y2h_v2	test_space_y2h_v2
+3133	56492	0.0	testing_y2h_v1	test_space_y2h_v1
+3173	3399	0.0	testing_y2h_v3	Lit_BM_13
+3173	3399	0.0	testing_y2h_v1	Lit_BM_13
+3173	3399	0.0	testing_y2h_v2	Lit_BM_13
+3173	3788	1.0	testing_y2h_v3	Lit_BM_13
+3173	3788	1.0	testing_y2h_v1	Lit_BM_13
+3173	3788	1.0	testing_y2h_v2	Lit_BM_13
+3266	53064	0.0	testing_y2h_v3	RRS
+3266	53064	0.0	testing_y2h_v1	RRS
+3266	53064	0.0	testing_y2h_v2	RRS
+3299	7376	0.0	testing_y2h_v3	test_space_y2h_v3
+3299	52707	0.0	testing_y2h_v3	test_space_y2h_v3
+3353	6559	0.0	testing_y2h_v3	RRS
+3353	6559	0.0	testing_y2h_v1	RRS
+3511	3598	0.0	testing_y2h_v2	test_space_y2h_v2
+3511	7081	0.0	testing_y2h_v2	test_space_y2h_v2
+3587	4085	0.0	testing_y2h_v3	Lit_BM_13
+3587	4085	0.0	testing_y2h_v1	Lit_BM_13
+3587	4085	0.0	testing_y2h_v2	Lit_BM_13
+3587	8578	0.0	testing_y2h_v3	Lit_BM_13
+3587	8578	0.0	testing_y2h_v1	Lit_BM_13
+3587	8578	0.0	testing_y2h_v2	Lit_BM_13
+3600	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+3619	4040	0.0	testing_y2h_v3	test_space_y2h_v3
+3619	5370	0.0	testing_y2h_v1	test_space_y2h_v1
+3619	5370	0.0	testing_y2h_v2	test_space_y2h_v2
+3619	6068		testing_y2h_v3	test_space_y2h_v3
+3619	11089	0.0	testing_y2h_v3	test_space_y2h_v3
+3619	11362		testing_y2h_v3	test_space_y2h_v3
+3619	11816	0.0	testing_y2h_v2	test_space_y2h_v2
+3619	14524	0.0	testing_y2h_v3	test_space_y2h_v3
+3619	100010310	0.0	testing_y2h_v3	test_space_y2h_v3
+3620	8486	0.0	testing_y2h_v3	RRS
+3620	8486		testing_y2h_v1	RRS
+3620	8486		testing_y2h_v2	RRS
+3771	54095	0.0	testing_y2h_v3	RRS
+3771	54095	0.0	testing_y2h_v1	RRS
+3771	54095	0.0	testing_y2h_v2	RRS
+3772	7537	0.0	testing_y2h_v3	test_space_y2h_v3
+3772	13067	0.0	testing_y2h_v2	test_space_y2h_v2
+3798	7528		testing_y2h_v2	test_space_y2h_v2
+3805	52803	0.0	testing_y2h_v3	test_space_y2h_v3
+3859	70621	0.0	testing_y2h_v3	RRS
+3859	70621	0.0	testing_y2h_v1	RRS
+3859	70621	0.0	testing_y2h_v2	RRS
+3870	100015074		testing_y2h_v3	RRS
+3870	100015074	0.0	testing_y2h_v1	RRS
+3870	100015074	0.0	testing_y2h_v2	RRS
+3879	56932	0.0	testing_y2h_v3	Lit_BM_13
+3879	56932	0.0	testing_y2h_v1	Lit_BM_13
+3879	56932	0.0	testing_y2h_v2	Lit_BM_13
+3907	52955	0.0	testing_y2h_v3	Lit_BM_13
+3907	52955	0.0	testing_y2h_v1	Lit_BM_13
+3907	52955	0.0	testing_y2h_v2	Lit_BM_13
+3962	53120	0.0	testing_y2h_v3	Lit_BM_13
+3962	53120	0.0	testing_y2h_v1	Lit_BM_13
+3962	53120	0.0	testing_y2h_v2	Lit_BM_13
+3975	7959	0.0	testing_y2h_v3	Lit_BM_13
+3975	7959	0.0	testing_y2h_v1	Lit_BM_13
+3975	7959	0.0	testing_y2h_v2	Lit_BM_13
+3975	53120	0.0	testing_y2h_v3	Lit_BM_13
+3975	53120	0.0	testing_y2h_v1	Lit_BM_13
+3975	53120	0.0	testing_y2h_v2	Lit_BM_13
+3975	54069	0.0	testing_y2h_v3	RRS
+3975	54069	0.0	testing_y2h_v1	RRS
+3990	10543	0.0	testing_y2h_v3	RRS
+3990	10543	0.0	testing_y2h_v1	RRS
+3990	10543	0.0	testing_y2h_v2	RRS
+4042	5285	0.0	testing_y2h_v1	test_space_y2h_v1
+4042	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+4089	6717	0.0	testing_y2h_v3	test_space_y2h_v3
+4089	6932	0.0	testing_y2h_v2	test_space_y2h_v2
+4089	6932	0.0	testing_y2h_v3	test_space_y2h_v3
+4118	53120	0.0	testing_y2h_v3	Lit_BM_13
+4118	53120	0.0	testing_y2h_v1	Lit_BM_13
+4118	53120	0.0	testing_y2h_v2	Lit_BM_13
+4142	9637	0.0	testing_y2h_v3	Lit_BM_13
+4142	9637		testing_y2h_v1	Lit_BM_13
+4142	9637		testing_y2h_v2	Lit_BM_13
+4224	53524	1.0	testing_y2h_v2	test_space_y2h_v2
+4259	5868	0.0	testing_y2h_v2	test_space_y2h_v2
+4259	7682	0.0	testing_y2h_v1	test_space_y2h_v1
+4259	7954	0.0	testing_y2h_v1	test_space_y2h_v1
+4259	10016		testing_y2h_v1	test_space_y2h_v1
+4265	4687		testing_y2h_v3	Lit_BM_13
+4265	4687	0.0	testing_y2h_v1	Lit_BM_13
+4265	4687	0.0	testing_y2h_v2	Lit_BM_13
+4265	54172		testing_y2h_v3	Lit_BM_13
+4265	54172	1.0	testing_y2h_v1	Lit_BM_13
+4265	54172	1.0	testing_y2h_v2	Lit_BM_13
+4268	4695	0.0	testing_y2h_v2	test_space_y2h_v2
+4287	9286		testing_y2h_v3	RRS
+4287	9286	0.0	testing_y2h_v1	RRS
+4287	9286	0.0	testing_y2h_v2	RRS
+4309	6446	0.0	testing_y2h_v3	test_space_y2h_v3
+4309	13641		testing_y2h_v3	test_space_y2h_v3
+4359	7312	1.0	testing_y2h_v3	test_space_y2h_v3
+4359	13026	0.0	testing_y2h_v3	RRS
+4359	13026	0.0	testing_y2h_v1	RRS
+4384	5363	1.0	testing_y2h_v3	Lit_BM_13
+4384	5363	1.0	testing_y2h_v1	Lit_BM_13
+4384	5363	1.0	testing_y2h_v2	Lit_BM_13
+4384	6953	0.0	testing_y2h_v1	test_space_y2h_v1
+4417	9592	0.0	testing_y2h_v3	RRS
+4417	9592	0.0	testing_y2h_v1	RRS
+4417	9592	0.0	testing_y2h_v2	RRS
+4417	40080647	0.0	testing_y2h_v3	RRS
+4417	40080647	0.0	testing_y2h_v1	RRS
+4417	40080647	0.0	testing_y2h_v2	RRS
+4421	6231	0.0	testing_y2h_v2	test_space_y2h_v2
+4421	6446		testing_y2h_v3	test_space_y2h_v3
+4421	11816		testing_y2h_v2	test_space_y2h_v2
+4430	4516	0.0	testing_y2h_v1	test_space_y2h_v1
+4430	5897	1.0	testing_y2h_v1	test_space_y2h_v1
+4430	6325	0.0	testing_y2h_v3	RRS
+4430	6325	0.0	testing_y2h_v1	RRS
+4430	7804	0.0	testing_y2h_v1	test_space_y2h_v1
+4430	9068	0.0	testing_y2h_v3	test_space_y2h_v3
+4430	9637		testing_y2h_v1	test_space_y2h_v1
+4430	54491	1.0	testing_y2h_v3	test_space_y2h_v3
+4447	100000265	0.0	testing_y2h_v3	test_space_y2h_v3
+4584	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+4689	5942	0.0	testing_y2h_v1	test_space_y2h_v1
+4689	8028	0.0	testing_y2h_v1	test_space_y2h_v1
+4689	53120		testing_y2h_v3	Lit_BM_13
+4689	53120	0.0	testing_y2h_v1	Lit_BM_13
+4689	53120	0.0	testing_y2h_v2	Lit_BM_13
+4755	6319	0.0	testing_y2h_v1	test_space_y2h_v1
+4755	7258	0.0	testing_y2h_v1	test_space_y2h_v1
+4755	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+4775	6133		testing_y2h_v3	RRS
+4775	6133	0.0	testing_y2h_v1	RRS
+4775	6133	0.0	testing_y2h_v2	RRS
+4775	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+4781	6446	0.0	testing_y2h_v3	test_space_y2h_v3
+4781	9496		testing_y2h_v3	test_space_y2h_v3
+4781	14577	0.0	testing_y2h_v3	test_space_y2h_v3
+4781	100014765	0.0	testing_y2h_v3	RRS
+4781	100014765	0.0	testing_y2h_v1	RRS
+4781	100014765	0.0	testing_y2h_v2	RRS
+4792	5448	0.0	testing_y2h_v3	RRS
+4792	5448	0.0	testing_y2h_v1	RRS
+4792	11858	0.0	testing_y2h_v3	RRS
+4792	11858	0.0	testing_y2h_v1	RRS
+4795	7208	0.0	testing_y2h_v3	RRS
+4795	7208	0.0	testing_y2h_v1	RRS
+4795	7208	0.0	testing_y2h_v2	RRS
+4798	6710	0.0	testing_y2h_v3	test_space_y2h_v3
+4798	7081	0.0	testing_y2h_v2	test_space_y2h_v2
+4798	7320	0.0	testing_y2h_v2	test_space_y2h_v2
+4798	7404	1.0	testing_y2h_v2	test_space_y2h_v2
+4798	7555	0.0	testing_y2h_v2	test_space_y2h_v2
+4798	7605	0.0	testing_y2h_v3	test_space_y2h_v3
+4798	7682	0.0	testing_y2h_v1	test_space_y2h_v1
+4798	7954	0.0	testing_y2h_v1	test_space_y2h_v1
+4798	9422	1.0	testing_y2h_v2	test_space_y2h_v2
+4798	9637		testing_y2h_v1	test_space_y2h_v1
+4798	10016		testing_y2h_v1	test_space_y2h_v1
+4798	11396	0.0	testing_y2h_v3	test_space_y2h_v3
+4798	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+4798	13067	0.0	testing_y2h_v2	test_space_y2h_v2
+4798	13232	0.0	testing_y2h_v2	test_space_y2h_v2
+4798	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+4798	14269		testing_y2h_v3	test_space_y2h_v3
+4798	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+4798	52849	0.0	testing_y2h_v3	test_space_y2h_v3
+4798	54031		testing_y2h_v3	RRS
+4798	54031	0.0	testing_y2h_v1	RRS
+4798	54031	0.0	testing_y2h_v2	RRS
+4798	70794	0.0	testing_y2h_v3	test_space_y2h_v3
+4798	100000265	0.0	testing_y2h_v3	test_space_y2h_v3
+4798	100002218	0.0	testing_y2h_v1	test_space_y2h_v1
+4798	100011167	0.0	testing_y2h_v2	test_space_y2h_v2
+4810	13943	0.0	testing_y2h_v3	RRS
+4810	13943	0.0	testing_y2h_v1	RRS
+4810	13943	0.0	testing_y2h_v2	RRS
+4828	8578	0.0	testing_y2h_v3	Lit_BM_13
+4828	8578	0.0	testing_y2h_v1	Lit_BM_13
+4828	8578	0.0	testing_y2h_v2	Lit_BM_13
+4840	7555		testing_y2h_v3	RRS
+4840	7555	0.0	testing_y2h_v1	RRS
+4840	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+4854	100002625	0.0	testing_y2h_v1	test_space_y2h_v1
+4862	6427	0.0	testing_y2h_v3	test_space_y2h_v3
+4862	7408	0.0	testing_y2h_v3	test_space_y2h_v3
+4862	9496		testing_y2h_v3	test_space_y2h_v3
+4884	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+4922	11328	0.0	testing_y2h_v3	RRS
+4922	11328	0.0	testing_y2h_v1	RRS
+4955	6778	0.0	testing_y2h_v1	test_space_y2h_v1
+4955	6953	0.0	testing_y2h_v1	test_space_y2h_v1
+4955	10016		testing_y2h_v1	test_space_y2h_v1
+4955	100000239	0.0	testing_y2h_v3	test_space_y2h_v3
+4955	100010307	1.0	testing_y2h_v1	test_space_y2h_v1
+4979	7556	0.0	testing_y2h_v3	RRS
+4979	7556	0.0	testing_y2h_v1	RRS
+5066	6708	1.0	testing_y2h_v3	test_space_y2h_v3
+5066	7404	0.0	testing_y2h_v2	test_space_y2h_v2
+5066	9650	0.0	testing_y2h_v2	test_space_y2h_v2
+5066	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+5066	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+5066	55351	0.0	testing_y2h_v1	test_space_y2h_v1
+5090	14722	0.0	testing_y2h_v3	RRS
+5090	14722	0.0	testing_y2h_v1	RRS
+5119	7081	0.0	testing_y2h_v1	test_space_y2h_v1
+5119	55313	0.0	testing_y2h_v3	test_space_y2h_v3
+5126	7108	0.0	testing_y2h_v3	Lit_BM_13
+5126	7108	0.0	testing_y2h_v1	Lit_BM_13
+5126	7108	0.0	testing_y2h_v2	Lit_BM_13
+5126	7933	1.0	testing_y2h_v1	test_space_y2h_v1
+5126	7933	1.0	testing_y2h_v3	Lit_BM_13
+5126	7933	1.0	testing_y2h_v1	Lit_BM_13
+5126	7933	1.0	testing_y2h_v2	Lit_BM_13
+5231	9846	1.0	testing_y2h_v1	test_space_y2h_v1
+5231	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+5231	100002626	0.0	testing_y2h_v3	Lit_BM_13
+5231	100002626	0.0	testing_y2h_v1	Lit_BM_13
+5231	100002626	0.0	testing_y2h_v2	Lit_BM_13
+5294	9630	0.0	testing_y2h_v3	RRS
+5294	9630	0.0	testing_y2h_v1	RRS
+5294	9630	0.0	testing_y2h_v2	RRS
+5294	11756	0.0	testing_y2h_v3	RRS
+5294	11756	0.0	testing_y2h_v1	RRS
+5294	11756	0.0	testing_y2h_v2	RRS
+5373	11830	0.0	testing_y2h_v3	Lit_BM_13
+5373	11830	0.0	testing_y2h_v1	Lit_BM_13
+5373	11830	0.0	testing_y2h_v2	Lit_BM_13
+5439	6314		testing_y2h_v2	test_space_y2h_v2
+5439	6314	1.0	testing_y2h_v3	test_space_y2h_v3
+5439	10016		testing_y2h_v1	test_space_y2h_v1
+5439	11777	0.0	testing_y2h_v3	test_space_y2h_v3
+5439	12927	0.0	testing_y2h_v3	test_space_y2h_v3
+5439	13662		testing_y2h_v1	test_space_y2h_v1
+5439	14269	0.0	testing_y2h_v3	test_space_y2h_v3
+5439	100002218		testing_y2h_v1	test_space_y2h_v1
+5457	6722	0.0	testing_y2h_v3	RRS
+5457	6722	0.0	testing_y2h_v1	RRS
+5458	11411		testing_y2h_v3	RRS
+5458	11411	0.0	testing_y2h_v1	RRS
+5458	11411	0.0	testing_y2h_v2	RRS
+5471	7112	0.0	testing_y2h_v3	RRS
+5471	7112	0.0	testing_y2h_v1	RRS
+5471	100011242		testing_y2h_v3	RRS
+5471	100011242	0.0	testing_y2h_v1	RRS
+5471	100011242	0.0	testing_y2h_v2	RRS
+5492	6446		testing_y2h_v3	test_space_y2h_v3
+5492	8001		testing_y2h_v3	test_space_y2h_v3
+5492	52707		testing_y2h_v3	test_space_y2h_v3
+5511	14956	0.0	testing_y2h_v3	Lit_BM_13
+5511	14956	0.0	testing_y2h_v1	Lit_BM_13
+5511	14956	0.0	testing_y2h_v2	Lit_BM_13
+5538	6326		testing_y2h_v3	test_space_y2h_v3
+5538	6932	0.0	testing_y2h_v2	test_space_y2h_v2
+5538	6932	0.0	testing_y2h_v3	test_space_y2h_v3
+5564	11648	0.0	testing_y2h_v1	test_space_y2h_v1
+5564	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+5564	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+5629	100002197	0.0	testing_y2h_v3	RRS
+5629	100002197	0.0	testing_y2h_v1	RRS
+5645	9496	0.0	testing_y2h_v3	test_space_y2h_v3
+5821	6446	0.0	testing_y2h_v3	test_space_y2h_v3
+5826	6660	0.0	testing_y2h_v3	Lit_BM_13
+5826	6660	0.0	testing_y2h_v1	Lit_BM_13
+5826	6660	0.0	testing_y2h_v2	Lit_BM_13
+5834	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+5888	56864	0.0	testing_y2h_v2	test_space_y2h_v2
+5916	6932	0.0	testing_y2h_v3	test_space_y2h_v3
+5916	7564	0.0	testing_y2h_v1	test_space_y2h_v1
+5916	8876	0.0	testing_y2h_v3	test_space_y2h_v3
+5916	11648	0.0	testing_y2h_v1	test_space_y2h_v1
+5916	40080841	0.0	testing_y2h_v3	RRS
+5916	40080841	0.0	testing_y2h_v1	RRS
+5916	40080841	0.0	testing_y2h_v2	RRS
+5916	100010412	0.0	testing_y2h_v3	RRS
+5916	100010412	0.0	testing_y2h_v1	RRS
+5944	6778	0.0	testing_y2h_v1	test_space_y2h_v1
+5944	7804	0.0	testing_y2h_v1	test_space_y2h_v1
+5951	6671	0.0	testing_y2h_v3	RRS
+5951	6671	0.0	testing_y2h_v1	RRS
+5974	11338	0.0	testing_y2h_v2	test_space_y2h_v2
+5995	13067	0.0	testing_y2h_v3	RRS
+5995	13067	0.0	testing_y2h_v1	RRS
+6043	7804	0.0	testing_y2h_v1	test_space_y2h_v1
+6119	70343	0.0	testing_y2h_v3	RRS
+6119	70343		testing_y2h_v1	RRS
+6119	70343		testing_y2h_v2	RRS
+6119	100002625		testing_y2h_v1	test_space_y2h_v1
+6138	100064145	0.0	testing_y2h_v1	test_space_y2h_v1
+6142	53609	0.0	testing_y2h_v3	RRS
+6142	53609	0.0	testing_y2h_v1	RRS
+6142	53609	0.0	testing_y2h_v2	RRS
+6166	11797	0.0	testing_y2h_v3	RRS
+6166	11797	0.0	testing_y2h_v1	RRS
+6166	11797	0.0	testing_y2h_v2	RRS
+6225	6446	0.0	testing_y2h_v3	test_space_y2h_v3
+6225	7408	0.0	testing_y2h_v3	test_space_y2h_v3
+6225	52686	0.0	testing_y2h_v3	test_space_y2h_v3
+6225	52707	0.0	testing_y2h_v3	test_space_y2h_v3
+6249	53131	0.0	testing_y2h_v3	RRS
+6249	53131	0.0	testing_y2h_v1	RRS
+6292	7081	0.0	testing_y2h_v1	test_space_y2h_v1
+6292	11746	1.0	testing_y2h_v1	test_space_y2h_v1
+6292	53792		testing_y2h_v3	RRS
+6292	53792	1.0	testing_y2h_v1	RRS
+6292	53792	1.0	testing_y2h_v2	RRS
+6356	6953	0.0	testing_y2h_v3	test_space_y2h_v3
+6356	9637		testing_y2h_v1	test_space_y2h_v1
+6356	10016		testing_y2h_v1	test_space_y2h_v1
+6364	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+6448	8665	0.0	testing_y2h_v3	Lit_BM_13
+6448	8665	0.0	testing_y2h_v1	Lit_BM_13
+6448	8665	0.0	testing_y2h_v2	Lit_BM_13
+6466	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+6490	100000239	0.0	testing_y2h_v3	RRS
+6490	100000239	0.0	testing_y2h_v1	RRS
+6490	100000239	0.0	testing_y2h_v2	RRS
+6512	9693	0.0	testing_y2h_v3	Lit_BM_13
+6512	9693	0.0	testing_y2h_v1	Lit_BM_13
+6512	9693	0.0	testing_y2h_v2	Lit_BM_13
+6515	56883	0.0	testing_y2h_v3	RRS
+6515	56883	0.0	testing_y2h_v1	RRS
+6615	6950	0.0	testing_y2h_v3	RRS
+6615	6950	0.0	testing_y2h_v1	RRS
+6616	6671	0.0	testing_y2h_v3	Lit_BM_13
+6616	6671	0.0	testing_y2h_v1	Lit_BM_13
+6616	6671	0.0	testing_y2h_v2	Lit_BM_13
+6616	6953	0.0	testing_y2h_v3	test_space_y2h_v3
+6616	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+6616	53277	0.0	testing_y2h_v3	Lit_BM_13
+6616	53277	0.0	testing_y2h_v1	Lit_BM_13
+6616	53277	0.0	testing_y2h_v2	Lit_BM_13
+6644	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+6644	56492	0.0	testing_y2h_v1	test_space_y2h_v1
+6755	53004	0.0	testing_y2h_v3	test_space_y2h_v3
+6763	53130	0.0	testing_y2h_v3	RRS
+6763	53130	0.0	testing_y2h_v1	RRS
+6776	10101	0.0	testing_y2h_v3	test_space_y2h_v3
+6776	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+6776	13067	0.0	testing_y2h_v2	test_space_y2h_v2
+6776	13067	0.0	testing_y2h_v3	test_space_y2h_v3
+6776	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+6795	70334	0.0	testing_y2h_v3	test_space_y2h_v3
+6804	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+6863	13004	0.0	testing_y2h_v3	RRS
+6863	13004	0.0	testing_y2h_v1	RRS
+6863	13004	0.0	testing_y2h_v2	RRS
+6895	70334	0.0	testing_y2h_v3	test_space_y2h_v3
+6904	100009631	0.0	testing_y2h_v3	test_space_y2h_v3
+6921	11733	0.0	testing_y2h_v1	test_space_y2h_v1
+6921	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+6921	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+6923	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+6983	7301	0.0	testing_y2h_v1	test_space_y2h_v1
+6983	9453	0.0	testing_y2h_v2	test_space_y2h_v2
+6983	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+6983	100010307	1.0	testing_y2h_v1	test_space_y2h_v1
+7062	7847	0.0	testing_y2h_v3	Lit_BM_13
+7062	7847	0.0	testing_y2h_v1	Lit_BM_13
+7062	7847	0.0	testing_y2h_v2	Lit_BM_13
+7073	13270	0.0	testing_y2h_v3	RRS
+7073	13270	0.0	testing_y2h_v1	RRS
+7105	7108	0.0	testing_y2h_v3	Lit_BM_13
+7105	7108	0.0	testing_y2h_v1	Lit_BM_13
+7105	7108	0.0	testing_y2h_v2	Lit_BM_13
+7138	14524		testing_y2h_v3	test_space_y2h_v3
+7138	52686	0.0	testing_y2h_v3	test_space_y2h_v3
+7147	9637		testing_y2h_v1	test_space_y2h_v1
+7147	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+7147	13662	1.0	testing_y2h_v2	test_space_y2h_v2
+7147	100064145	0.0	testing_y2h_v1	test_space_y2h_v1
+7196	7541	0.0	testing_y2h_v3	RRS
+7196	7541	0.0	testing_y2h_v1	RRS
+7196	55579	0.0	testing_y2h_v3	RRS
+7196	55579	0.0	testing_y2h_v1	RRS
+7196	55579	0.0	testing_y2h_v2	RRS
+7196	100000237	0.0	testing_y2h_v3	RRS
+7196	100000237	0.0	testing_y2h_v1	RRS
+7214	54172	0.0	testing_y2h_v3	Lit_BM_13
+7214	54172	0.0	testing_y2h_v1	Lit_BM_13
+7214	54172	0.0	testing_y2h_v2	Lit_BM_13
+7323	7408		testing_y2h_v3	test_space_y2h_v3
+7323	11089		testing_y2h_v3	test_space_y2h_v3
+7323	11381		testing_y2h_v3	test_space_y2h_v3
+7323	14525		testing_y2h_v3	test_space_y2h_v3
+7323	14596		testing_y2h_v2	test_space_y2h_v2
+7339	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+7354	53568	0.0	testing_y2h_v3	RRS
+7354	53568	0.0	testing_y2h_v1	RRS
+7372	8010		testing_y2h_v3	Lit_BM_13
+7372	8010		testing_y2h_v1	Lit_BM_13
+7372	8010		testing_y2h_v2	Lit_BM_13
+7372	8886		testing_y2h_v3	Lit_BM_13
+7372	8886		testing_y2h_v1	Lit_BM_13
+7372	8886		testing_y2h_v2	Lit_BM_13
+7372	12865	0.0	testing_y2h_v3	Lit_BM_13
+7372	12865	0.0	testing_y2h_v1	Lit_BM_13
+7372	12865	0.0	testing_y2h_v2	Lit_BM_13
+7372	56932		testing_y2h_v3	Lit_BM_13
+7372	56932		testing_y2h_v1	Lit_BM_13
+7372	56932		testing_y2h_v2	Lit_BM_13
+7569	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+7684	14643	0.0	testing_y2h_v3	Lit_BM_13
+7684	14643	0.0	testing_y2h_v1	Lit_BM_13
+7684	14643	0.0	testing_y2h_v2	Lit_BM_13
+7985	9194	0.0	testing_y2h_v3	RRS
+7985	9194	0.0	testing_y2h_v1	RRS
+7985	9194	0.0	testing_y2h_v2	RRS
+8110	40080652	0.0	testing_y2h_v2	test_space_y2h_v2
+8167	100014472	0.0	testing_y2h_v3	RRS
+8167	100014472	0.0	testing_y2h_v1	RRS
+8232	11709	0.0	testing_y2h_v3	Lit_BM_13
+8232	11709	0.0	testing_y2h_v1	Lit_BM_13
+8232	11709	0.0	testing_y2h_v2	Lit_BM_13
+8282	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+8282	56492	0.0	testing_y2h_v1	test_space_y2h_v1
+8316	8407	1.0	testing_y2h_v3	Lit_BM_13
+8316	8407	1.0	testing_y2h_v1	Lit_BM_13
+8316	8407	1.0	testing_y2h_v2	Lit_BM_13
+8316	100008214	0.0	testing_y2h_v3	Lit_BM_13
+8316	100008214	0.0	testing_y2h_v1	Lit_BM_13
+8316	100008214	0.0	testing_y2h_v2	Lit_BM_13
+8365	11746	0.0	testing_y2h_v1	test_space_y2h_v1
+8365	14269		testing_y2h_v3	test_space_y2h_v3
+8367	12865	0.0	testing_y2h_v3	Lit_BM_13
+8367	12865	0.0	testing_y2h_v1	Lit_BM_13
+8367	12865	0.0	testing_y2h_v2	Lit_BM_13
+8367	56492	0.0	testing_y2h_v3	Lit_BM_13
+8367	56492	0.0	testing_y2h_v1	Lit_BM_13
+8367	56492	0.0	testing_y2h_v2	Lit_BM_13
+8369	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+8382	11713	0.0	testing_y2h_v3	RRS
+8382	11713	0.0	testing_y2h_v1	RRS
+8384	53191	0.0	testing_y2h_v3	RRS
+8384	53191	0.0	testing_y2h_v1	RRS
+8400	9157	1.0	testing_y2h_v2	test_space_y2h_v2
+8400	9637		testing_y2h_v1	test_space_y2h_v1
+8400	10016		testing_y2h_v1	test_space_y2h_v1
+8400	13067	0.0	testing_y2h_v2	test_space_y2h_v2
+8400	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+8400	13662	1.0	testing_y2h_v2	test_space_y2h_v2
+8400	14498	0.0	testing_y2h_v2	test_space_y2h_v2
+8400	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+8400	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+8400	54317	0.0	testing_y2h_v3	RRS
+8400	54317	0.0	testing_y2h_v1	RRS
+8400	56492	0.0	testing_y2h_v1	test_space_y2h_v1
+8400	70504	0.0	testing_y2h_v3	test_space_y2h_v3
+8400	100002218	1.0	testing_y2h_v1	test_space_y2h_v1
+8400	100009545	0.0	testing_y2h_v3	test_space_y2h_v3
+8400	100011205	0.0	testing_y2h_v2	test_space_y2h_v2
+8409	12865	0.0	testing_y2h_v3	Lit_BM_13
+8409	12865	0.0	testing_y2h_v1	Lit_BM_13
+8409	12865	0.0	testing_y2h_v2	Lit_BM_13
+8456	100002625	0.0	testing_y2h_v3	RRS
+8456	100002625	0.0	testing_y2h_v1	RRS
+8470	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+8471	11570	0.0	testing_y2h_v3	RRS
+8471	11570	0.0	testing_y2h_v1	RRS
+8471	11570	0.0	testing_y2h_v2	RRS
+8479	10016		testing_y2h_v1	test_space_y2h_v1
+8479	12833	0.0	testing_y2h_v3	RRS
+8479	12833	0.0	testing_y2h_v1	RRS
+8479	12833	0.0	testing_y2h_v2	RRS
+8479	14269	0.0	testing_y2h_v3	test_space_y2h_v3
+8500	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+8717	9637		testing_y2h_v1	test_space_y2h_v1
+9124	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+9124	100002530		testing_y2h_v3	Lit_BM_13
+9124	100002530	0.0	testing_y2h_v1	Lit_BM_13
+9124	100002530	0.0	testing_y2h_v2	Lit_BM_13
+9236	9637		testing_y2h_v1	test_space_y2h_v1
+9236	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+9236	54665	0.0	testing_y2h_v2	test_space_y2h_v2
+9236	56492	0.0	testing_y2h_v1	test_space_y2h_v1
+9276	14536	0.0	testing_y2h_v3	RRS
+9276	14536	0.0	testing_y2h_v1	RRS
+9276	14536	0.0	testing_y2h_v2	RRS
+9333	100016081	0.0	testing_y2h_v3	RRS
+9333	100016081	0.0	testing_y2h_v1	RRS
+9354	52925	0.0	testing_y2h_v3	RRS
+9354	52925	0.0	testing_y2h_v1	RRS
+9354	52925	0.0	testing_y2h_v2	RRS
+9383	11452		testing_y2h_v3	test_space_y2h_v3
+9383	13053	0.0	testing_y2h_v2	test_space_y2h_v2
+9442	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+9640	11648	0.0	testing_y2h_v1	test_space_y2h_v1
+9640	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+9640	13067	0.0	testing_y2h_v2	test_space_y2h_v2
+9640	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+9640	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+9694	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+9733	11713	0.0	testing_y2h_v3	RRS
+9733	11713	0.0	testing_y2h_v1	RRS
+9733	100064145	0.0	testing_y2h_v1	test_space_y2h_v1
+9770	10016		testing_y2h_v1	test_space_y2h_v1
+9770	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+9770	13067	0.0	testing_y2h_v2	test_space_y2h_v2
+9770	100002218	0.0	testing_y2h_v1	test_space_y2h_v1
+9821	54123	0.0	testing_y2h_v3	RRS
+9821	54123	0.0	testing_y2h_v1	RRS
+9821	54123	0.0	testing_y2h_v2	RRS
+9967	54674	0.0	testing_y2h_v3	RRS
+9967	54674		testing_y2h_v1	RRS
+9967	70794		testing_y2h_v3	test_space_y2h_v3
+9999	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+9999	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+10034	11362	0.0	testing_y2h_v3	test_space_y2h_v3
+10034	14524	0.0	testing_y2h_v3	test_space_y2h_v3
+10034	100010310	0.0	testing_y2h_v3	test_space_y2h_v3
+10044	100000245	0.0	testing_y2h_v3	RRS
+10044	100000245	0.0	testing_y2h_v1	RRS
+10044	100000245	0.0	testing_y2h_v2	RRS
+10062	11706	0.0	testing_y2h_v3	Lit_BM_13
+10062	11706	0.0	testing_y2h_v1	Lit_BM_13
+10062	11706	0.0	testing_y2h_v2	Lit_BM_13
+10102	14818	0.0	testing_y2h_v3	RRS
+10102	14818	0.0	testing_y2h_v1	RRS
+10117	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+10117	55909	0.0	testing_y2h_v3	RRS
+10117	55909	0.0	testing_y2h_v1	RRS
+10138	11610	0.0	testing_y2h_v3	RRS
+10138	11610	0.0	testing_y2h_v1	RRS
+10140	14665	0.0	testing_y2h_v3	Lit_BM_13
+10140	14665	0.0	testing_y2h_v1	Lit_BM_13
+10140	14665	0.0	testing_y2h_v2	Lit_BM_13
+10140	52888	0.0	testing_y2h_v3	RRS
+10140	52888	0.0	testing_y2h_v1	RRS
+10144	53908	0.0	testing_y2h_v3	RRS
+10144	53908	0.0	testing_y2h_v1	RRS
+10144	53908	0.0	testing_y2h_v2	RRS
+10163	13227	0.0	testing_y2h_v1	test_space_y2h_v1
+10163	13227	0.0	testing_y2h_v3	Lit_BM_13
+10163	13227	0.0	testing_y2h_v1	Lit_BM_13
+10163	13227	0.0	testing_y2h_v2	Lit_BM_13
+10163	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+10163	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+10163	70794		testing_y2h_v3	test_space_y2h_v3
+10163	100002218	0.0	testing_y2h_v1	test_space_y2h_v1
+10201	13153	0.0	testing_y2h_v3	RRS
+10201	13153	0.0	testing_y2h_v1	RRS
+10201	13153	0.0	testing_y2h_v2	RRS
+10279	53776	0.0	testing_y2h_v3	RRS
+10279	53776	0.0	testing_y2h_v1	RRS
+10352	11452	0.0	testing_y2h_v3	test_space_y2h_v3
+10493	14705	0.0	testing_y2h_v3	RRS
+10493	14705	0.0	testing_y2h_v1	RRS
+10540	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+10568	13662		testing_y2h_v1	test_space_y2h_v1
+10573	13662		testing_y2h_v1	test_space_y2h_v1
+10596	54066		testing_y2h_v3	RRS
+10596	54066	0.0	testing_y2h_v1	RRS
+10596	54066	0.0	testing_y2h_v2	RRS
+10608	55351	0.0	testing_y2h_v1	test_space_y2h_v1
+10686	11733	0.0	testing_y2h_v1	test_space_y2h_v1
+10705	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+10705	100002625	0.0	testing_y2h_v1	test_space_y2h_v1
+10705	100011241	0.0	testing_y2h_v2	test_space_y2h_v2
+10711	13182	0.0	testing_y2h_v3	Lit_BM_13
+10711	13182	0.0	testing_y2h_v1	Lit_BM_13
+10711	13182	0.0	testing_y2h_v2	Lit_BM_13
+10810	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+10810	70077	0.0	testing_y2h_v3	RRS
+10810	70077	0.0	testing_y2h_v1	RRS
+10810	70077	0.0	testing_y2h_v2	RRS
+10821	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+10821	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+10837	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+10842	13662	1.0	testing_y2h_v1	test_space_y2h_v1
+10842	13832	0.0	testing_y2h_v2	test_space_y2h_v2
+10842	13832	0.0	testing_y2h_v3	test_space_y2h_v3
+10842	14501	0.0	testing_y2h_v3	test_space_y2h_v3
+10842	100011205	0.0	testing_y2h_v2	test_space_y2h_v2
+10842	100064145	0.0	testing_y2h_v1	test_space_y2h_v1
+10864	53776	0.0	testing_y2h_v3	RRS
+10864	53776	0.0	testing_y2h_v1	RRS
+10864	53776	0.0	testing_y2h_v2	RRS
+10864	40080652	0.0	testing_y2h_v2	test_space_y2h_v2
+10864	100002197	0.0	testing_y2h_v1	test_space_y2h_v1
+10876	54567	0.0	testing_y2h_v3	test_space_y2h_v3
+10959	100002181	0.0	testing_y2h_v3	RRS
+10959	100002181	0.0	testing_y2h_v1	RRS
+10959	100002181	0.0	testing_y2h_v2	RRS
+10996	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+11034	100001961	0.0	testing_y2h_v3	RRS
+11034	100001961	0.0	testing_y2h_v1	RRS
+11034	100001961	0.0	testing_y2h_v2	RRS
+11067	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+11067	13182		testing_y2h_v2	test_space_y2h_v2
+11067	13182	0.0	testing_y2h_v3	test_space_y2h_v3
+11067	14269		testing_y2h_v3	test_space_y2h_v3
+11067	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+11067	100011241	0.0	testing_y2h_v2	test_space_y2h_v2
+11100	14597	0.0	testing_y2h_v3	Lit_BM_13
+11100	14597	0.0	testing_y2h_v1	Lit_BM_13
+11100	14597	0.0	testing_y2h_v2	Lit_BM_13
+11100	56300	0.0	testing_y2h_v3	Lit_BM_13
+11100	56300	0.0	testing_y2h_v1	Lit_BM_13
+11100	56300	0.0	testing_y2h_v2	Lit_BM_13
+11100	40080641	0.0	testing_y2h_v3	Lit_BM_13
+11100	40080641	0.0	testing_y2h_v1	Lit_BM_13
+11100	40080641	0.0	testing_y2h_v2	Lit_BM_13
+11126	11362		testing_y2h_v3	test_space_y2h_v3
+11126	11816		testing_y2h_v2	test_space_y2h_v2
+11126	14525		testing_y2h_v3	test_space_y2h_v3
+11126	14577		testing_y2h_v3	test_space_y2h_v3
+11126	52686		testing_y2h_v3	test_space_y2h_v3
+11126	53609		testing_y2h_v3	test_space_y2h_v3
+11126	100010310		testing_y2h_v3	test_space_y2h_v3
+11126	100011253		testing_y2h_v3	test_space_y2h_v3
+11163	100002218	0.0	testing_y2h_v1	test_space_y2h_v1
+11165	11749		testing_y2h_v3	RRS
+11165	11749	0.0	testing_y2h_v1	RRS
+11200	100011191	0.0	testing_y2h_v3	Lit_BM_13
+11200	100011191	0.0	testing_y2h_v1	Lit_BM_13
+11200	100011191	0.0	testing_y2h_v2	Lit_BM_13
+11208	54172	0.0	testing_y2h_v3	Lit_BM_13
+11208	54172	0.0	testing_y2h_v1	Lit_BM_13
+11208	54172	0.0	testing_y2h_v2	Lit_BM_13
+11256	11749	0.0	testing_y2h_v3	Lit_BM_13
+11256	11749	0.0	testing_y2h_v1	Lit_BM_13
+11256	11749	0.0	testing_y2h_v2	Lit_BM_13
+11259	14524	0.0	testing_y2h_v3	test_space_y2h_v3
+11259	52686	0.0	testing_y2h_v3	test_space_y2h_v3
+11259	100016081		testing_y2h_v3	test_space_y2h_v3
+11260	100002625	0.0	testing_y2h_v1	test_space_y2h_v1
+11273	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+11300	13641	0.0	testing_y2h_v3	test_space_y2h_v3
+11300	56846		testing_y2h_v3	RRS
+11300	56846	0.0	testing_y2h_v1	RRS
+11325	14569	0.0	testing_y2h_v3	RRS
+11325	14569	0.0	testing_y2h_v1	RRS
+11325	14569	0.0	testing_y2h_v2	RRS
+11325	53120	0.0	testing_y2h_v3	Lit_BM_13
+11325	53120	0.0	testing_y2h_v1	Lit_BM_13
+11325	53120	0.0	testing_y2h_v2	Lit_BM_13
+11325	53882	0.0	testing_y2h_v3	RRS
+11325	53882	0.0	testing_y2h_v1	RRS
+11334	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+11334	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+11334	56492	0.0	testing_y2h_v1	test_space_y2h_v1
+11334	100002625	0.0	testing_y2h_v1	test_space_y2h_v1
+11341	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+11366	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+11373	14525	0.0	testing_y2h_v3	test_space_y2h_v3
+11374	100009540	0.0	testing_y2h_v3	RRS
+11374	100009540	0.0	testing_y2h_v1	RRS
+11407	53941	0.0	testing_y2h_v3	Lit_BM_13
+11407	53941	0.0	testing_y2h_v1	Lit_BM_13
+11407	53941	0.0	testing_y2h_v2	Lit_BM_13
+11410	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+11446	13503	0.0	testing_y2h_v3	RRS
+11446	13503	0.0	testing_y2h_v1	RRS
+11446	13503	0.0	testing_y2h_v2	RRS
+11448	70334	0.0	testing_y2h_v3	test_space_y2h_v3
+11549	13054		testing_y2h_v3	RRS
+11549	13054	0.0	testing_y2h_v1	RRS
+11560	11709	0.0	testing_y2h_v3	RRS
+11560	11709	0.0	testing_y2h_v1	RRS
+11567	56914	0.0	testing_y2h_v3	Lit_BM_13
+11567	56914	0.0	testing_y2h_v1	Lit_BM_13
+11567	56914	0.0	testing_y2h_v2	Lit_BM_13
+11589	13034	0.0	testing_y2h_v3	RRS
+11589	13034	0.0	testing_y2h_v1	RRS
+11589	13034	0.0	testing_y2h_v2	RRS
+11600	12865	0.0	testing_y2h_v3	Lit_BM_13
+11600	12865	0.0	testing_y2h_v1	Lit_BM_13
+11600	12865	0.0	testing_y2h_v2	Lit_BM_13
+11600	40080655	0.0	testing_y2h_v3	RRS
+11600	40080655	0.0	testing_y2h_v1	RRS
+11600	40080655	0.0	testing_y2h_v2	RRS
+11667	53089	0.0	testing_y2h_v3	RRS
+11667	53089	0.0	testing_y2h_v1	RRS
+11688	11709	0.0	testing_y2h_v1	test_space_y2h_v1
+11688	100064145	0.0	testing_y2h_v1	test_space_y2h_v1
+11707	11816	0.0	testing_y2h_v2	test_space_y2h_v2
+11707	13641	0.0	testing_y2h_v3	test_space_y2h_v3
+11707	14815	0.0	testing_y2h_v3	test_space_y2h_v3
+11723	12885	0.0	testing_y2h_v3	test_space_y2h_v3
+11723	14269	0.0	testing_y2h_v3	test_space_y2h_v3
+11723	14398	0.0	testing_y2h_v1	test_space_y2h_v1
+11723	54491	0.0	testing_y2h_v3	test_space_y2h_v3
+11723	100002174		testing_y2h_v1	test_space_y2h_v1
+11723	100002218	0.0	testing_y2h_v1	test_space_y2h_v1
+11723	100002625	0.0	testing_y2h_v1	test_space_y2h_v1
+11725	53120	0.0	testing_y2h_v3	RRS
+11725	53120		testing_y2h_v1	RRS
+11725	53120		testing_y2h_v2	RRS
+11738	12900	0.0	testing_y2h_v3	test_space_y2h_v3
+11738	13067		testing_y2h_v1	test_space_y2h_v1
+11738	13067		testing_y2h_v2	test_space_y2h_v2
+11738	13067	0.0	testing_y2h_v3	test_space_y2h_v3
+11738	54237	0.0	testing_y2h_v3	test_space_y2h_v3
+11743	11777	0.0	testing_y2h_v3	test_space_y2h_v3
+11743	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+11743	14269	0.0	testing_y2h_v3	test_space_y2h_v3
+11743	53004	0.0	testing_y2h_v3	test_space_y2h_v3
+11743	53960	0.0	testing_y2h_v3	Lit_BM_13
+11743	53960	0.0	testing_y2h_v1	Lit_BM_13
+11743	53960	0.0	testing_y2h_v2	Lit_BM_13
+11743	54237	0.0	testing_y2h_v3	test_space_y2h_v3
+11748	70334		testing_y2h_v3	test_space_y2h_v3
+11788	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+11788	13662	0.0	testing_y2h_v1	test_space_y2h_v1
+11788	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+11788	56492	0.0	testing_y2h_v1	test_space_y2h_v1
+11790	14983	0.0	testing_y2h_v1	test_space_y2h_v1
+11790	100002417	0.0	testing_y2h_v1	test_space_y2h_v1
+11790	100002417	1.0	testing_y2h_v3	test_space_y2h_v3
+11790	100002417	1.0	testing_y2h_v3	Lit_BM_13
+11790	100002417	0.0	testing_y2h_v1	Lit_BM_13
+11790	100002417	0.0	testing_y2h_v2	Lit_BM_13
+11805	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+11805	14735	0.0	testing_y2h_v3	Lit_BM_13
+11805	14735	0.0	testing_y2h_v1	Lit_BM_13
+11805	14735	0.0	testing_y2h_v2	Lit_BM_13
+11805	55704	0.0	testing_y2h_v3	Lit_BM_13
+11805	55704	0.0	testing_y2h_v1	Lit_BM_13
+11805	55704	0.0	testing_y2h_v2	Lit_BM_13
+11805	56861	0.0	testing_y2h_v3	Lit_BM_13
+11805	56861	0.0	testing_y2h_v1	Lit_BM_13
+11805	56861	0.0	testing_y2h_v2	Lit_BM_13
+11817	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+11817	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+11817	53541	0.0	testing_y2h_v3	test_space_y2h_v3
+11817	53877	0.0	testing_y2h_v3	test_space_y2h_v3
+11817	100002625	0.0	testing_y2h_v1	test_space_y2h_v1
+11818	52707	0.0	testing_y2h_v3	test_space_y2h_v3
+11818	40080652	0.0	testing_y2h_v2	test_space_y2h_v2
+11837	56851	0.0	testing_y2h_v3	Lit_BM_13
+11837	56851	0.0	testing_y2h_v1	Lit_BM_13
+11837	56851	0.0	testing_y2h_v2	Lit_BM_13
+11895	13067	0.0	testing_y2h_v1	test_space_y2h_v1
+11895	100002218	1.0	testing_y2h_v1	test_space_y2h_v1
+11895	100009545	0.0	testing_y2h_v3	test_space_y2h_v3
+12123	54665	0.0	testing_y2h_v2	test_space_y2h_v2
+12123	56492	0.0	testing_y2h_v1	test_space_y2h_v1
+12188	14398	0.0	testing_y2h_v1	test_space_y2h_v1
+12188	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+12188	55351	0.0	testing_y2h_v1	test_space_y2h_v1
+12188	100002417	0.0	testing_y2h_v3	RRS
+12188	100002417	0.0	testing_y2h_v1	RRS
+12289	100015474	0.0	testing_y2h_v3	RRS
+12289	100015474	0.0	testing_y2h_v1	RRS
+12289	100015474	0.0	testing_y2h_v2	RRS
+12304	54567		testing_y2h_v3	RRS
+12304	54567		testing_y2h_v1	RRS
+12304	54567		testing_y2h_v2	RRS
+12317	13530	0.0	testing_y2h_v2	test_space_y2h_v2
+12317	56932	0.0	testing_y2h_v3	Lit_BM_13
+12317	56932	0.0	testing_y2h_v1	Lit_BM_13
+12317	56932	0.0	testing_y2h_v2	Lit_BM_13
+12368	14524		testing_y2h_v3	test_space_y2h_v3
+12368	14525		testing_y2h_v3	test_space_y2h_v3
+12368	14577		testing_y2h_v3	test_space_y2h_v3
+12368	14596		testing_y2h_v2	test_space_y2h_v2
+12368	52686		testing_y2h_v3	test_space_y2h_v3
+12368	40080652		testing_y2h_v2	test_space_y2h_v2
+12522	40080653		testing_y2h_v3	RRS
+12522	40080653	0.0	testing_y2h_v1	RRS
+12522	40080653	0.0	testing_y2h_v2	RRS
+12624	56492	0.0	testing_y2h_v1	test_space_y2h_v1
+12705	100064145	0.0	testing_y2h_v1	test_space_y2h_v1
+12733	12923	0.0	testing_y2h_v3	RRS
+12733	12923	0.0	testing_y2h_v1	RRS
+12733	12923	0.0	testing_y2h_v2	RRS
+12844	100000265	0.0	testing_y2h_v3	test_space_y2h_v3
+12894	14525		testing_y2h_v3	test_space_y2h_v3
+12894	14577		testing_y2h_v3	test_space_y2h_v3
+12894	52686		testing_y2h_v3	test_space_y2h_v3
+12894	52707		testing_y2h_v3	test_space_y2h_v3
+12894	100011253		testing_y2h_v3	test_space_y2h_v3
+12913	13298	1.0	testing_y2h_v2	test_space_y2h_v2
+12913	56630		testing_y2h_v3	RRS
+12913	56630	0.0	testing_y2h_v1	RRS
+12913	100002218	1.0	testing_y2h_v1	test_space_y2h_v1
+12915	100000279	0.0	testing_y2h_v3	RRS
+12915	100000279	0.0	testing_y2h_v1	RRS
+12915	100000279	0.0	testing_y2h_v2	RRS
+13046	53776	0.0	testing_y2h_v3	Lit_BM_13
+13046	53776	0.0	testing_y2h_v1	Lit_BM_13
+13046	53776	0.0	testing_y2h_v2	Lit_BM_13
+13071	14577	0.0	testing_y2h_v3	test_space_y2h_v3
+13112	55909		testing_y2h_v3	RRS
+13112	55909		testing_y2h_v1	RRS
+13119	100011238	0.0	testing_y2h_v3	Lit_BM_13
+13119	100011238	0.0	testing_y2h_v1	Lit_BM_13
+13119	100011238	0.0	testing_y2h_v2	Lit_BM_13
+13739	54573	0.0	testing_y2h_v3	RRS
+13739	54573	0.0	testing_y2h_v1	RRS
+14215	14862	0.0	testing_y2h_v1	test_space_y2h_v1
+14656	52670		testing_y2h_v3	RRS
+14656	52670		testing_y2h_v1	RRS
+52673	53104	0.0	testing_y2h_v3	RRS
+52673	53104	0.0	testing_y2h_v1	RRS
+52951	100011233	0.0	testing_y2h_v1	test_space_y2h_v1
+52987	100002174		testing_y2h_v1	test_space_y2h_v1
+52987	100002287	0.0	testing_y2h_v1	test_space_y2h_v1
+52993	56864		testing_y2h_v3	test_space_y2h_v3
+52993	70334		testing_y2h_v3	test_space_y2h_v3
+52993	100011233	0.0	testing_y2h_v1	test_space_y2h_v1
+53053	100000265	0.0	testing_y2h_v3	test_space_y2h_v3
+53053	100002218	0.0	testing_y2h_v1	test_space_y2h_v1
+53054	53941	0.0	testing_y2h_v3	Lit_BM_13
+53054	53941	0.0	testing_y2h_v1	Lit_BM_13
+53054	53941	0.0	testing_y2h_v2	Lit_BM_13
+53128	100010307	0.0	testing_y2h_v1	test_space_y2h_v1
+53135	54082	0.0	testing_y2h_v3	RRS
+53135	54082	0.0	testing_y2h_v1	RRS
+53156	54242	0.0	testing_y2h_v3	RRS
+53156	54242	0.0	testing_y2h_v1	RRS
+53339	100014472	0.0	testing_y2h_v1	test_space_y2h_v1
+53339	100014472	0.0	testing_y2h_v2	test_space_y2h_v2
+53726	53882	0.0	testing_y2h_v3	test_space_y2h_v3
+53726	55351	0.0	testing_y2h_v3	Lit_BM_13
+53726	55351	0.0	testing_y2h_v1	Lit_BM_13
+53726	55351	0.0	testing_y2h_v2	Lit_BM_13
+53726	40080746	0.0	testing_y2h_v3	Lit_BM_13
+53726	40080746	0.0	testing_y2h_v1	Lit_BM_13
+53726	40080746	0.0	testing_y2h_v2	Lit_BM_13
+54043	56492	0.0	testing_y2h_v1	test_space_y2h_v1
+54207	100010412	0.0	testing_y2h_v1	test_space_y2h_v1
+54230	100002552	0.0	testing_y2h_v3	RRS
+54230	100002552	0.0	testing_y2h_v1	RRS
+54354	54665	0.0	testing_y2h_v2	test_space_y2h_v2
+54354	100064145	0.0	testing_y2h_v1	test_space_y2h_v1
+54354	100064145	0.0	testing_y2h_v2	test_space_y2h_v2
+54579	40080652		testing_y2h_v2	test_space_y2h_v2
+54855	100064145	0.0	testing_y2h_v1	test_space_y2h_v1
+55029	55351	0.0	testing_y2h_v1	test_space_y2h_v1
+55254	55909	0.0	testing_y2h_v1	test_space_y2h_v1
+55254	56492	0.0	testing_y2h_v1	test_space_y2h_v1
+55599	40080837		testing_y2h_v3	RRS
+55599	40080837	0.0	testing_y2h_v1	RRS
+55599	40080837	0.0	testing_y2h_v2	RRS
+55666	100014560	1.0	testing_y2h_v3	RRS
+55666	100014560	0.0	testing_y2h_v1	RRS
+56479	100002218	1.0	testing_y2h_v1	test_space_y2h_v1
+70257	100001965	0.0	testing_y2h_v1	test_space_y2h_v1
+70257	100008214	0.0	testing_y2h_v2	test_space_y2h_v2
+70257	100008214	0.0	testing_y2h_v3	test_space_y2h_v3
+70423	40080652		testing_y2h_v2	test_space_y2h_v2
+70987	100002218	1.0	testing_y2h_v1	test_space_y2h_v1
+71126	100001965	0.0	testing_y2h_v1	test_space_y2h_v1
+71174	100002218		testing_y2h_v1	test_space_y2h_v1
+71245	100000245	0.0	testing_y2h_v3	RRS
+71245	100000245	0.0	testing_y2h_v1	RRS
+71258	100009545	0.0	testing_y2h_v3	test_space_y2h_v3
+71334	100010379	0.0	testing_y2h_v1	test_space_y2h_v1
+71415	40080747	0.0	testing_y2h_v1	test_space_y2h_v1
+71415	100072141	0.0	testing_y2h_v1	test_space_y2h_v1
+71771	40080641	0.0	testing_y2h_v3	Lit_BM_13
+71771	40080641	0.0	testing_y2h_v1	Lit_BM_13
+71771	40080641	0.0	testing_y2h_v2	Lit_BM_13
+71900	100002644	0.0	testing_y2h_v3	RRS
+71900	100002644	0.0	testing_y2h_v1	RRS
+100015265	100064145	1.0	testing_y2h_v1	test_space_y2h_v1
+100016209	100064145	0.0	testing_y2h_v1	test_space_y2h_v1
+100064144	100064145	0.0	testing_y2h_v1	test_space_y2h_v1
+3	10510	0.0	testing_y2h_v3	RRS
+3	10510	0.0	testing_y2h_v1	RRS
+3	10921	0.0	testing_y2h_v1	test_space_y2h_v1
+39	10891	0.0	testing_y2h_v1	test_space_y2h_v1
+67	3798	0.0	testing_y2h_v3	Lit_BM_13
+67	3798	0.0	testing_y2h_v1	Lit_BM_13
+67	3798	0.0	testing_y2h_v2	Lit_BM_13
+94	12894		testing_y2h_v3	test_space_y2h_v3
+96	11165		testing_y2h_v3	RRS
+96	11165	0.0	testing_y2h_v1	RRS
+96	11165	0.0	testing_y2h_v2	RRS
+136	3066	0.0	testing_y2h_v3	RRS
+136	3066	0.0	testing_y2h_v1	RRS
+136	3066	0.0	testing_y2h_v2	RRS
+137	5090		testing_y2h_v3	RRS
+137	5090	0.0	testing_y2h_v1	RRS
+137	10921	0.0	testing_y2h_v1	test_space_y2h_v1
+137	12894		testing_y2h_v1	test_space_y2h_v1
+137	71880	0.0	testing_y2h_v3	Lit_BM_13
+137	71880	0.0	testing_y2h_v1	Lit_BM_13
+137	71880	0.0	testing_y2h_v2	Lit_BM_13
+153	11259	0.0	testing_y2h_v2	test_space_y2h_v2
+179	11006	0.0	testing_y2h_v3	RRS
+179	11006	0.0	testing_y2h_v1	RRS
+193	4259	0.0	testing_y2h_v2	test_space_y2h_v2
+193	4430	0.0	testing_y2h_v3	test_space_y2h_v3
+193	11723	0.0	testing_y2h_v1	test_space_y2h_v1
+193	52993		testing_y2h_v3	test_space_y2h_v3
+193	54579		testing_y2h_v1	test_space_y2h_v1
+193	54699	0.0	testing_y2h_v3	test_space_y2h_v3
+193	71245	0.0	testing_y2h_v1	test_space_y2h_v1
+234	53378	0.0	testing_y2h_v3	RRS
+234	53378	0.0	testing_y2h_v1	RRS
+235	2687	0.0	testing_y2h_v3	RRS
+235	2687	0.0	testing_y2h_v1	RRS
+235	2687	0.0	testing_y2h_v2	RRS
+235	53675	0.0	testing_y2h_v3	test_space_y2h_v3
+236	10942	0.0	testing_y2h_v3	RRS
+236	10942	0.0	testing_y2h_v1	RRS
+236	11943	0.0	testing_y2h_v3	RRS
+236	11943	0.0	testing_y2h_v1	RRS
+263	2917		testing_y2h_v2	test_space_y2h_v2
+263	9733	0.0	testing_y2h_v2	test_space_y2h_v2
+273	54455	0.0	testing_y2h_v3	Lit_BM_13
+273	54455		testing_y2h_v1	Lit_BM_13
+273	54455		testing_y2h_v2	Lit_BM_13
+286	5294	0.0	testing_y2h_v2	test_space_y2h_v2
+286	5294	0.0	testing_y2h_v3	test_space_y2h_v3
+286	54632	0.0	testing_y2h_v3	test_space_y2h_v3
+286	56140	1.0	testing_y2h_v3	test_space_y2h_v3
+307	100015548		testing_y2h_v3	RRS
+307	100015548	0.0	testing_y2h_v1	RRS
+307	100015548	0.0	testing_y2h_v2	RRS
+325	100015572		testing_y2h_v3	RRS
+325	100015572	0.0	testing_y2h_v1	RRS
+349	71064	0.0	testing_y2h_v3	RRS
+349	71064	0.0	testing_y2h_v1	RRS
+349	71064	0.0	testing_y2h_v2	RRS
+376	71300		testing_y2h_v3	RRS
+376	71300	0.0	testing_y2h_v1	RRS
+376	71300	0.0	testing_y2h_v2	RRS
+399	10576	1.0	testing_y2h_v3	Lit_BM_13
+399	10576	0.0	testing_y2h_v1	Lit_BM_13
+399	10576	0.0	testing_y2h_v2	Lit_BM_13
+399	10823	1.0	testing_y2h_v1	test_space_y2h_v1
+399	10823		testing_y2h_v3	test_space_y2h_v3
+399	10823		testing_y2h_v3	Lit_BM_13
+399	10823	1.0	testing_y2h_v1	Lit_BM_13
+399	10823	1.0	testing_y2h_v2	Lit_BM_13
+412	52685	0.0	testing_y2h_v3	RRS
+412	52685	0.0	testing_y2h_v1	RRS
+412	52685	0.0	testing_y2h_v2	RRS
+451	54703	0.0	testing_y2h_v3	RRS
+451	54703	0.0	testing_y2h_v1	RRS
+493	4384	0.0	testing_y2h_v3	Lit_BM_13
+493	4384	0.0	testing_y2h_v1	Lit_BM_13
+493	4384	0.0	testing_y2h_v2	Lit_BM_13
+493	52987		testing_y2h_v3	Lit_BM_13
+493	52987	0.0	testing_y2h_v1	Lit_BM_13
+493	52987	0.0	testing_y2h_v2	Lit_BM_13
+503	4265	0.0	testing_y2h_v3	Lit_BM_13
+503	4265	0.0	testing_y2h_v1	Lit_BM_13
+503	4265	0.0	testing_y2h_v2	Lit_BM_13
+503	10497	0.0	testing_y2h_v3	Lit_BM_13
+503	10497	0.0	testing_y2h_v1	Lit_BM_13
+503	10497	0.0	testing_y2h_v2	Lit_BM_13
+503	11208	0.0	testing_y2h_v3	Lit_BM_13
+503	11208	0.0	testing_y2h_v1	Lit_BM_13
+503	11208	0.0	testing_y2h_v2	Lit_BM_13
+503	11940	0.0	testing_y2h_v3	RRS
+503	11940	0.0	testing_y2h_v1	RRS
+503	11940	0.0	testing_y2h_v2	RRS
+503	71301	0.0	testing_y2h_v1	test_space_y2h_v1
+535	71086	0.0	testing_y2h_v3	RRS
+535	71086	0.0	testing_y2h_v1	RRS
+535	71086	0.0	testing_y2h_v2	RRS
+549	961		testing_y2h_v2	test_space_y2h_v2
+549	2917		testing_y2h_v3	RRS
+549	2917		testing_y2h_v1	RRS
+549	4089		testing_y2h_v1	test_space_y2h_v1
+549	4089		testing_y2h_v2	test_space_y2h_v2
+549	5538	0.0	testing_y2h_v3	test_space_y2h_v3
+549	5916		testing_y2h_v2	test_space_y2h_v2
+549	5974	0.0	testing_y2h_v3	test_space_y2h_v3
+549	6292		testing_y2h_v2	test_space_y2h_v2
+549	7339		testing_y2h_v2	test_space_y2h_v2
+549	7339	0.0	testing_y2h_v3	test_space_y2h_v3
+549	9770		testing_y2h_v2	test_space_y2h_v2
+549	10608	1.0	testing_y2h_v3	test_space_y2h_v3
+549	10864		testing_y2h_v2	test_space_y2h_v2
+549	10876		testing_y2h_v3	test_space_y2h_v3
+549	11738		testing_y2h_v2	test_space_y2h_v2
+549	11751	0.0	testing_y2h_v3	test_space_y2h_v3
+549	12064		testing_y2h_v2	test_space_y2h_v2
+549	13003		testing_y2h_v2	test_space_y2h_v2
+549	13142		testing_y2h_v2	test_space_y2h_v2
+549	52951		testing_y2h_v2	test_space_y2h_v2
+549	55282		testing_y2h_v2	test_space_y2h_v2
+549	71201	0.0	testing_y2h_v3	test_space_y2h_v3
+549	100015985		testing_y2h_v2	test_space_y2h_v2
+549	100016215		testing_y2h_v3	test_space_y2h_v3
+562	3233	0.0	testing_y2h_v3	RRS
+562	3233	0.0	testing_y2h_v1	RRS
+574	8282	0.0	testing_y2h_v3	RRS
+574	8282	0.0	testing_y2h_v1	RRS
+574	8282	0.0	testing_y2h_v2	RRS
+581	5294	0.0	testing_y2h_v1	test_space_y2h_v1
+581	6795	0.0	testing_y2h_v1	test_space_y2h_v1
+581	6895	0.0	testing_y2h_v1	test_space_y2h_v1
+581	11748	0.0	testing_y2h_v1	test_space_y2h_v1
+623	3299		testing_y2h_v3	test_space_y2h_v3
+623	4781	0.0	testing_y2h_v3	test_space_y2h_v3
+623	6225		testing_y2h_v3	test_space_y2h_v3
+623	7323		testing_y2h_v3	test_space_y2h_v3
+623	11373	0.0	testing_y2h_v3	test_space_y2h_v3
+623	11782	0.0	testing_y2h_v3	test_space_y2h_v3
+623	11818	0.0	testing_y2h_v3	test_space_y2h_v3
+623	12368		testing_y2h_v3	test_space_y2h_v3
+623	12894		testing_y2h_v3	test_space_y2h_v3
+623	53774	0.0	testing_y2h_v3	test_space_y2h_v3
+623	54579		testing_y2h_v3	test_space_y2h_v3
+623	70706		testing_y2h_v3	test_space_y2h_v3
+637	9333	0.0	testing_y2h_v3	test_space_y2h_v3
+643	10821	0.0	testing_y2h_v2	test_space_y2h_v2
+724	10250		testing_y2h_v3	test_space_y2h_v3
+742	6292	0.0	testing_y2h_v2	test_space_y2h_v2
+745	10835	0.0	testing_y2h_v3	RRS
+745	10835	0.0	testing_y2h_v1	RRS
+745	10835	0.0	testing_y2h_v2	RRS
+790	11129	0.0	testing_y2h_v3	RRS
+790	11129	0.0	testing_y2h_v1	RRS
+790	11817	0.0	testing_y2h_v3	test_space_y2h_v3
+818	5294	0.0	testing_y2h_v1	test_space_y2h_v1
+841	11259	0.0	testing_y2h_v2	test_space_y2h_v2
+944	53239	0.0	testing_y2h_v3	Lit_BM_13
+944	53239	0.0	testing_y2h_v1	Lit_BM_13
+944	53239	0.0	testing_y2h_v2	Lit_BM_13
+947	961	0.0	testing_y2h_v3	test_space_y2h_v3
+1089	54910	0.0	testing_y2h_v3	Lit_BM_13
+1089	54910	0.0	testing_y2h_v1	Lit_BM_13
+1089	54910	0.0	testing_y2h_v2	Lit_BM_13
+1095	2026	0.0	testing_y2h_v3	Lit_BM_13
+1095	2026	0.0	testing_y2h_v1	Lit_BM_13
+1095	2026	0.0	testing_y2h_v2	Lit_BM_13
+1156	2026	1.0	testing_y2h_v3	Lit_BM_13
+1156	2026	0.0	testing_y2h_v1	Lit_BM_13
+1156	2026	0.0	testing_y2h_v2	Lit_BM_13
+1164	8610	0.0	testing_y2h_v3	RRS
+1164	8610	0.0	testing_y2h_v1	RRS
+1164	8610	0.0	testing_y2h_v2	RRS
+1172	4781		testing_y2h_v3	test_space_y2h_v3
+1172	7002	0.0	testing_y2h_v3	test_space_y2h_v3
+1172	11126		testing_y2h_v3	test_space_y2h_v3
+1172	11300	0.0	testing_y2h_v3	test_space_y2h_v3
+1172	12368		testing_y2h_v3	test_space_y2h_v3
+1172	12390	0.0	testing_y2h_v3	test_space_y2h_v3
+1172	12894		testing_y2h_v3	test_space_y2h_v3
+1172	13071	0.0	testing_y2h_v3	test_space_y2h_v3
+1172	53774	0.0	testing_y2h_v3	test_space_y2h_v3
+1172	54579		testing_y2h_v3	test_space_y2h_v3
+1198	10864	0.0	testing_y2h_v2	test_space_y2h_v2
+1257	71838	0.0	testing_y2h_v3	RRS
+1257	71838	0.0	testing_y2h_v1	RRS
+1414	2917		testing_y2h_v2	test_space_y2h_v2
+1414	3511	0.0	testing_y2h_v2	test_space_y2h_v2
+1414	6466	1.0	testing_y2h_v2	test_space_y2h_v2
+1414	70473	0.0	testing_y2h_v1	test_space_y2h_v1
+1414	70473	0.0	testing_y2h_v2	test_space_y2h_v2
+1425	12728	0.0	testing_y2h_v3	RRS
+1425	12728	0.0	testing_y2h_v1	RRS
+1578	70257	1.0	testing_y2h_v2	test_space_y2h_v2
+1617	3013		testing_y2h_v3	test_space_y2h_v3
+1617	3619		testing_y2h_v3	test_space_y2h_v3
+1617	4089	0.0	testing_y2h_v3	test_space_y2h_v3
+1617	4781	0.0	testing_y2h_v3	test_space_y2h_v3
+1617	4862	0.0	testing_y2h_v3	test_space_y2h_v3
+1617	5821		testing_y2h_v3	test_space_y2h_v3
+1617	10034	0.0	testing_y2h_v3	test_space_y2h_v3
+1617	10763	0.0	testing_y2h_v3	test_space_y2h_v3
+1617	11130		testing_y2h_v3	test_space_y2h_v3
+1617	11259	0.0	testing_y2h_v3	test_space_y2h_v3
+1617	11277		testing_y2h_v3	test_space_y2h_v3
+1617	11526	0.0	testing_y2h_v3	test_space_y2h_v3
+1617	11707		testing_y2h_v3	test_space_y2h_v3
+1617	12368		testing_y2h_v3	test_space_y2h_v3
+1617	52993		testing_y2h_v3	test_space_y2h_v3
+1617	54579		testing_y2h_v3	test_space_y2h_v3
+1617	70706		testing_y2h_v3	test_space_y2h_v3
+1617	70731	0.0	testing_y2h_v3	test_space_y2h_v3
+1617	72104	0.0	testing_y2h_v3	test_space_y2h_v3
+1747	2909	0.0	testing_y2h_v3	RRS
+1747	2909	0.0	testing_y2h_v1	RRS
+1747	2909	0.0	testing_y2h_v2	RRS
+1803	53835	0.0	testing_y2h_v3	RRS
+1803	53835	0.0	testing_y2h_v1	RRS
+1854	55073	0.0	testing_y2h_v3	RRS
+1854	55073	0.0	testing_y2h_v1	RRS
+1854	55073	0.0	testing_y2h_v2	RRS
+1921	4798	0.0	testing_y2h_v2	test_space_y2h_v2
+2272	11743	0.0	testing_y2h_v3	test_space_y2h_v3
+2340	4798	0.0	testing_y2h_v3	test_space_y2h_v3
+2340	71258	1.0	testing_y2h_v3	test_space_y2h_v3
+2416	3299		testing_y2h_v3	test_space_y2h_v3
+2416	3619	0.0	testing_y2h_v3	test_space_y2h_v3
+2416	4421		testing_y2h_v3	Lit_BM_13
+2416	4421		testing_y2h_v1	Lit_BM_13
+2416	4421		testing_y2h_v2	Lit_BM_13
+2416	5645	0.0	testing_y2h_v3	test_space_y2h_v3
+2416	5821	0.0	testing_y2h_v3	test_space_y2h_v3
+2416	10864	0.0	testing_y2h_v3	test_space_y2h_v3
+2416	11259	0.0	testing_y2h_v3	test_space_y2h_v3
+2416	11373	0.0	testing_y2h_v3	test_space_y2h_v3
+2416	11818	0.0	testing_y2h_v3	test_space_y2h_v3
+2416	12185		testing_y2h_v3	test_space_y2h_v3
+2416	12368		testing_y2h_v3	test_space_y2h_v3
+2416	12380		testing_y2h_v3	test_space_y2h_v3
+2416	52993		testing_y2h_v3	test_space_y2h_v3
+2416	54579		testing_y2h_v3	test_space_y2h_v3
+2488	70317		testing_y2h_v3	RRS
+2488	70317	0.0	testing_y2h_v1	RRS
+2488	70317	0.0	testing_y2h_v2	RRS
+2500	11817	0.0	testing_y2h_v1	test_space_y2h_v1
+2500	71174		testing_y2h_v1	test_space_y2h_v1
+2507	54354	0.0	testing_y2h_v3	test_space_y2h_v3
+2507	54855	0.0	testing_y2h_v3	test_space_y2h_v3
+2583	10891	0.0	testing_y2h_v3	RRS
+2583	10891	0.0	testing_y2h_v1	RRS
+2583	10891	0.0	testing_y2h_v2	RRS
+2645	4798	0.0	testing_y2h_v3	test_space_y2h_v3
+2666	11826	0.0	testing_y2h_v3	Lit_BM_13
+2666	11826	0.0	testing_y2h_v1	Lit_BM_13
+2666	11826	0.0	testing_y2h_v2	Lit_BM_13
+2697	6356	0.0	testing_y2h_v1	test_space_y2h_v1
+2697	10876		testing_y2h_v3	Lit_BM_13
+2697	10876	0.0	testing_y2h_v1	Lit_BM_13
+2697	10876	0.0	testing_y2h_v2	Lit_BM_13
+2697	72100	0.0	testing_y2h_v3	Lit_BM_13
+2697	72100	0.0	testing_y2h_v1	Lit_BM_13
+2697	72100	0.0	testing_y2h_v2	Lit_BM_13
+2736	11340		testing_y2h_v3	Lit_BM_13
+2736	11340	0.0	testing_y2h_v1	Lit_BM_13
+2736	11340	0.0	testing_y2h_v2	Lit_BM_13
+2736	100069237	0.0	testing_y2h_v3	Lit_BM_13
+2736	100069237	0.0	testing_y2h_v1	Lit_BM_13
+2736	100069237	0.0	testing_y2h_v2	Lit_BM_13
+2740	10840	0.0	testing_y2h_v3	RRS
+2740	10840	0.0	testing_y2h_v1	RRS
+2740	10840	0.0	testing_y2h_v2	RRS
+2740	11373	0.0	testing_y2h_v3	RRS
+2740	11373	0.0	testing_y2h_v1	RRS
+2740	11373	0.0	testing_y2h_v2	RRS
+2747	4755	0.0	testing_y2h_v1	test_space_y2h_v1
+2776	5944	0.0	testing_y2h_v1	test_space_y2h_v1
+2804	11748	0.0	testing_y2h_v2	test_space_y2h_v2
+2804	70423		testing_y2h_v3	test_space_y2h_v3
+2831	7323		testing_y2h_v3	test_space_y2h_v3
+2838	6482		testing_y2h_v3	RRS
+2838	6482	0.0	testing_y2h_v1	RRS
+2838	54455	0.0	testing_y2h_v3	Lit_BM_13
+2838	54455	0.0	testing_y2h_v1	Lit_BM_13
+2838	54455	0.0	testing_y2h_v2	Lit_BM_13
+2838	55254	0.0	testing_y2h_v3	RRS
+2838	55254	0.0	testing_y2h_v1	RRS
+2838	55254	0.0	testing_y2h_v2	RRS
+2845	5294	0.0	testing_y2h_v1	test_space_y2h_v1
+2845	6895	0.0	testing_y2h_v1	test_space_y2h_v1
+2845	11748	0.0	testing_y2h_v1	test_space_y2h_v1
+2845	52993	0.0	testing_y2h_v1	test_space_y2h_v1
+2845	71311	0.0	testing_y2h_v1	test_space_y2h_v1
+2983	71826	0.0	testing_y2h_v3	RRS
+2983	71826	0.0	testing_y2h_v1	RRS
+2983	71826	0.0	testing_y2h_v2	RRS
+2983	72052	0.0	testing_y2h_v3	RRS
+2983	72052	0.0	testing_y2h_v1	RRS
+3009	53675	0.0	testing_y2h_v2	test_space_y2h_v2
+3068	3731	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	3772	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	4052		testing_y2h_v2	test_space_y2h_v2
+3068	4089	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	4240	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	4359	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	4430	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	4447	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	4755	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	4828	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	4955		testing_y2h_v3	test_space_y2h_v3
+3068	4990		testing_y2h_v3	test_space_y2h_v3
+3068	5119	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	5439	1.0	testing_y2h_v3	test_space_y2h_v3
+3068	5564		testing_y2h_v3	test_space_y2h_v3
+3068	5728	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	5916		testing_y2h_v3	test_space_y2h_v3
+3068	5974	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	6249	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	6493	1.0	testing_y2h_v3	test_space_y2h_v3
+3068	6776	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	6795		testing_y2h_v3	test_space_y2h_v3
+3068	6814	1.0	testing_y2h_v3	test_space_y2h_v3
+3068	6845	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	6895		testing_y2h_v3	test_space_y2h_v3
+3068	6904		testing_y2h_v3	test_space_y2h_v3
+3068	6983		testing_y2h_v3	test_space_y2h_v3
+3068	8479	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	8967	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	9124	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	9383		testing_y2h_v3	test_space_y2h_v3
+3068	9638	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	10102	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	10369	1.0	testing_y2h_v3	test_space_y2h_v3
+3068	10591	1.0	testing_y2h_v3	test_space_y2h_v3
+3068	10716	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	11738		testing_y2h_v2	test_space_y2h_v2
+3068	11738	1.0	testing_y2h_v3	test_space_y2h_v3
+3068	11769	0.0	testing_y2h_v3	RRS
+3068	11769	0.0	testing_y2h_v1	RRS
+3068	11769	0.0	testing_y2h_v2	RRS
+3068	11943		testing_y2h_v2	test_space_y2h_v2
+3068	11943		testing_y2h_v3	test_space_y2h_v3
+3068	12064	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	13003	1.0	testing_y2h_v3	test_space_y2h_v3
+3068	13022	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	54699	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	55073		testing_y2h_v2	test_space_y2h_v2
+3068	55073	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	55633	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	70242		testing_y2h_v3	test_space_y2h_v3
+3068	70257		testing_y2h_v2	test_space_y2h_v2
+3068	70473		testing_y2h_v3	test_space_y2h_v3
+3068	71191		testing_y2h_v3	test_space_y2h_v3
+3068	71252	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	71258		testing_y2h_v3	test_space_y2h_v3
+3068	71453	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	71469	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	72067		testing_y2h_v3	test_space_y2h_v3
+3068	72155		testing_y2h_v3	test_space_y2h_v3
+3068	100015595	0.0	testing_y2h_v3	test_space_y2h_v3
+3068	100015985		testing_y2h_v3	test_space_y2h_v3
+3068	100016041		testing_y2h_v3	test_space_y2h_v3
+3068	100016074		testing_y2h_v3	test_space_y2h_v3
+3084	10891	0.0	testing_y2h_v3	Lit_BM_13
+3084	10891	0.0	testing_y2h_v1	Lit_BM_13
+3084	10891	0.0	testing_y2h_v2	Lit_BM_13
+3087	71469	0.0	testing_y2h_v3	Lit_BM_13
+3087	71469	0.0	testing_y2h_v1	Lit_BM_13
+3087	71469	0.0	testing_y2h_v2	Lit_BM_13
+3090	4259	0.0	testing_y2h_v3	test_space_y2h_v3
+3090	8400	0.0	testing_y2h_v3	test_space_y2h_v3
+3090	11743	0.0	testing_y2h_v3	test_space_y2h_v3
+3097	6119		testing_y2h_v1	test_space_y2h_v1
+3134	54354	0.0	testing_y2h_v3	test_space_y2h_v3
+3148	6466	1.0	testing_y2h_v2	test_space_y2h_v2
+3148	72033	0.0	testing_y2h_v3	RRS
+3148	72033	0.0	testing_y2h_v1	RRS
+3148	100015985	0.0	testing_y2h_v2	test_space_y2h_v2
+3203	70882	0.0	testing_y2h_v3	RRS
+3203	70882	0.0	testing_y2h_v1	RRS
+3221	10650	0.0	testing_y2h_v1	test_space_y2h_v1
+3248	100016085	0.0	testing_y2h_v3	RRS
+3248	100016085	0.0	testing_y2h_v1	RRS
+3254	8316	0.0	testing_y2h_v3	Lit_BM_13
+3254	8316	0.0	testing_y2h_v1	Lit_BM_13
+3254	8316	0.0	testing_y2h_v2	Lit_BM_13
+3256	10596		testing_y2h_v3	RRS
+3256	10596	0.0	testing_y2h_v1	RRS
+3257	53883	0.0	testing_y2h_v3	RRS
+3257	53883	0.0	testing_y2h_v1	RRS
+3257	53883	0.0	testing_y2h_v2	RRS
+3261	9383	0.0	testing_y2h_v3	RRS
+3261	9383	0.0	testing_y2h_v1	RRS
+3301	6418	0.0	testing_y2h_v3	RRS
+3301	6418	0.0	testing_y2h_v1	RRS
+3317	71823	0.0	testing_y2h_v3	test_space_y2h_v3
+3340	6466	1.0	testing_y2h_v2	test_space_y2h_v2
+3340	6983	0.0	testing_y2h_v2	test_space_y2h_v2
+3340	10876	0.0	testing_y2h_v2	test_space_y2h_v2
+3340	12624	1.0	testing_y2h_v2	test_space_y2h_v2
+3340	70473	1.0	testing_y2h_v2	test_space_y2h_v2
+3343	70263	0.0	testing_y2h_v3	Lit_BM_13
+3343	70263	0.0	testing_y2h_v1	Lit_BM_13
+3343	70263	0.0	testing_y2h_v2	Lit_BM_13
+3348	5821		testing_y2h_v3	RRS
+3348	5821		testing_y2h_v1	RRS
+3348	71258	1.0	testing_y2h_v3	test_space_y2h_v3
+3368	11256	0.0	testing_y2h_v3	Lit_BM_13
+3368	11256	0.0	testing_y2h_v1	Lit_BM_13
+3368	11256	0.0	testing_y2h_v2	Lit_BM_13
+3368	70242	0.0	testing_y2h_v3	Lit_BM_13
+3368	70242	0.0	testing_y2h_v1	Lit_BM_13
+3368	70242	0.0	testing_y2h_v2	Lit_BM_13
+3395	12086	0.0	testing_y2h_v3	RRS
+3395	12086	0.0	testing_y2h_v1	RRS
+3395	12086	0.0	testing_y2h_v2	RRS
+3399	4430	0.0	testing_y2h_v1	test_space_y2h_v1
+3399	10250	0.0	testing_y2h_v3	Lit_BM_13
+3399	10250	0.0	testing_y2h_v1	Lit_BM_13
+3399	10250	0.0	testing_y2h_v2	Lit_BM_13
+3401	6683	0.0	testing_y2h_v3	RRS
+3401	6683	0.0	testing_y2h_v1	RRS
+3416	71997	0.0	testing_y2h_v3	RRS
+3416	71997	0.0	testing_y2h_v1	RRS
+3416	71997	0.0	testing_y2h_v2	RRS
+3425	71679		testing_y2h_v3	test_space_y2h_v3
+3464	3511	0.0	testing_y2h_v2	test_space_y2h_v2
+3464	4798	0.0	testing_y2h_v2	test_space_y2h_v2
+3464	6466	0.0	testing_y2h_v2	test_space_y2h_v2
+3464	7339	0.0	testing_y2h_v2	test_space_y2h_v2
+3464	10163	0.0	testing_y2h_v2	test_space_y2h_v2
+3464	10409	0.0	testing_y2h_v2	test_space_y2h_v2
+3464	12624	0.0	testing_y2h_v2	test_space_y2h_v2
+3464	12984		testing_y2h_v2	test_space_y2h_v2
+3464	70473	0.0	testing_y2h_v2	test_space_y2h_v2
+3464	71334	0.0	testing_y2h_v2	test_space_y2h_v2
+3495	70512	0.0	testing_y2h_v1	test_space_y2h_v1
+3501	71467	0.0	testing_y2h_v3	RRS
+3501	71467	0.0	testing_y2h_v1	RRS
+3527	11584	1.0	testing_y2h_v3	RRS
+3527	11584	0.0	testing_y2h_v1	RRS
+3527	11584	0.0	testing_y2h_v2	RRS
+3528	4289	0.0	testing_y2h_v3	RRS
+3528	4289	0.0	testing_y2h_v1	RRS
+3535	10996	0.0	testing_y2h_v1	test_space_y2h_v1
+3535	11723	0.0	testing_y2h_v1	test_space_y2h_v1
+3552	5066	0.0	testing_y2h_v1	test_space_y2h_v1
+3552	10705	0.0	testing_y2h_v2	test_space_y2h_v2
+3552	71880	0.0	testing_y2h_v3	RRS
+3552	71880	0.0	testing_y2h_v1	RRS
+3568	7699	0.0	testing_y2h_v3	Lit_BM_13
+3568	7699	0.0	testing_y2h_v1	Lit_BM_13
+3568	7699	0.0	testing_y2h_v2	Lit_BM_13
+3568	10640	0.0	testing_y2h_v2	test_space_y2h_v2
+3568	11400	0.0	testing_y2h_v3	Lit_BM_13
+3568	11400	0.0	testing_y2h_v1	Lit_BM_13
+3568	11400	0.0	testing_y2h_v2	Lit_BM_13
+3568	53053	0.0	testing_y2h_v2	test_space_y2h_v2
+3568	71191		testing_y2h_v2	test_space_y2h_v2
+3571	10952	0.0	testing_y2h_v3	RRS
+3571	10952	0.0	testing_y2h_v1	RRS
+3571	10952	0.0	testing_y2h_v2	RRS
+3585	4979	1.0	testing_y2h_v3	Lit_BM_13
+3585	4979	1.0	testing_y2h_v1	Lit_BM_13
+3585	4979	1.0	testing_y2h_v2	Lit_BM_13
+3585	11750	0.0	testing_y2h_v1	test_space_y2h_v1
+3585	11750	0.0	testing_y2h_v3	test_space_y2h_v3
+3594	5760		testing_y2h_v3	RRS
+3594	5760	0.0	testing_y2h_v1	RRS
+3594	52993	0.0	testing_y2h_v3	test_space_y2h_v3
+3598	5066	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	5231	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	5231	0.0	testing_y2h_v2	test_space_y2h_v2
+3598	5944	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	6801	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	9550	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	9550	0.0	testing_y2h_v2	test_space_y2h_v2
+3598	9999	0.0	testing_y2h_v3	Lit_BM_13
+3598	9999	0.0	testing_y2h_v1	Lit_BM_13
+3598	9999	0.0	testing_y2h_v2	Lit_BM_13
+3598	10543	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	10876	0.0	testing_y2h_v2	test_space_y2h_v2
+3598	11125	0.0	testing_y2h_v2	test_space_y2h_v2
+3598	53835	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	70257	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	70257	0.0	testing_y2h_v2	test_space_y2h_v2
+3598	70257	0.0	testing_y2h_v3	test_space_y2h_v3
+3598	71334	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	71334	0.0	testing_y2h_v2	test_space_y2h_v2
+3598	71838	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	71924	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	71924	0.0	testing_y2h_v2	test_space_y2h_v2
+3598	40080553	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	100015584	0.0	testing_y2h_v2	test_space_y2h_v2
+3598	100015985	0.0	testing_y2h_v2	test_space_y2h_v2
+3598	100016103	0.0	testing_y2h_v1	test_space_y2h_v1
+3598	100016103	0.0	testing_y2h_v2	test_space_y2h_v2
+3617	5294	0.0	testing_y2h_v2	test_space_y2h_v2
+3632	5853	0.0	testing_y2h_v3	RRS
+3632	5853	0.0	testing_y2h_v1	RRS
+3634	53114		testing_y2h_v3	RRS
+3634	53114	0.0	testing_y2h_v1	RRS
+3634	53114	0.0	testing_y2h_v2	RRS
+3673	6292	1.0	testing_y2h_v3	RRS
+3673	6292	0.0	testing_y2h_v1	RRS
+3673	71980	0.0	testing_y2h_v1	test_space_y2h_v1
+3683	100016034	0.0	testing_y2h_v3	RRS
+3683	100016034	0.0	testing_y2h_v1	RRS
+3706	53726	1.0	testing_y2h_v3	test_space_y2h_v3
+3706	53726	1.0	testing_y2h_v3	Lit_BM_13
+3706	53726	0.0	testing_y2h_v1	Lit_BM_13
+3706	53726	0.0	testing_y2h_v2	Lit_BM_13
+3709	100016103	0.0	testing_y2h_v3	RRS
+3709	100016103	0.0	testing_y2h_v1	RRS
+3709	100016103	0.0	testing_y2h_v2	RRS
+3721	72100	0.0	testing_y2h_v3	Lit_BM_13
+3721	72100	0.0	testing_y2h_v1	Lit_BM_13
+3721	72100	0.0	testing_y2h_v2	Lit_BM_13
+3729	6863		testing_y2h_v3	RRS
+3729	6863	0.0	testing_y2h_v1	RRS
+3740	4421	0.0	testing_y2h_v2	test_space_y2h_v2
+3740	5821		testing_y2h_v2	test_space_y2h_v2
+3740	11126		testing_y2h_v2	test_space_y2h_v2
+3740	11259	0.0	testing_y2h_v2	test_space_y2h_v2
+3740	11373	0.0	testing_y2h_v2	test_space_y2h_v2
+3740	11818	0.0	testing_y2h_v2	test_space_y2h_v2
+3740	12368		testing_y2h_v2	test_space_y2h_v2
+3740	53726	0.0	testing_y2h_v1	test_space_y2h_v1
+3740	53726	0.0	testing_y2h_v2	test_space_y2h_v2
+3740	53726	0.0	testing_y2h_v3	Lit_BM_13
+3740	53726	0.0	testing_y2h_v1	Lit_BM_13
+3740	53726	0.0	testing_y2h_v2	Lit_BM_13
+3740	53774	0.0	testing_y2h_v2	test_space_y2h_v2
+3740	54579		testing_y2h_v2	test_space_y2h_v2
+3741	10961	0.0	testing_y2h_v3	Lit_BM_13
+3741	10961	0.0	testing_y2h_v1	Lit_BM_13
+3741	10961	0.0	testing_y2h_v2	Lit_BM_13
+3753	52993	0.0	testing_y2h_v1	test_space_y2h_v1
+3756	8543	0.0	testing_y2h_v1	test_space_y2h_v1
+3788	4384	0.0	testing_y2h_v3	Lit_BM_13
+3788	4384	0.0	testing_y2h_v1	Lit_BM_13
+3788	4384	0.0	testing_y2h_v2	Lit_BM_13
+3788	7996	0.0	testing_y2h_v3	RRS
+3788	7996	0.0	testing_y2h_v1	RRS
+3788	9751		testing_y2h_v3	RRS
+3788	9751	0.0	testing_y2h_v1	RRS
+3788	10108	0.0	testing_y2h_v3	Lit_BM_13
+3788	10108	0.0	testing_y2h_v1	Lit_BM_13
+3788	10108	0.0	testing_y2h_v2	Lit_BM_13
+3788	11473	1.0	testing_y2h_v3	Lit_BM_13
+3788	11473	0.0	testing_y2h_v1	Lit_BM_13
+3788	11473	0.0	testing_y2h_v2	Lit_BM_13
+3788	55307	0.0	testing_y2h_v3	Lit_BM_13
+3788	55307	0.0	testing_y2h_v1	Lit_BM_13
+3788	55307	0.0	testing_y2h_v2	Lit_BM_13
+3788	71149	0.0	testing_y2h_v3	Lit_BM_13
+3788	71149	0.0	testing_y2h_v1	Lit_BM_13
+3788	71149	0.0	testing_y2h_v2	Lit_BM_13
+3788	71955	0.0	testing_y2h_v3	RRS
+3788	71955	0.0	testing_y2h_v1	RRS
+3788	71980	1.0	testing_y2h_v3	Lit_BM_13
+3788	71980	1.0	testing_y2h_v1	Lit_BM_13
+3788	71980	1.0	testing_y2h_v2	Lit_BM_13
+3788	100069279	0.0	testing_y2h_v3	Lit_BM_13
+3788	100069279	0.0	testing_y2h_v1	Lit_BM_13
+3788	100069279	0.0	testing_y2h_v2	Lit_BM_13
+3836	53774	0.0	testing_y2h_v1	test_space_y2h_v1
+3842	6755	0.0	testing_y2h_v3	RRS
+3842	6755	0.0	testing_y2h_v1	RRS
+3842	6755	0.0	testing_y2h_v2	RRS
+3910	11805	0.0	testing_y2h_v3	Lit_BM_13
+3910	11805	0.0	testing_y2h_v1	Lit_BM_13
+3910	11805	0.0	testing_y2h_v2	Lit_BM_13
+3934	13142	0.0	testing_y2h_v3	RRS
+3934	13142	0.0	testing_y2h_v1	RRS
+3951	100016034	0.0	testing_y2h_v3	RRS
+3951	100016034	0.0	testing_y2h_v1	RRS
+3954	11334		testing_y2h_v3	test_space_y2h_v3
+4004	5853	0.0	testing_y2h_v3	RRS
+4004	5853	0.0	testing_y2h_v1	RRS
+4004	5853	0.0	testing_y2h_v2	RRS
+4004	6853		testing_y2h_v3	Lit_BM_13
+4004	6853	0.0	testing_y2h_v1	Lit_BM_13
+4004	6853	0.0	testing_y2h_v2	Lit_BM_13
+4004	70284	0.0	testing_y2h_v3	Lit_BM_13
+4004	70284	0.0	testing_y2h_v1	Lit_BM_13
+4004	70284	0.0	testing_y2h_v2	Lit_BM_13
+4013	54526	0.0	testing_y2h_v3	RRS
+4013	54526	0.0	testing_y2h_v1	RRS
+4013	54526	0.0	testing_y2h_v2	RRS
+4040	4421		testing_y2h_v3	test_space_y2h_v3
+4040	5492		testing_y2h_v3	test_space_y2h_v3
+4040	5645	0.0	testing_y2h_v3	test_space_y2h_v3
+4040	11126		testing_y2h_v3	test_space_y2h_v3
+4040	11373	0.0	testing_y2h_v3	test_space_y2h_v3
+4040	12368		testing_y2h_v3	test_space_y2h_v3
+4040	12894		testing_y2h_v3	test_space_y2h_v3
+4040	53726	0.0	testing_y2h_v3	test_space_y2h_v3
+4040	54230	0.0	testing_y2h_v3	test_space_y2h_v3
+4040	54579		testing_y2h_v3	test_space_y2h_v3
+4040	55122		testing_y2h_v3	test_space_y2h_v3
+4062	53584	0.0	testing_y2h_v3	RRS
+4062	53584	0.0	testing_y2h_v1	RRS
+4085	4384	0.0	testing_y2h_v3	Lit_BM_13
+4085	4384	0.0	testing_y2h_v1	Lit_BM_13
+4085	4384	0.0	testing_y2h_v2	Lit_BM_13
+4085	55307	1.0	testing_y2h_v1	test_space_y2h_v1
+4085	55307	1.0	testing_y2h_v3	test_space_y2h_v3
+4097	5281	0.0	testing_y2h_v1	test_space_y2h_v1
+4097	11738		testing_y2h_v1	test_space_y2h_v1
+4097	11805	0.0	testing_y2h_v3	Lit_BM_13
+4097	11805	0.0	testing_y2h_v1	Lit_BM_13
+4097	11805	0.0	testing_y2h_v2	Lit_BM_13
+4107	53322	1.0	testing_y2h_v3	Lit_BM_13
+4107	53322	1.0	testing_y2h_v1	Lit_BM_13
+4107	53322	1.0	testing_y2h_v2	Lit_BM_13
+4123	8409	0.0	testing_y2h_v3	Lit_BM_13
+4123	8409	0.0	testing_y2h_v1	Lit_BM_13
+4123	8409	0.0	testing_y2h_v2	Lit_BM_13
+4137	71673	0.0	testing_y2h_v3	Lit_BM_13
+4137	71673	0.0	testing_y2h_v1	Lit_BM_13
+4137	71673	0.0	testing_y2h_v2	Lit_BM_13
+4139	53883	0.0	testing_y2h_v3	RRS
+4139	53883	0.0	testing_y2h_v1	RRS
+4139	53883	0.0	testing_y2h_v2	RRS
+4263	71353	0.0	testing_y2h_v3	RRS
+4263	71353	0.0	testing_y2h_v1	RRS
+4299	40080562	0.0	testing_y2h_v3	RRS
+4299	40080562	0.0	testing_y2h_v1	RRS
+4338	5821		testing_y2h_v2	test_space_y2h_v2
+4350	5564		testing_y2h_v3	test_space_y2h_v3
+4350	70075		testing_y2h_v3	Lit_BM_13
+4350	70075	0.0	testing_y2h_v1	Lit_BM_13
+4350	70075	0.0	testing_y2h_v2	Lit_BM_13
+4350	70512		testing_y2h_v3	test_space_y2h_v3
+4350	71767	0.0	testing_y2h_v3	RRS
+4350	71767	0.0	testing_y2h_v1	RRS
+4351	6119		testing_y2h_v3	test_space_y2h_v3
+4453	5126	1.0	testing_y2h_v3	Lit_BM_13
+4453	5126	0.0	testing_y2h_v1	Lit_BM_13
+4453	5126	0.0	testing_y2h_v2	Lit_BM_13
+4453	10891	0.0	testing_y2h_v3	Lit_BM_13
+4453	10891	0.0	testing_y2h_v1	Lit_BM_13
+4453	10891	0.0	testing_y2h_v2	Lit_BM_13
+4461	7323		testing_y2h_v3	test_space_y2h_v3
+4461	54579		testing_y2h_v3	test_space_y2h_v3
+4467	11757		testing_y2h_v3	RRS
+4467	11757	0.0	testing_y2h_v1	RRS
+4489	10823	1.0	testing_y2h_v1	test_space_y2h_v1
+4489	10823	1.0	testing_y2h_v3	Lit_BM_13
+4489	10823	1.0	testing_y2h_v1	Lit_BM_13
+4489	10823	1.0	testing_y2h_v2	Lit_BM_13
+4489	72017	0.0	testing_y2h_v3	RRS
+4489	72017	0.0	testing_y2h_v1	RRS
+4489	72017	0.0	testing_y2h_v2	RRS
+4489	100069213	0.0	testing_y2h_v3	Lit_BM_13
+4489	100069213	0.0	testing_y2h_v1	Lit_BM_13
+4489	100069213	0.0	testing_y2h_v2	Lit_BM_13
+4490	5457	0.0	testing_y2h_v3	RRS
+4490	5457	0.0	testing_y2h_v1	RRS
+4490	5457	0.0	testing_y2h_v2	RRS
+4499	11528	0.0	testing_y2h_v3	RRS
+4499	11528		testing_y2h_v1	RRS
+4499	11528		testing_y2h_v2	RRS
+4499	11899	0.0	testing_y2h_v3	RRS
+4499	11899	0.0	testing_y2h_v1	RRS
+4511	9999	0.0	testing_y2h_v2	test_space_y2h_v2
+4516	10823	0.0	testing_y2h_v1	test_space_y2h_v1
+4516	11240	0.0	testing_y2h_v1	test_space_y2h_v1
+4516	11334	0.0	testing_y2h_v1	test_space_y2h_v1
+4516	11723	0.0	testing_y2h_v1	test_space_y2h_v1
+4516	11817	0.0	testing_y2h_v1	test_space_y2h_v1
+4516	13787	0.0	testing_y2h_v1	test_space_y2h_v1
+4516	52987	0.0	testing_y2h_v1	test_space_y2h_v1
+4516	52993	0.0	testing_y2h_v1	test_space_y2h_v1
+4516	54975	0.0	testing_y2h_v1	test_space_y2h_v1
+4516	54975	0.0	testing_y2h_v3	test_space_y2h_v3
+4516	71402	0.0	testing_y2h_v1	test_space_y2h_v1
+4516	71894	0.0	testing_y2h_v1	test_space_y2h_v1
+4535	5439		testing_y2h_v1	test_space_y2h_v1
+4535	8400	0.0	testing_y2h_v1	test_space_y2h_v1
+4535	11163	0.0	testing_y2h_v1	test_space_y2h_v1
+4535	12624	0.0	testing_y2h_v1	test_space_y2h_v1
+4535	12913	1.0	testing_y2h_v1	test_space_y2h_v1
+4535	100015630	0.0	testing_y2h_v1	test_space_y2h_v1
+4554	100067572	0.0	testing_y2h_v3	RRS
+4554	100067572	0.0	testing_y2h_v1	RRS
+4616	4689	1.0	testing_y2h_v3	test_space_y2h_v3
+4616	6490	1.0	testing_y2h_v3	Lit_BM_13
+4616	6490		testing_y2h_v1	Lit_BM_13
+4616	6490		testing_y2h_v2	Lit_BM_13
+4616	6588	0.0	testing_y2h_v3	test_space_y2h_v3
+4616	9919	1.0	testing_y2h_v3	Lit_BM_13
+4616	9919		testing_y2h_v1	Lit_BM_13
+4616	9919		testing_y2h_v2	Lit_BM_13
+4616	9999	0.0	testing_y2h_v3	Lit_BM_13
+4616	9999		testing_y2h_v1	Lit_BM_13
+4616	9999		testing_y2h_v2	Lit_BM_13
+4616	10352		testing_y2h_v3	test_space_y2h_v3
+4616	10493	0.0	testing_y2h_v3	Lit_BM_13
+4616	10493		testing_y2h_v1	Lit_BM_13
+4616	10493		testing_y2h_v2	Lit_BM_13
+4616	10598	0.0	testing_y2h_v3	Lit_BM_13
+4616	10598		testing_y2h_v1	Lit_BM_13
+4616	10598		testing_y2h_v2	Lit_BM_13
+4616	10608	1.0	testing_y2h_v3	test_space_y2h_v3
+4616	10650	0.0	testing_y2h_v3	Lit_BM_13
+4616	10650		testing_y2h_v1	Lit_BM_13
+4616	10650		testing_y2h_v2	Lit_BM_13
+4616	11100	0.0	testing_y2h_v3	Lit_BM_13
+4616	11100		testing_y2h_v1	Lit_BM_13
+4616	11100		testing_y2h_v2	Lit_BM_13
+4616	11129	0.0	testing_y2h_v3	RRS
+4616	11129		testing_y2h_v1	RRS
+4616	11208	0.0	testing_y2h_v3	Lit_BM_13
+4616	11208		testing_y2h_v1	Lit_BM_13
+4616	11208		testing_y2h_v2	Lit_BM_13
+4616	11403		testing_y2h_v3	Lit_BM_13
+4616	11403		testing_y2h_v1	Lit_BM_13
+4616	11403		testing_y2h_v2	Lit_BM_13
+4616	11407		testing_y2h_v3	Lit_BM_13
+4616	11407		testing_y2h_v1	Lit_BM_13
+4616	11407		testing_y2h_v2	Lit_BM_13
+4616	12304		testing_y2h_v3	Lit_BM_13
+4616	12304	0.0	testing_y2h_v1	Lit_BM_13
+4616	12304	0.0	testing_y2h_v2	Lit_BM_13
+4616	52584	0.0	testing_y2h_v3	test_space_y2h_v3
+4616	52987		testing_y2h_v3	Lit_BM_13
+4616	52987		testing_y2h_v1	Lit_BM_13
+4616	52987		testing_y2h_v2	Lit_BM_13
+4616	53322	0.0	testing_y2h_v3	Lit_BM_13
+4616	53322		testing_y2h_v1	Lit_BM_13
+4616	53322		testing_y2h_v2	Lit_BM_13
+4616	53448		testing_y2h_v3	Lit_BM_13
+4616	53448		testing_y2h_v1	Lit_BM_13
+4616	53448		testing_y2h_v2	Lit_BM_13
+4616	70471		testing_y2h_v1	test_space_y2h_v1
+4616	70731	0.0	testing_y2h_v3	RRS
+4616	70731		testing_y2h_v1	RRS
+4616	70731		testing_y2h_v2	RRS
+4616	71621	0.0	testing_y2h_v3	Lit_BM_13
+4616	71621		testing_y2h_v1	Lit_BM_13
+4616	71621		testing_y2h_v2	Lit_BM_13
+4616	100064144		testing_y2h_v3	test_space_y2h_v3
+4623	4775	0.0	testing_y2h_v1	test_space_y2h_v1
+4623	8365	0.0	testing_y2h_v1	test_space_y2h_v1
+4623	8409	0.0	testing_y2h_v1	test_space_y2h_v1
+4623	9124	0.0	testing_y2h_v1	test_space_y2h_v1
+4623	9553	0.0	testing_y2h_v1	test_space_y2h_v1
+4682	14007	0.0	testing_y2h_v3	RRS
+4682	14007	0.0	testing_y2h_v1	RRS
+4687	4735		testing_y2h_v3	Lit_BM_13
+4687	4735	0.0	testing_y2h_v1	Lit_BM_13
+4687	4735	0.0	testing_y2h_v2	Lit_BM_13
+4687	11805	0.0	testing_y2h_v1	test_space_y2h_v1
+4687	11805	0.0	testing_y2h_v3	Lit_BM_13
+4687	11805	0.0	testing_y2h_v1	Lit_BM_13
+4687	11805	0.0	testing_y2h_v2	Lit_BM_13
+4687	52987	0.0	testing_y2h_v3	Lit_BM_13
+4687	52987	0.0	testing_y2h_v1	Lit_BM_13
+4687	52987	0.0	testing_y2h_v2	Lit_BM_13
+4687	70473	0.0	testing_y2h_v1	test_space_y2h_v1
+4687	40080553	0.0	testing_y2h_v3	Lit_BM_13
+4687	40080553	0.0	testing_y2h_v1	Lit_BM_13
+4687	40080553	0.0	testing_y2h_v2	Lit_BM_13
+4695	6983	0.0	testing_y2h_v2	test_space_y2h_v2
+4695	9999	0.0	testing_y2h_v2	test_space_y2h_v2
+4695	10876	0.0	testing_y2h_v2	test_space_y2h_v2
+4695	12624	0.0	testing_y2h_v2	test_space_y2h_v2
+4695	55264	0.0	testing_y2h_v3	RRS
+4695	55264		testing_y2h_v1	RRS
+4695	70473	0.0	testing_y2h_v2	test_space_y2h_v2
+4695	71334	0.0	testing_y2h_v2	test_space_y2h_v2
+4703	10409	0.0	testing_y2h_v3	RRS
+4703	10409	0.0	testing_y2h_v1	RRS
+4703	55040		testing_y2h_v3	RRS
+4703	55040	0.0	testing_y2h_v1	RRS
+4705	11837	1.0	testing_y2h_v3	Lit_BM_13
+4705	11837	0.0	testing_y2h_v1	Lit_BM_13
+4705	11837	0.0	testing_y2h_v2	Lit_BM_13
+4716	11410	0.0	testing_y2h_v3	RRS
+4716	11410	0.0	testing_y2h_v1	RRS
+4716	11410	0.0	testing_y2h_v2	RRS
+4725	71258		testing_y2h_v1	test_space_y2h_v1
+4762	72160		testing_y2h_v3	RRS
+4762	72160	0.0	testing_y2h_v1	RRS
+4811	7490	0.0	testing_y2h_v3	test_space_y2h_v3
+4811	70887	0.0	testing_y2h_v3	RRS
+4811	70887	0.0	testing_y2h_v1	RRS
+4811	70887	0.0	testing_y2h_v2	RRS
+4836	6512		testing_y2h_v3	test_space_y2h_v3
+4836	6895	0.0	testing_y2h_v3	test_space_y2h_v3
+4836	8110	0.0	testing_y2h_v3	test_space_y2h_v3
+4836	11259	0.0	testing_y2h_v3	test_space_y2h_v3
+4836	11748	0.0	testing_y2h_v3	test_space_y2h_v3
+4836	13006		testing_y2h_v3	test_space_y2h_v3
+4836	53726	0.0	testing_y2h_v3	test_space_y2h_v3
+4836	70275	0.0	testing_y2h_v3	test_space_y2h_v3
+4855	71618	0.0	testing_y2h_v3	RRS
+4855	71618	0.0	testing_y2h_v1	RRS
+4855	100015528	0.0	testing_y2h_v3	Lit_BM_13
+4855	100015528	0.0	testing_y2h_v1	Lit_BM_13
+4855	100015528	0.0	testing_y2h_v2	Lit_BM_13
+4933	5629	0.0	testing_y2h_v3	RRS
+4933	5629	0.0	testing_y2h_v1	RRS
+4933	5629	0.0	testing_y2h_v2	RRS
+5040	10102	0.0	testing_y2h_v3	RRS
+5040	10102	0.0	testing_y2h_v1	RRS
+5040	10102	0.0	testing_y2h_v2	RRS
+5110	12123	0.0	testing_y2h_v3	RRS
+5110	12123	0.0	testing_y2h_v1	RRS
+5110	12123	0.0	testing_y2h_v2	RRS
+5110	13129		testing_y2h_v3	RRS
+5110	13129	0.0	testing_y2h_v1	RRS
+5151	12368		testing_y2h_v3	test_space_y2h_v3
+5285	7147	0.0	testing_y2h_v1	test_space_y2h_v1
+5285	11403	0.0	testing_y2h_v1	test_space_y2h_v1
+5285	11807	0.0	testing_y2h_v1	test_space_y2h_v1
+5285	54354	0.0	testing_y2h_v1	test_space_y2h_v1
+5285	54603	0.0	testing_y2h_v1	test_space_y2h_v1
+5285	54855	0.0	testing_y2h_v1	test_space_y2h_v1
+5285	55834	0.0	testing_y2h_v1	test_space_y2h_v1
+5285	71924	0.0	testing_y2h_v1	test_space_y2h_v1
+5285	100015265	0.0	testing_y2h_v1	test_space_y2h_v1
+5285	100016119	0.0	testing_y2h_v1	test_space_y2h_v1
+5345	10201	0.0	testing_y2h_v3	RRS
+5345	10201	0.0	testing_y2h_v1	RRS
+5363	70242	0.0	testing_y2h_v3	RRS
+5363	70242	0.0	testing_y2h_v1	RRS
+5367	11743	0.0	testing_y2h_v3	Lit_BM_13
+5367	11743	0.0	testing_y2h_v1	Lit_BM_13
+5367	11743	0.0	testing_y2h_v2	Lit_BM_13
+5370	5492	0.0	testing_y2h_v2	test_space_y2h_v2
+5370	8110	0.0	testing_y2h_v1	test_space_y2h_v1
+5370	11130		testing_y2h_v2	test_space_y2h_v2
+5370	70257	0.0	testing_y2h_v2	test_space_y2h_v2
+5385	11301		testing_y2h_v3	RRS
+5385	11301	0.0	testing_y2h_v1	RRS
+5385	11301	0.0	testing_y2h_v2	RRS
+5420	11818	0.0	testing_y2h_v3	test_space_y2h_v3
+5469	53883	0.0	testing_y2h_v3	RRS
+5469	53883	0.0	testing_y2h_v1	RRS
+5469	53883	0.0	testing_y2h_v2	RRS
+5473	7275	0.0	testing_y2h_v1	test_space_y2h_v1
+5473	9640	0.0	testing_y2h_v1	test_space_y2h_v1
+5473	11007	0.0	testing_y2h_v1	test_space_y2h_v1
+5473	11738	0.0	testing_y2h_v3	test_space_y2h_v3
+5473	12086	0.0	testing_y2h_v1	test_space_y2h_v1
+5473	12705	0.0	testing_y2h_v1	test_space_y2h_v1
+5473	54354	0.0	testing_y2h_v1	test_space_y2h_v1
+5473	54354	0.0	testing_y2h_v3	test_space_y2h_v3
+5473	54855		testing_y2h_v3	test_space_y2h_v3
+5473	70633	0.0	testing_y2h_v2	test_space_y2h_v2
+5473	70633	0.0	testing_y2h_v3	test_space_y2h_v3
+5473	100015265	0.0	testing_y2h_v3	test_space_y2h_v3
+5473	100015575	0.0	testing_y2h_v1	test_space_y2h_v1
+5473	100015575	0.0	testing_y2h_v3	test_space_y2h_v3
+5473	100016119		testing_y2h_v3	test_space_y2h_v3
+5544	10923	0.0	testing_y2h_v3	RRS
+5544	10923	0.0	testing_y2h_v1	RRS
+5544	10923	0.0	testing_y2h_v2	RRS
+5630	7085	0.0	testing_y2h_v3	RRS
+5630	7085	0.0	testing_y2h_v1	RRS
+5630	7085	0.0	testing_y2h_v2	RRS
+5726	7138		testing_y2h_v3	test_space_y2h_v3
+5838	11751	0.0	testing_y2h_v3	RRS
+5838	11751	0.0	testing_y2h_v1	RRS
+5838	11751	0.0	testing_y2h_v2	RRS
+5868	13142	0.0	testing_y2h_v1	test_space_y2h_v1
+5868	71191	0.0	testing_y2h_v3	test_space_y2h_v3
+5929	70425	0.0	testing_y2h_v3	RRS
+5929	70425		testing_y2h_v1	RRS
+5929	70425		testing_y2h_v2	RRS
+5942	53339	0.0	testing_y2h_v1	test_space_y2h_v1
+5947	71642		testing_y2h_v3	RRS
+5947	71642	0.0	testing_y2h_v1	RRS
+5947	71642	0.0	testing_y2h_v2	RRS
+6012	10961	0.0	testing_y2h_v3	Lit_BM_13
+6012	10961	0.0	testing_y2h_v1	Lit_BM_13
+6012	10961	0.0	testing_y2h_v2	Lit_BM_13
+6012	11743	0.0	testing_y2h_v3	test_space_y2h_v3
+6068	11126		testing_y2h_v3	test_space_y2h_v3
+6068	13286	0.0	testing_y2h_v3	test_space_y2h_v3
+6100	11300	0.0	testing_y2h_v3	test_space_y2h_v3
+6210	9124	0.0	testing_y2h_v3	Lit_BM_13
+6210	9124	0.0	testing_y2h_v1	Lit_BM_13
+6210	9124	0.0	testing_y2h_v2	Lit_BM_13
+6231	11707	0.0	testing_y2h_v2	test_space_y2h_v2
+6231	12894		testing_y2h_v2	test_space_y2h_v2
+6231	13286	0.0	testing_y2h_v2	test_space_y2h_v2
+6231	100016069	0.0	testing_y2h_v1	test_space_y2h_v1
+6240	6895	0.0	testing_y2h_v3	test_space_y2h_v3
+6287	10190	0.0	testing_y2h_v3	Lit_BM_13
+6287	10190	0.0	testing_y2h_v1	Lit_BM_13
+6287	10190	0.0	testing_y2h_v2	Lit_BM_13
+6297	10062	0.0	testing_y2h_v3	Lit_BM_13
+6297	10062	0.0	testing_y2h_v1	Lit_BM_13
+6297	10062	0.0	testing_y2h_v2	Lit_BM_13
+6297	11743	0.0	testing_y2h_v3	Lit_BM_13
+6297	11743	0.0	testing_y2h_v1	Lit_BM_13
+6297	11743	0.0	testing_y2h_v2	Lit_BM_13
+6306	11817	0.0	testing_y2h_v1	test_space_y2h_v1
+6306	53053	0.0	testing_y2h_v2	test_space_y2h_v2
+6306	53053	0.0	testing_y2h_v3	test_space_y2h_v3
+6309	7699	0.0	testing_y2h_v3	Lit_BM_13
+6309	7699	0.0	testing_y2h_v1	Lit_BM_13
+6309	7699	0.0	testing_y2h_v2	Lit_BM_13
+6319	10650	0.0	testing_y2h_v1	test_space_y2h_v1
+6319	53053	0.0	testing_y2h_v1	test_space_y2h_v1
+6326	11817	0.0	testing_y2h_v3	test_space_y2h_v3
+6326	71258	0.0	testing_y2h_v3	test_space_y2h_v3
+6336	70633	0.0	testing_y2h_v2	test_space_y2h_v2
+6426	8961	0.0	testing_y2h_v3	RRS
+6426	8961	0.0	testing_y2h_v1	RRS
+6427	70423		testing_y2h_v3	test_space_y2h_v3
+6446	7323		testing_y2h_v3	test_space_y2h_v3
+6446	8110	0.0	testing_y2h_v3	test_space_y2h_v3
+6446	11126		testing_y2h_v3	test_space_y2h_v3
+6446	11748	0.0	testing_y2h_v3	test_space_y2h_v3
+6446	12894		testing_y2h_v3	test_space_y2h_v3
+6446	13071	0.0	testing_y2h_v3	test_space_y2h_v3
+6446	52993		testing_y2h_v3	test_space_y2h_v3
+6446	53726	0.0	testing_y2h_v3	test_space_y2h_v3
+6446	54230	0.0	testing_y2h_v3	test_space_y2h_v3
+6446	54579		testing_y2h_v3	test_space_y2h_v3
+6446	55122		testing_y2h_v3	test_space_y2h_v3
+6459	71962	0.0	testing_y2h_v3	RRS
+6459	71962	0.0	testing_y2h_v1	RRS
+6475	53128	0.0	testing_y2h_v3	RRS
+6475	53128	0.0	testing_y2h_v1	RRS
+6488	10823	0.0	testing_y2h_v3	test_space_y2h_v3
+6514	54163	0.0	testing_y2h_v3	RRS
+6514	54163	0.0	testing_y2h_v1	RRS
+6514	54163	0.0	testing_y2h_v2	RRS
+6592	11412		testing_y2h_v3	Lit_BM_13
+6592	11412	0.0	testing_y2h_v1	Lit_BM_13
+6592	11412	0.0	testing_y2h_v2	Lit_BM_13
+6593	11723	0.0	testing_y2h_v1	test_space_y2h_v1
+6593	100015630	0.0	testing_y2h_v3	test_space_y2h_v3
+6595	12970	0.0	testing_y2h_v3	RRS
+6595	12970	0.0	testing_y2h_v1	RRS
+6595	12970	0.0	testing_y2h_v2	RRS
+6600	71649	0.0	testing_y2h_v3	test_space_y2h_v3
+6600	71649	0.0	testing_y2h_v3	Lit_BM_13
+6600	71649	0.0	testing_y2h_v1	Lit_BM_13
+6600	71649	0.0	testing_y2h_v2	Lit_BM_13
+6606	71452	0.0	testing_y2h_v3	RRS
+6606	71452	0.0	testing_y2h_v1	RRS
+6650	9987	0.0	testing_y2h_v3	RRS
+6650	9987	0.0	testing_y2h_v1	RRS
+6660	10250	0.0	testing_y2h_v3	Lit_BM_13
+6660	10250	0.0	testing_y2h_v1	Lit_BM_13
+6660	10250	0.0	testing_y2h_v2	Lit_BM_13
+6671	10711	1.0	testing_y2h_v1	test_space_y2h_v1
+6671	10711	1.0	testing_y2h_v2	test_space_y2h_v2
+6671	10711	1.0	testing_y2h_v3	Lit_BM_13
+6671	10711	1.0	testing_y2h_v1	Lit_BM_13
+6671	10711	1.0	testing_y2h_v2	Lit_BM_13
+6671	13520	0.0	testing_y2h_v3	Lit_BM_13
+6671	13520	0.0	testing_y2h_v1	Lit_BM_13
+6671	13520	0.0	testing_y2h_v2	Lit_BM_13
+6691	71423		testing_y2h_v3	test_space_y2h_v3
+6693	70473	0.0	testing_y2h_v3	RRS
+6693	70473	0.0	testing_y2h_v1	RRS
+6693	70591	0.0	testing_y2h_v3	RRS
+6693	70591	0.0	testing_y2h_v1	RRS
+6693	70591	0.0	testing_y2h_v2	RRS
+6699	53675	0.0	testing_y2h_v2	test_space_y2h_v2
+6699	53675	0.0	testing_y2h_v3	test_space_y2h_v3
+6708	7699	1.0	testing_y2h_v1	Lit_BM_13
+6708	10352	0.0	testing_y2h_v3	test_space_y2h_v3
+6708	11688	0.0	testing_y2h_v1	Lit_BM_13
+6708	72146	0.0	testing_y2h_v3	RRS
+6708	72146	1.0	testing_y2h_v1	RRS
+6708	72146	1.0	testing_y2h_v2	RRS
+6709	14441	0.0	testing_y2h_v3	Lit_BM_13
+6709	14441	0.0	testing_y2h_v1	Lit_BM_13
+6709	14441	0.0	testing_y2h_v2	Lit_BM_13
+6710	10163	0.0	testing_y2h_v2	test_space_y2h_v2
+6710	11163	0.0	testing_y2h_v3	test_space_y2h_v3
+6710	71258	0.0	testing_y2h_v3	test_space_y2h_v3
+6745	13142	0.0	testing_y2h_v3	RRS
+6745	13142	0.0	testing_y2h_v1	RRS
+6757	54489	0.0	testing_y2h_v3	RRS
+6757	54489	0.0	testing_y2h_v1	RRS
+6757	54489	0.0	testing_y2h_v2	RRS
+6778	10102	0.0	testing_y2h_v1	test_space_y2h_v1
+6778	52993		testing_y2h_v3	test_space_y2h_v3
+6818	56479	0.0	testing_y2h_v3	RRS
+6818	56479	0.0	testing_y2h_v1	RRS
+6818	56479	0.0	testing_y2h_v2	RRS
+6860	8717	0.0	testing_y2h_v3	RRS
+6860	8717	0.0	testing_y2h_v1	RRS
+6880	11723	0.0	testing_y2h_v3	test_space_y2h_v3
+6884	11748	0.0	testing_y2h_v2	test_space_y2h_v2
+6908	11512		testing_y2h_v3	RRS
+6908	11512	0.0	testing_y2h_v1	RRS
+6908	11512	0.0	testing_y2h_v2	RRS
+6932	11738		testing_y2h_v3	test_space_y2h_v3
+6932	71191		testing_y2h_v2	test_space_y2h_v2
+6932	71201	0.0	testing_y2h_v2	test_space_y2h_v2
+6944	10716	0.0	testing_y2h_v3	RRS
+6944	10716	0.0	testing_y2h_v1	RRS
+6944	10716	0.0	testing_y2h_v2	RRS
+6953	9124	0.0	testing_y2h_v3	test_space_y2h_v3
+6953	10864	0.0	testing_y2h_v3	test_space_y2h_v3
+6953	11817	0.0	testing_y2h_v3	test_space_y2h_v3
+6953	54003	0.0	testing_y2h_v3	test_space_y2h_v3
+6953	54322	0.0	testing_y2h_v3	RRS
+6953	54322	0.0	testing_y2h_v1	RRS
+6953	54322	0.0	testing_y2h_v2	RRS
+6953	55040	0.0	testing_y2h_v1	test_space_y2h_v1
+6953	56366	0.0	testing_y2h_v3	test_space_y2h_v3
+6971	71453	0.0	testing_y2h_v3	RRS
+6971	71453	0.0	testing_y2h_v1	RRS
+6976	10705	0.0	testing_y2h_v3	Lit_BM_13
+6976	10705	0.0	testing_y2h_v1	Lit_BM_13
+6976	10705	0.0	testing_y2h_v2	Lit_BM_13
+6976	71184	0.0	testing_y2h_v3	Lit_BM_13
+6976	71184	0.0	testing_y2h_v1	Lit_BM_13
+6976	71184	0.0	testing_y2h_v2	Lit_BM_13
+7037	70879	0.0	testing_y2h_v3	RRS
+7037	70879	0.0	testing_y2h_v1	RRS
+7037	70879	0.0	testing_y2h_v2	RRS
+7055	9525	0.0	testing_y2h_v3	RRS
+7055	9525	0.0	testing_y2h_v1	RRS
+7055	9525	0.0	testing_y2h_v2	RRS
+7055	11849	0.0	testing_y2h_v3	RRS
+7055	11849	0.0	testing_y2h_v1	RRS
+7081	10163	0.0	testing_y2h_v1	test_space_y2h_v1
+7081	52987	0.0	testing_y2h_v1	test_space_y2h_v1
+7081	71191		testing_y2h_v1	test_space_y2h_v1
+7081	71258		testing_y2h_v1	test_space_y2h_v1
+7081	71713	0.0	testing_y2h_v1	test_space_y2h_v1
+7081	72182	0.0	testing_y2h_v1	test_space_y2h_v1
+7108	10891	0.0	testing_y2h_v3	Lit_BM_13
+7108	10891	0.0	testing_y2h_v1	Lit_BM_13
+7108	10891	0.0	testing_y2h_v2	Lit_BM_13
+7122	10876		testing_y2h_v3	test_space_y2h_v3
+7141	12744	0.0	testing_y2h_v3	test_space_y2h_v3
+7157	9124	0.0	testing_y2h_v3	Lit_BM_13
+7157	9124	0.0	testing_y2h_v1	Lit_BM_13
+7157	9124	0.0	testing_y2h_v2	Lit_BM_13
+7233	12193	0.0	testing_y2h_v3	RRS
+7233	12193	0.0	testing_y2h_v1	RRS
+7258	100015481		testing_y2h_v1	test_space_y2h_v1
+7276	10891	0.0	testing_y2h_v3	Lit_BM_13
+7276	10891	0.0	testing_y2h_v1	Lit_BM_13
+7276	10891	0.0	testing_y2h_v2	Lit_BM_13
+7301	70257	0.0	testing_y2h_v2	test_space_y2h_v2
+7312	71191	0.0	testing_y2h_v3	test_space_y2h_v3
+7320	10163	0.0	testing_y2h_v2	test_space_y2h_v2
+7320	12123	0.0	testing_y2h_v2	test_space_y2h_v2
+7376	10864		testing_y2h_v3	test_space_y2h_v3
+7376	11373	0.0	testing_y2h_v3	test_space_y2h_v3
+7376	12368		testing_y2h_v3	test_space_y2h_v3
+7376	54579		testing_y2h_v3	test_space_y2h_v3
+7398	56472	0.0	testing_y2h_v3	RRS
+7398	56472	0.0	testing_y2h_v1	RRS
+7398	56472	0.0	testing_y2h_v2	RRS
+7404	11067	0.0	testing_y2h_v2	test_space_y2h_v2
+7408	11126		testing_y2h_v3	test_space_y2h_v3
+7408	54230	0.0	testing_y2h_v3	test_space_y2h_v3
+7408	71239	0.0	testing_y2h_v3	RRS
+7408	71239	0.0	testing_y2h_v1	RRS
+7436	71168	0.0	testing_y2h_v3	RRS
+7436	71168	0.0	testing_y2h_v1	RRS
+7436	71168	0.0	testing_y2h_v2	RRS
+7438	11805		testing_y2h_v3	Lit_BM_13
+7438	11805	0.0	testing_y2h_v1	Lit_BM_13
+7438	11805	0.0	testing_y2h_v2	Lit_BM_13
+7442	10163	0.0	testing_y2h_v3	Lit_BM_13
+7442	10163	0.0	testing_y2h_v1	Lit_BM_13
+7442	10163	0.0	testing_y2h_v2	Lit_BM_13
+7442	11329	0.0	testing_y2h_v3	Lit_BM_13
+7442	11329	0.0	testing_y2h_v1	Lit_BM_13
+7442	11329	0.0	testing_y2h_v2	Lit_BM_13
+7442	100069216	0.0	testing_y2h_v3	Lit_BM_13
+7442	100069216	0.0	testing_y2h_v1	Lit_BM_13
+7442	100069216	0.0	testing_y2h_v2	Lit_BM_13
+7451	11805		testing_y2h_v3	Lit_BM_13
+7451	11805	0.0	testing_y2h_v1	Lit_BM_13
+7451	11805	0.0	testing_y2h_v2	Lit_BM_13
+7451	72189	0.0	testing_y2h_v3	RRS
+7451	72189	0.0	testing_y2h_v1	RRS
+7451	72189	0.0	testing_y2h_v2	RRS
+7468	12368		testing_y2h_v3	RRS
+7468	12368		testing_y2h_v1	RRS
+7473	10959	0.0	testing_y2h_v3	RRS
+7473	10959	0.0	testing_y2h_v1	RRS
+7473	10959	0.0	testing_y2h_v2	RRS
+7473	100016209	0.0	testing_y2h_v3	RRS
+7473	100016209	0.0	testing_y2h_v1	RRS
+7473	100016209	0.0	testing_y2h_v2	RRS
+7477	13076	0.0	testing_y2h_v3	RRS
+7477	13076	0.0	testing_y2h_v1	RRS
+7477	13076	0.0	testing_y2h_v2	RRS
+7515	53584		testing_y2h_v3	RRS
+7515	53584	0.0	testing_y2h_v1	RRS
+7536	11489	0.0	testing_y2h_v3	RRS
+7536	11489	0.0	testing_y2h_v1	RRS
+7537	11723	0.0	testing_y2h_v3	test_space_y2h_v3
+7541	10568		testing_y2h_v3	RRS
+7541	10568		testing_y2h_v1	RRS
+7541	56075	1.0	testing_y2h_v1	test_space_y2h_v1
+7547	11126		testing_y2h_v1	test_space_y2h_v1
+7564	53448		testing_y2h_v3	RRS
+7564	53448	0.0	testing_y2h_v1	RRS
+7564	53448	0.0	testing_y2h_v2	RRS
+7580	71724	0.0	testing_y2h_v3	RRS
+7580	71724	0.0	testing_y2h_v1	RRS
+7586	11751	0.0	testing_y2h_v3	test_space_y2h_v3
+7605	8400	0.0	testing_y2h_v3	test_space_y2h_v3
+7605	11163	0.0	testing_y2h_v3	test_space_y2h_v3
+7605	11738	0.0	testing_y2h_v3	test_space_y2h_v3
+7605	11743	0.0	testing_y2h_v3	test_space_y2h_v3
+7605	11817	0.0	testing_y2h_v3	test_space_y2h_v3
+7605	55891	0.0	testing_y2h_v3	RRS
+7605	55891	0.0	testing_y2h_v1	RRS
+7605	71174	0.0	testing_y2h_v3	test_space_y2h_v3
+7605	71258	0.0	testing_y2h_v3	test_space_y2h_v3
+7605	71415	0.0	testing_y2h_v3	test_space_y2h_v3
+7605	71894	0.0	testing_y2h_v3	test_space_y2h_v3
+7622	10288	0.0	testing_y2h_v3	RRS
+7622	10288	0.0	testing_y2h_v1	RRS
+7622	10288	0.0	testing_y2h_v2	RRS
+7623	72003	0.0	testing_y2h_v3	RRS
+7623	72003	0.0	testing_y2h_v1	RRS
+7623	72003	0.0	testing_y2h_v2	RRS
+7644	12086	0.0	testing_y2h_v3	RRS
+7644	12086	0.0	testing_y2h_v1	RRS
+7647	53447	0.0	testing_y2h_v3	RRS
+7647	53447	0.0	testing_y2h_v1	RRS
+7677	8400	0.0	testing_y2h_v1	test_space_y2h_v1
+7682	8167	0.0	testing_y2h_v1	test_space_y2h_v1
+7682	8400	0.0	testing_y2h_v1	test_space_y2h_v1
+7682	10163	0.0	testing_y2h_v1	test_space_y2h_v1
+7682	11788	0.0	testing_y2h_v1	test_space_y2h_v1
+7682	53053	0.0	testing_y2h_v1	test_space_y2h_v1
+7682	54017	0.0	testing_y2h_v1	test_space_y2h_v1
+7682	71060	0.0	testing_y2h_v1	test_space_y2h_v1
+7682	71174		testing_y2h_v1	test_space_y2h_v1
+7714	10140	0.0	testing_y2h_v3	RRS
+7714	10140	0.0	testing_y2h_v1	RRS
+7714	10140	0.0	testing_y2h_v2	RRS
+7750	11661	0.0	testing_y2h_v3	RRS
+7750	11661	0.0	testing_y2h_v1	RRS
+7750	11661	0.0	testing_y2h_v2	RRS
+7750	71367	0.0	testing_y2h_v3	RRS
+7750	71367	0.0	testing_y2h_v1	RRS
+7750	71367	0.0	testing_y2h_v2	RRS
+7804	10279	0.0	testing_y2h_v3	RRS
+7804	10279	0.0	testing_y2h_v1	RRS
+7878	53011	0.0	testing_y2h_v3	RRS
+7878	53011	0.0	testing_y2h_v1	RRS
+7878	53011	0.0	testing_y2h_v2	RRS
+7898	11256	0.0	testing_y2h_v3	Lit_BM_13
+7898	11256	0.0	testing_y2h_v1	Lit_BM_13
+7898	11256	0.0	testing_y2h_v2	Lit_BM_13
+7953	72036	0.0	testing_y2h_v3	Lit_BM_13
+7953	72036	0.0	testing_y2h_v1	Lit_BM_13
+7953	72036	0.0	testing_y2h_v2	Lit_BM_13
+7954	8400	0.0	testing_y2h_v1	test_space_y2h_v1
+7954	8400	0.0	testing_y2h_v2	test_space_y2h_v2
+7954	55254	0.0	testing_y2h_v2	test_space_y2h_v2
+7959	70300	0.0	testing_y2h_v3	Lit_BM_13
+7959	70300	0.0	testing_y2h_v1	Lit_BM_13
+7959	70300	0.0	testing_y2h_v2	Lit_BM_13
+7972	54855	0.0	testing_y2h_v3	RRS
+7972	54855	0.0	testing_y2h_v1	RRS
+7972	71914	0.0	testing_y2h_v3	RRS
+7972	71914	0.0	testing_y2h_v1	RRS
+7972	71914	0.0	testing_y2h_v2	RRS
+7982	72182	0.0	testing_y2h_v3	RRS
+7982	72182	0.0	testing_y2h_v1	RRS
+7986	13303		testing_y2h_v3	test_space_y2h_v3
+8001	11259		testing_y2h_v3	test_space_y2h_v3
+8001	12185	0.0	testing_y2h_v3	test_space_y2h_v3
+8001	12368		testing_y2h_v3	test_space_y2h_v3
+8001	52993	0.0	testing_y2h_v3	test_space_y2h_v3
+8001	70423		testing_y2h_v3	test_space_y2h_v3
+8010	8367	0.0	testing_y2h_v3	Lit_BM_13
+8010	8367	0.0	testing_y2h_v1	Lit_BM_13
+8010	8367	0.0	testing_y2h_v2	Lit_BM_13
+8010	9124	0.0	testing_y2h_v3	Lit_BM_13
+8010	9124	0.0	testing_y2h_v1	Lit_BM_13
+8010	9124	0.0	testing_y2h_v2	Lit_BM_13
+8010	10309	0.0	testing_y2h_v3	Lit_BM_13
+8010	10309		testing_y2h_v1	Lit_BM_13
+8010	10309		testing_y2h_v2	Lit_BM_13
+8010	10576	0.0	testing_y2h_v3	Lit_BM_13
+8010	10576	0.0	testing_y2h_v1	Lit_BM_13
+8010	10576	0.0	testing_y2h_v2	Lit_BM_13
+8010	11407	0.0	testing_y2h_v3	Lit_BM_13
+8010	11407		testing_y2h_v1	Lit_BM_13
+8010	11407		testing_y2h_v2	Lit_BM_13
+8010	12889	0.0	testing_y2h_v3	Lit_BM_13
+8010	12889		testing_y2h_v1	Lit_BM_13
+8010	12889		testing_y2h_v2	Lit_BM_13
+8010	13195	0.0	testing_y2h_v3	Lit_BM_13
+8010	13195	0.0	testing_y2h_v1	Lit_BM_13
+8010	13195	0.0	testing_y2h_v2	Lit_BM_13
+8010	14117	0.0	testing_y2h_v3	Lit_BM_13
+8010	14117	0.0	testing_y2h_v1	Lit_BM_13
+8010	14117	0.0	testing_y2h_v2	Lit_BM_13
+8010	71073	0.0	testing_y2h_v3	Lit_BM_13
+8010	71073		testing_y2h_v1	Lit_BM_13
+8010	71073		testing_y2h_v2	Lit_BM_13
+8010	71249	0.0	testing_y2h_v3	Lit_BM_13
+8010	71249		testing_y2h_v1	Lit_BM_13
+8010	71249		testing_y2h_v2	Lit_BM_13
+8020	70298	0.0	testing_y2h_v3	RRS
+8020	70298	0.0	testing_y2h_v1	RRS
+8028	11723	0.0	testing_y2h_v1	test_space_y2h_v1
+8028	55569	0.0	testing_y2h_v1	test_space_y2h_v1
+8219	10085	0.0	testing_y2h_v3	RRS
+8219	10085	0.0	testing_y2h_v1	RRS
+8245	56827	0.0	testing_y2h_v3	RRS
+8245	56827	0.0	testing_y2h_v1	RRS
+8306	70216	0.0	testing_y2h_v3	Lit_BM_13
+8306	70216	0.0	testing_y2h_v1	Lit_BM_13
+8306	70216	0.0	testing_y2h_v2	Lit_BM_13
+8327	55307	1.0	testing_y2h_v3	test_space_y2h_v3
+8494	11421	0.0	testing_y2h_v3	RRS
+8494	11421	0.0	testing_y2h_v1	RRS
+8494	11421	0.0	testing_y2h_v2	RRS
+8527	100015559	0.0	testing_y2h_v3	RRS
+8527	100015559	0.0	testing_y2h_v1	RRS
+8563	100015985	0.0	testing_y2h_v3	test_space_y2h_v3
+8637	55073		testing_y2h_v3	RRS
+8637	55073	0.0	testing_y2h_v1	RRS
+8773	11100	0.0	testing_y2h_v3	RRS
+8773	11100	0.0	testing_y2h_v1	RRS
+8773	11100	0.0	testing_y2h_v2	RRS
+8773	100016103	0.0	testing_y2h_v3	RRS
+8773	100016103	0.0	testing_y2h_v1	RRS
+8808	12282	0.0	testing_y2h_v2	test_space_y2h_v2
+8808	12624	1.0	testing_y2h_v2	test_space_y2h_v2
+8808	70473	1.0	testing_y2h_v2	test_space_y2h_v2
+8808	71469	0.0	testing_y2h_v3	RRS
+8808	71469	0.0	testing_y2h_v1	RRS
+8808	71469	0.0	testing_y2h_v2	RRS
+8876	11723	0.0	testing_y2h_v3	test_space_y2h_v3
+8876	11738	0.0	testing_y2h_v3	test_space_y2h_v3
+8876	52993	0.0	testing_y2h_v3	test_space_y2h_v3
+8876	100015985	0.0	testing_y2h_v3	test_space_y2h_v3
+8878	12913	0.0	testing_y2h_v1	test_space_y2h_v1
+8886	55569	0.0	testing_y2h_v3	Lit_BM_13
+8886	55569	0.0	testing_y2h_v1	Lit_BM_13
+8886	55569	0.0	testing_y2h_v2	Lit_BM_13
+9063	53584		testing_y2h_v3	RRS
+9063	53584	0.0	testing_y2h_v1	RRS
+9063	53584	0.0	testing_y2h_v2	RRS
+9130	11340	0.0	testing_y2h_v3	Lit_BM_13
+9130	11340	0.0	testing_y2h_v1	Lit_BM_13
+9130	11340	0.0	testing_y2h_v2	Lit_BM_13
+9154	12976	0.0	testing_y2h_v3	RRS
+9154	12976	0.0	testing_y2h_v1	RRS
+9157	11788	0.0	testing_y2h_v2	test_space_y2h_v2
+9157	12624	1.0	testing_y2h_v2	test_space_y2h_v2
+9281	100069229		testing_y2h_v3	RRS
+9281	100069229		testing_y2h_v1	RRS
+9281	100069229		testing_y2h_v2	RRS
+9296	11439	0.0	testing_y2h_v3	RRS
+9296	11439	0.0	testing_y2h_v1	RRS
+9298	10961	0.0	testing_y2h_v3	RRS
+9298	10961	0.0	testing_y2h_v1	RRS
+9298	10961	0.0	testing_y2h_v2	RRS
+9453	9550	0.0	testing_y2h_v2	test_space_y2h_v2
+9453	9999	0.0	testing_y2h_v2	test_space_y2h_v2
+9453	10163	0.0	testing_y2h_v2	test_space_y2h_v2
+9453	10842	0.0	testing_y2h_v2	test_space_y2h_v2
+9453	70473	0.0	testing_y2h_v2	test_space_y2h_v2
+9462	70488	0.0	testing_y2h_v3	RRS
+9462	70488	0.0	testing_y2h_v1	RRS
+9462	70488	0.0	testing_y2h_v2	RRS
+9464	10891	0.0	testing_y2h_v3	RRS
+9464	10891	0.0	testing_y2h_v1	RRS
+9496	10939		testing_y2h_v3	test_space_y2h_v3
+9496	12368		testing_y2h_v3	test_space_y2h_v3
+9496	12894		testing_y2h_v3	test_space_y2h_v3
+9496	13071	0.0	testing_y2h_v3	test_space_y2h_v3
+9637	9640		testing_y2h_v1	test_space_y2h_v1
+9637	10163		testing_y2h_v1	test_space_y2h_v1
+9637	10163		testing_y2h_v3	Lit_BM_13
+9637	10163		testing_y2h_v1	Lit_BM_13
+9637	10163		testing_y2h_v2	Lit_BM_13
+9637	10510		testing_y2h_v1	test_space_y2h_v1
+9637	10568		testing_y2h_v1	test_space_y2h_v1
+9637	10705		testing_y2h_v1	test_space_y2h_v1
+9637	10821		testing_y2h_v1	test_space_y2h_v1
+9637	10842		testing_y2h_v1	test_space_y2h_v1
+9637	11067		testing_y2h_v1	test_space_y2h_v1
+9637	11334		testing_y2h_v1	test_space_y2h_v1
+9637	11410	0.0	testing_y2h_v1	test_space_y2h_v1
+9637	11723		testing_y2h_v1	test_space_y2h_v1
+9637	11738		testing_y2h_v1	test_space_y2h_v1
+9637	11751		testing_y2h_v1	test_space_y2h_v1
+9637	11817		testing_y2h_v1	test_space_y2h_v1
+9637	11895		testing_y2h_v1	test_space_y2h_v1
+9637	12624		testing_y2h_v1	test_space_y2h_v1
+9637	52682		testing_y2h_v1	test_space_y2h_v1
+9637	52993	0.0	testing_y2h_v1	test_space_y2h_v1
+9637	53053		testing_y2h_v1	test_space_y2h_v1
+9637	53053		testing_y2h_v2	test_space_y2h_v2
+9637	54249		testing_y2h_v1	test_space_y2h_v1
+9637	70466		testing_y2h_v1	test_space_y2h_v1
+9637	71149		testing_y2h_v1	test_space_y2h_v1
+9637	71174		testing_y2h_v1	test_space_y2h_v1
+9637	71216		testing_y2h_v3	RRS
+9637	71216		testing_y2h_v1	RRS
+9637	71239		testing_y2h_v1	test_space_y2h_v1
+9637	71402		testing_y2h_v1	test_space_y2h_v1
+9637	71415		testing_y2h_v1	test_space_y2h_v1
+9637	72054	0.0	testing_y2h_v1	test_space_y2h_v1
+9637	72152		testing_y2h_v3	Lit_BM_13
+9637	72152		testing_y2h_v1	Lit_BM_13
+9637	72152		testing_y2h_v2	Lit_BM_13
+9637	100015559		testing_y2h_v1	test_space_y2h_v1
+9637	100015630		testing_y2h_v1	test_space_y2h_v1
+9637	100015985		testing_y2h_v1	test_space_y2h_v1
+9650	11007	0.0	testing_y2h_v3	RRS
+9650	11007	1.0	testing_y2h_v1	RRS
+9806	55378	0.0	testing_y2h_v3	RRS
+9806	55378	0.0	testing_y2h_v1	RRS
+9806	55378	0.0	testing_y2h_v2	RRS
+9837	70216	0.0	testing_y2h_v3	RRS
+9837	70216	0.0	testing_y2h_v1	RRS
+9837	70216	0.0	testing_y2h_v2	RRS
+9846	10876	1.0	testing_y2h_v1	test_space_y2h_v1
+9846	11067	0.0	testing_y2h_v1	test_space_y2h_v1
+9846	11788	0.0	testing_y2h_v1	test_space_y2h_v1
+9846	11789	0.0	testing_y2h_v1	test_space_y2h_v1
+9846	12624	1.0	testing_y2h_v1	test_space_y2h_v1
+9846	52993	0.0	testing_y2h_v1	test_space_y2h_v1
+9846	100015584	1.0	testing_y2h_v1	test_space_y2h_v1
+9922	12744		testing_y2h_v3	RRS
+9922	12744	0.0	testing_y2h_v1	RRS
+9922	12744	0.0	testing_y2h_v2	RRS
+9928	11743	0.0	testing_y2h_v3	RRS
+9928	11743	0.0	testing_y2h_v1	RRS
+9932	71191	0.0	testing_y2h_v3	test_space_y2h_v3
+10016	10163		testing_y2h_v1	test_space_y2h_v1
+10016	10493		testing_y2h_v1	test_space_y2h_v1
+10016	10568		testing_y2h_v1	test_space_y2h_v1
+10016	10705		testing_y2h_v1	test_space_y2h_v1
+10016	10821		testing_y2h_v1	test_space_y2h_v1
+10016	11067		testing_y2h_v1	test_space_y2h_v1
+10016	11163	0.0	testing_y2h_v1	test_space_y2h_v1
+10016	11410		testing_y2h_v1	test_space_y2h_v1
+10016	11526	0.0	testing_y2h_v3	RRS
+10016	11526		testing_y2h_v1	RRS
+10016	11723		testing_y2h_v1	test_space_y2h_v1
+10016	11895		testing_y2h_v1	test_space_y2h_v1
+10016	13142		testing_y2h_v1	test_space_y2h_v1
+10016	52951	0.0	testing_y2h_v1	test_space_y2h_v1
+10016	52993		testing_y2h_v1	test_space_y2h_v1
+10016	53053		testing_y2h_v1	test_space_y2h_v1
+10016	55569		testing_y2h_v1	test_space_y2h_v1
+10023	13160	0.0	testing_y2h_v3	RRS
+10023	13160	0.0	testing_y2h_v1	RRS
+10023	13160	0.0	testing_y2h_v2	RRS
+10101	71060	0.0	testing_y2h_v3	test_space_y2h_v3
+10101	71258	0.0	testing_y2h_v3	test_space_y2h_v3
+10225	70566	0.0	testing_y2h_v3	RRS
+10225	70566	0.0	testing_y2h_v1	RRS
+10715	71470	0.0	testing_y2h_v3	RRS
+10715	71470	0.0	testing_y2h_v1	RRS
+10715	71470	0.0	testing_y2h_v2	RRS
+10715	100016215	0.0	testing_y2h_v3	test_space_y2h_v3
+10773	11818	0.0	testing_y2h_v3	test_space_y2h_v3
+10920	11577	0.0	testing_y2h_v3	RRS
+10920	11577	0.0	testing_y2h_v1	RRS
+10920	11577	0.0	testing_y2h_v2	RRS
+11089	11126		testing_y2h_v3	test_space_y2h_v3
+11089	11259	0.0	testing_y2h_v3	test_space_y2h_v3
+11089	12368		testing_y2h_v3	test_space_y2h_v3
+11235	12916	0.0	testing_y2h_v3	RRS
+11235	12916	0.0	testing_y2h_v1	RRS
+11328	11723	0.0	testing_y2h_v2	test_space_y2h_v2
+11362	12368		testing_y2h_v3	test_space_y2h_v3
+11362	54230	0.0	testing_y2h_v3	test_space_y2h_v3
+11362	70731	0.0	testing_y2h_v3	test_space_y2h_v3
+11362	71423		testing_y2h_v3	test_space_y2h_v3
+11381	12368		testing_y2h_v3	test_space_y2h_v3
+11381	13071	0.0	testing_y2h_v3	test_space_y2h_v3
+11396	11723	0.0	testing_y2h_v3	test_space_y2h_v3
+11396	71402	0.0	testing_y2h_v3	test_space_y2h_v3
+11452	70512	1.0	testing_y2h_v3	test_space_y2h_v3
+11544	53475		testing_y2h_v3	RRS
+11544	53475	0.0	testing_y2h_v1	RRS
+11544	53475	0.0	testing_y2h_v2	RRS
+11582	70636		testing_y2h_v3	RRS
+11582	70636	0.0	testing_y2h_v1	RRS
+11582	70636	0.0	testing_y2h_v2	RRS
+11582	71241	0.0	testing_y2h_v1	test_space_y2h_v1
+11603	54910	0.0	testing_y2h_v3	Lit_BM_13
+11603	54910	0.0	testing_y2h_v1	Lit_BM_13
+11603	54910	0.0	testing_y2h_v2	Lit_BM_13
+11648	11895	0.0	testing_y2h_v1	test_space_y2h_v1
+11648	12733	0.0	testing_y2h_v1	test_space_y2h_v1
+11648	13003	0.0	testing_y2h_v1	test_space_y2h_v1
+11648	52951	0.0	testing_y2h_v1	test_space_y2h_v1
+11706	71131	0.0	testing_y2h_v3	Lit_BM_13
+11706	71131	0.0	testing_y2h_v1	Lit_BM_13
+11706	71131	0.0	testing_y2h_v2	Lit_BM_13
+11706	71252	0.0	testing_y2h_v2	test_space_y2h_v2
+11709	12916	0.0	testing_y2h_v1	test_space_y2h_v1
+11709	72173	0.0	testing_y2h_v3	Lit_BM_13
+11709	72173	0.0	testing_y2h_v1	Lit_BM_13
+11709	72173	0.0	testing_y2h_v2	Lit_BM_13
+11733	11748	0.0	testing_y2h_v1	test_space_y2h_v1
+11733	12913	0.0	testing_y2h_v1	test_space_y2h_v1
+11733	53811	0.0	testing_y2h_v1	test_space_y2h_v1
+11733	71177	0.0	testing_y2h_v1	test_space_y2h_v1
+11733	71276	0.0	testing_y2h_v1	test_space_y2h_v1
+11733	71833	0.0	testing_y2h_v1	test_space_y2h_v1
+11746	13286	0.0	testing_y2h_v1	test_space_y2h_v1
+11746	14215	1.0	testing_y2h_v1	test_space_y2h_v1
+11746	53053	0.0	testing_y2h_v1	test_space_y2h_v1
+11746	71191		testing_y2h_v1	test_space_y2h_v1
+11746	71349	0.0	testing_y2h_v1	test_space_y2h_v1
+11746	71394	0.0	testing_y2h_v1	test_space_y2h_v1
+11753	71082	1.0	testing_y2h_v3	RRS
+11753	71082		testing_y2h_v1	RRS
+11753	71082		testing_y2h_v2	RRS
+11816	12894		testing_y2h_v2	test_space_y2h_v2
+11819	12304		testing_y2h_v3	Lit_BM_13
+11819	12304	0.0	testing_y2h_v1	Lit_BM_13
+11819	12304	0.0	testing_y2h_v2	Lit_BM_13
+12771	70192		testing_y2h_v3	RRS
+12771	70192	0.0	testing_y2h_v1	RRS
+12771	70192	0.0	testing_y2h_v2	RRS
+12865	71079	0.0	testing_y2h_v3	Lit_BM_13
+12865	71079	0.0	testing_y2h_v1	Lit_BM_13
+12865	71079	0.0	testing_y2h_v2	Lit_BM_13
+12900	13142	0.0	testing_y2h_v3	test_space_y2h_v3
+12934	100015600	0.0	testing_y2h_v3	RRS
+12934	100015600	0.0	testing_y2h_v1	RRS
+12943	71301	0.0	testing_y2h_v3	RRS
+12943	71301	0.0	testing_y2h_v1	RRS
+12951	100015630	0.0	testing_y2h_v1	test_space_y2h_v1
+12958	72131	0.0	testing_y2h_v3	RRS
+12958	72131	0.0	testing_y2h_v1	RRS
+12958	72131	0.0	testing_y2h_v2	RRS
+12968	100016209	0.0	testing_y2h_v2	test_space_y2h_v2
+13034	52993		testing_y2h_v3	test_space_y2h_v3
+13056	54207	0.0	testing_y2h_v3	RRS
+13056	54207	0.0	testing_y2h_v1	RRS
+13056	54207	0.0	testing_y2h_v2	RRS
+13067	13142	0.0	testing_y2h_v2	test_space_y2h_v2
+13067	52951	0.0	testing_y2h_v1	test_space_y2h_v1
+13067	70473	0.0	testing_y2h_v1	test_space_y2h_v1
+13067	71894	0.0	testing_y2h_v1	test_space_y2h_v1
+13085	52941	0.0	testing_y2h_v3	RRS
+13085	52941	0.0	testing_y2h_v1	RRS
+13085	52941	0.0	testing_y2h_v2	RRS
+13139	13680	0.0	testing_y2h_v3	RRS
+13139	13680	0.0	testing_y2h_v1	RRS
+13171	71258	1.0	testing_y2h_v3	test_space_y2h_v3
+13171	71301	0.0	testing_y2h_v3	Lit_BM_13
+13171	71301	0.0	testing_y2h_v1	Lit_BM_13
+13171	71301	0.0	testing_y2h_v2	Lit_BM_13
+13182	100015528	0.0	testing_y2h_v3	Lit_BM_13
+13182	100015528	0.0	testing_y2h_v1	Lit_BM_13
+13182	100015528	0.0	testing_y2h_v2	Lit_BM_13
+13221	13303		testing_y2h_v3	test_space_y2h_v3
+13227	71168	0.0	testing_y2h_v3	Lit_BM_13
+13227	71168	0.0	testing_y2h_v1	Lit_BM_13
+13227	71168	0.0	testing_y2h_v2	Lit_BM_13
+13232	70473	1.0	testing_y2h_v2	test_space_y2h_v2
+13267	100015559	0.0	testing_y2h_v3	RRS
+13267	100015559	0.0	testing_y2h_v1	RRS
+13454	100015575	1.0	testing_y2h_v3	test_space_y2h_v3
+13530	100016209	0.0	testing_y2h_v2	test_space_y2h_v2
+13641	53726	0.0	testing_y2h_v3	test_space_y2h_v3
+13641	72104	0.0	testing_y2h_v3	test_space_y2h_v3
+13641	72189	0.0	testing_y2h_v3	RRS
+13641	72189	0.0	testing_y2h_v1	RRS
+13641	72189	0.0	testing_y2h_v2	RRS
+13662	54187	0.0	testing_y2h_v1	test_space_y2h_v1
+13662	56366	0.0	testing_y2h_v1	test_space_y2h_v1
+13832	54043	0.0	testing_y2h_v2	test_space_y2h_v2
+13832	54354	0.0	testing_y2h_v2	test_space_y2h_v2
+13832	100016209	0.0	testing_y2h_v2	test_space_y2h_v2
+13832	100064144	0.0	testing_y2h_v2	test_space_y2h_v2
+14268	70748	0.0	testing_y2h_v3	RRS
+14268	70748	0.0	testing_y2h_v1	RRS
+14269	53053		testing_y2h_v3	test_space_y2h_v3
+14269	71402	0.0	testing_y2h_v3	test_space_y2h_v3
+14366	54296	0.0	testing_y2h_v3	RRS
+14366	54296	0.0	testing_y2h_v1	RRS
+14366	54296	0.0	testing_y2h_v2	RRS
+14398	54249		testing_y2h_v1	test_space_y2h_v1
+14495	55547	0.0	testing_y2h_v3	RRS
+14495	55547	0.0	testing_y2h_v1	RRS
+14495	55547	0.0	testing_y2h_v2	RRS
+14495	71823	0.0	testing_y2h_v1	test_space_y2h_v1
+14498	55254	0.0	testing_y2h_v2	test_space_y2h_v2
+14524	71300	0.0	testing_y2h_v3	RRS
+14524	71300	0.0	testing_y2h_v1	RRS
+14524	71300	0.0	testing_y2h_v2	RRS
+14525	52993		testing_y2h_v3	test_space_y2h_v3
+14525	53774	0.0	testing_y2h_v3	test_space_y2h_v3
+14525	54230	0.0	testing_y2h_v3	test_space_y2h_v3
+14525	54579		testing_y2h_v3	test_space_y2h_v3
+14534	55891	0.0	testing_y2h_v3	RRS
+14534	55891	0.0	testing_y2h_v1	RRS
+14538	54038	0.0	testing_y2h_v3	RRS
+14538	54038	0.0	testing_y2h_v1	RRS
+14538	54038	0.0	testing_y2h_v2	RRS
+14590	71173	0.0	testing_y2h_v3	RRS
+14590	71173	0.0	testing_y2h_v1	RRS
+14590	71173	0.0	testing_y2h_v2	RRS
+14596	70731	0.0	testing_y2h_v2	test_space_y2h_v2
+14596	71823	0.0	testing_y2h_v3	RRS
+14596	71823	0.0	testing_y2h_v1	RRS
+14596	71823	0.0	testing_y2h_v2	RRS
+14624	71823	0.0	testing_y2h_v3	test_space_y2h_v3
+14646	55254	0.0	testing_y2h_v1	test_space_y2h_v1
+14654	70737	0.0	testing_y2h_v3	RRS
+14654	70737	0.0	testing_y2h_v1	RRS
+14682	71995	0.0	testing_y2h_v3	RRS
+14682	71995	0.0	testing_y2h_v1	RRS
+14682	71995	0.0	testing_y2h_v2	RRS
+14804	71416	0.0	testing_y2h_v3	RRS
+14804	71416	0.0	testing_y2h_v1	RRS
+14804	71416	0.0	testing_y2h_v2	RRS
+14808	71994		testing_y2h_v3	RRS
+14808	71994	0.0	testing_y2h_v1	RRS
+14808	71994	0.0	testing_y2h_v2	RRS
+14862	52987	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	53053	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	54249		testing_y2h_v1	test_space_y2h_v1
+14862	54455	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	70949	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	71060	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	71131	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	71149	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	71174		testing_y2h_v1	test_space_y2h_v1
+14862	71382	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	71402	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	71415	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	72067	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	100015985	0.0	testing_y2h_v1	test_space_y2h_v1
+14862	100016109	0.0	testing_y2h_v1	test_space_y2h_v1
+14983	71621	0.0	testing_y2h_v1	test_space_y2h_v1
+14983	100015630	0.0	testing_y2h_v1	test_space_y2h_v1
+14993	53866	0.0	testing_y2h_v3	RRS
+14993	53866	0.0	testing_y2h_v1	RRS
+14993	53866	0.0	testing_y2h_v2	RRS
+15000	71301	0.0	testing_y2h_v1	test_space_y2h_v1
+15005	53182	0.0	testing_y2h_v3	Lit_BM_13
+15005	53182	0.0	testing_y2h_v1	Lit_BM_13
+15005	53182	0.0	testing_y2h_v2	Lit_BM_13
+52686	54579		testing_y2h_v3	test_space_y2h_v3
+52707	70423		testing_y2h_v3	test_space_y2h_v3
+52751	52993		testing_y2h_v3	test_space_y2h_v3
+52751	53726	1.0	testing_y2h_v3	test_space_y2h_v3
+52751	70275		testing_y2h_v3	test_space_y2h_v3
+52752	100016209	0.0	testing_y2h_v3	RRS
+52752	100016209	0.0	testing_y2h_v1	RRS
+52752	100016209	0.0	testing_y2h_v2	RRS
+52806	71191		testing_y2h_v3	test_space_y2h_v3
+52808	71334	0.0	testing_y2h_v3	RRS
+52808	71334	0.0	testing_y2h_v1	RRS
+52849	71174	1.0	testing_y2h_v3	test_space_y2h_v3
+52849	71245	0.0	testing_y2h_v3	test_space_y2h_v3
+52849	71258		testing_y2h_v3	test_space_y2h_v3
+52849	71402	0.0	testing_y2h_v3	test_space_y2h_v3
+52853	71924	0.0	testing_y2h_v3	RRS
+52853	71924	0.0	testing_y2h_v1	RRS
+52900	52950	0.0	testing_y2h_v3	RRS
+52900	52950	0.0	testing_y2h_v1	RRS
+53008	70121	0.0	testing_y2h_v3	RRS
+53008	70121	0.0	testing_y2h_v1	RRS
+53008	70121	0.0	testing_y2h_v2	RRS
+53120	55699	0.0	testing_y2h_v2	test_space_y2h_v2
+53152	100069237	0.0	testing_y2h_v3	RRS
+53152	100069237	0.0	testing_y2h_v1	RRS
+53218	54455	0.0	testing_y2h_v3	Lit_BM_13
+53218	54455	0.0	testing_y2h_v1	Lit_BM_13
+53218	54455	0.0	testing_y2h_v2	Lit_BM_13
+53277	71621	0.0	testing_y2h_v3	RRS
+53277	71621	0.0	testing_y2h_v1	RRS
+53277	71621	0.0	testing_y2h_v2	RRS
+53326	100015528	0.0	testing_y2h_v3	Lit_BM_13
+53326	100015528	0.0	testing_y2h_v1	Lit_BM_13
+53326	100015528	0.0	testing_y2h_v2	Lit_BM_13
+53341	70300	0.0	testing_y2h_v3	Lit_BM_13
+53341	70300	0.0	testing_y2h_v1	Lit_BM_13
+53341	70300	0.0	testing_y2h_v2	Lit_BM_13
+53651	100069229	0.0	testing_y2h_v3	RRS
+53651	100069229		testing_y2h_v1	RRS
+53727	56280	0.0	testing_y2h_v3	RRS
+53727	56280	0.0	testing_y2h_v1	RRS
+53727	56280	0.0	testing_y2h_v2	RRS
+53882	54230	0.0	testing_y2h_v3	test_space_y2h_v3
+53941	100015951	0.0	testing_y2h_v3	Lit_BM_13
+53941	100015951	0.0	testing_y2h_v1	Lit_BM_13
+53941	100015951	0.0	testing_y2h_v2	Lit_BM_13
+53960	70636	0.0	testing_y2h_v3	Lit_BM_13
+53960	70636	0.0	testing_y2h_v1	Lit_BM_13
+53960	70636	0.0	testing_y2h_v2	Lit_BM_13
+54020	70975	0.0	testing_y2h_v3	RRS
+54020	70975	0.0	testing_y2h_v1	RRS
+54020	70975	0.0	testing_y2h_v2	RRS
+54095	72179	0.0	testing_y2h_v3	Lit_BM_13
+54095	72179	0.0	testing_y2h_v1	Lit_BM_13
+54095	72179	0.0	testing_y2h_v2	Lit_BM_13
+54172	70473	0.0	testing_y2h_v2	test_space_y2h_v2
+54237	100015985	0.0	testing_y2h_v3	test_space_y2h_v3
+54242	100016103	0.0	testing_y2h_v3	RRS
+54242	100016103	0.0	testing_y2h_v1	RRS
+54242	100016103	0.0	testing_y2h_v2	RRS
+54334	40080558	0.0	testing_y2h_v3	Lit_BM_13
+54334	40080558	0.0	testing_y2h_v1	Lit_BM_13
+54334	40080558	0.0	testing_y2h_v2	Lit_BM_13
+54491	71258		testing_y2h_v3	test_space_y2h_v3
+54567	71191		testing_y2h_v3	test_space_y2h_v3
+54665	54855	0.0	testing_y2h_v2	test_space_y2h_v2
+54665	100016209	1.0	testing_y2h_v2	test_space_y2h_v2
+55351	71402	0.0	testing_y2h_v1	test_space_y2h_v1
+55351	72217	0.0	testing_y2h_v1	test_space_y2h_v1
+55579	72036	0.0	testing_y2h_v3	RRS
+55579	72036	0.0	testing_y2h_v1	RRS
+55579	72036	0.0	testing_y2h_v2	RRS
+56294	71682		testing_y2h_v3	Lit_BM_13
+56294	71682	0.0	testing_y2h_v1	Lit_BM_13
+56294	71682	0.0	testing_y2h_v2	Lit_BM_13
+56300	100069237	0.0	testing_y2h_v3	Lit_BM_13
+56300	100069237	0.0	testing_y2h_v1	Lit_BM_13
+56300	100069237	0.0	testing_y2h_v2	Lit_BM_13
+56834	71823	0.0	testing_y2h_v1	test_space_y2h_v1
+56846	71436	0.0	testing_y2h_v3	RRS
+56846	71436	0.0	testing_y2h_v1	RRS
+56861	71131	0.0	testing_y2h_v3	RRS
+56861	71131	0.0	testing_y2h_v1	RRS
+56880	71245	0.0	testing_y2h_v3	RRS
+56880	71245	0.0	testing_y2h_v1	RRS
+70504	71258		testing_y2h_v3	test_space_y2h_v3
+70794	71191		testing_y2h_v3	test_space_y2h_v3
+70849	71900	0.0	testing_y2h_v3	RRS
+70849	71900	0.0	testing_y2h_v1	RRS
+70849	71900	0.0	testing_y2h_v2	RRS
+70862	72204	0.0	testing_y2h_v3	RRS
+70862	72204	0.0	testing_y2h_v1	RRS
+40080652	100016085	0.0	testing_y2h_v2	test_space_y2h_v2
+40080842	100069224	0.0	testing_y2h_v3	Lit_BM_13
+40080842	100069224	0.0	testing_y2h_v1	Lit_BM_13
+40080842	100069224	0.0	testing_y2h_v2	Lit_BM_13
+100001965	100016103	0.0	testing_y2h_v1	test_space_y2h_v1
+100002625	100015630	0.0	testing_y2h_v1	test_space_y2h_v1
+100011241	100015985	0.0	testing_y2h_v1	test_space_y2h_v1
+100014472	100069237	0.0	testing_y2h_v3	RRS
+100014472	100069237	0.0	testing_y2h_v1	RRS
+100014472	100069237	0.0	testing_y2h_v2	RRS

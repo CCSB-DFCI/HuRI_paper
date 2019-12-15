@@ -1,0 +1,9 @@
+Name	pDest-DB	pDest-AD-CHY2	pDest-AD-CHY2--QZ213	pDest-AD-CHY2-AR68
+Fusion location (aa)	Gal4-DB (1-147)	Gal4-AD (768-881)	Gal4-AD (768-881)	Gal4-AD (768-881)
+Fusion location	N-terminus	N-terminus	N-terminus	C-terminus
+Promoter (nt)	Truncated ADH1 (-701 to 1) 	Truncated ADH1 (-701 to 1) 	Truncated ADH1 (-410 to +1)	Truncated ADH1 (-410 to +1)
+Yeast replication ori	CEN	CEN	2_	2_
+Linker sequence	SRSNQ	GGSNQ	ICMAYPYDVPDYASLGGHMAMEAPS	VDGTA
+Terminator	ADH1 Term	ADH1 Term	ADH1 Term	ADH1 Term
+Selection marker	Ampicillin 	Ampicillin 	Ampicillin 	Ampicillin 
+Assay version	1,2,3	1	2	3

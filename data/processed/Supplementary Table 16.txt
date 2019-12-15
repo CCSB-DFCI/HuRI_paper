@@ -1,0 +1,821 @@
+ensembl_gene_id	gene_symbol	gene_descr	num_PPIs	GO_ID	GO_name	prediction_method	num_publications	p_value	z_score	effect_size
+ENSG00000204131	NHSL2	NHS like 2	27	GO:2001233	regulation of apoptotic signaling pathway	direct	4	0.0	9.22925	5.07459
+ENSG00000204131	NHSL2	NHS like 2	27	GO:2001235	positive regulation of apoptotic signaling pathway	direct	4	0.0	11.7752	4.77288
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001233	regulation of apoptotic signaling pathway	direct	90	0.0	7.03346	4.42498
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001235	positive regulation of apoptotic signaling pathway	direct	90	0.0	9.18744	4.38799
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0006915	apoptotic process	direct	90	0.0	8.91465	4.33899
+ENSG00000183323	CCDC125	coiled-coil domain containing 125	65	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	3	0.0	13.1624	4.11941
+ENSG00000183323	CCDC125	coiled-coil domain containing 125	65	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	3	0.0	13.1624	4.11941
+ENSG00000183323	CCDC125	coiled-coil domain containing 125	65	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	3	0.0	12.7976	4.09213
+ENSG00000183323	CCDC125	coiled-coil domain containing 125	65	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	3	0.0	11.8377	4.01147
+ENSG00000171552	BCL2L1	BCL2 like 1	20	GO:0006915	apoptotic process	direct	631	0.0	10.9484	3.92577
+ENSG00000171552	BCL2L1	BCL2 like 1	20	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	631	0.0	18.2258	3.5186
+ENSG00000171552	BCL2L1	BCL2 like 1	20	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	631	0.0	17.2289	3.48873
+ENSG00000204131	NHSL2	NHS like 2	27	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	4	0.0	16.0849	3.44914
+ENSG00000204131	NHSL2	NHS like 2	27	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	4	0.0	16.0849	3.44914
+ENSG00000204131	NHSL2	NHS like 2	27	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	4	0.0	15.6982	3.43419
+ENSG00000148346	LCN2	lipocalin 2	58	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	530	0.0	7.52043	3.38078
+ENSG00000204131	NHSL2	NHS like 2	27	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	4	0.0	14.386	3.3783
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0097190	apoptotic signaling pathway	direct	90	5e-05	7.13345	3.28569
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	90	0.0	12.239	3.25801
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	90	0.0	11.3858	3.19812
+ENSG00000183323	CCDC125	coiled-coil domain containing 125	65	GO:2001235	positive regulation of apoptotic signaling pathway	direct	3	5e-05	6.00477	2.94437
+ENSG00000171552	BCL2L1	BCL2 like 1	20	GO:0001844	protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	631	0.0	35.646	2.82498
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0001844	protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	90	0.0	23.7081	2.73218
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	90	0.0001	7.02075	2.65421
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0097193	intrinsic apoptotic signaling pathway	direct	90	5e-05	7.01888	2.6497
+ENSG00000063978	RNF4	ring finger protein 4	96	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	75	0.0	6.82008	2.59843
+ENSG00000140379	BCL2A1	BCL2 related protein A1	4	GO:0006915	apoptotic process	direct	85	0.0	15.3954	2.57825
+ENSG00000140379	BCL2A1	BCL2 related protein A1	4	GO:2001235	positive regulation of apoptotic signaling pathway	direct	85	0.0	15.1448	2.57076
+ENSG00000171552	BCL2L1	BCL2 like 1	20	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	631	0.0	13.9687	2.53157
+ENSG00000171552	BCL2L1	BCL2 like 1	20	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	631	0.0	13.9687	2.53157
+ENSG00000137875	BCL2L10	BCL2 like 10	6	GO:2001235	positive regulation of apoptotic signaling pathway	direct	36	5e-05	12.8552	2.48927
+ENSG00000137875	BCL2L10	BCL2 like 10	6	GO:0006915	apoptotic process	direct	36	5e-05	12.7369	2.48357
+ENSG00000244687	UBE2V1	ubiquitin conjugating enzyme E2 V1	8	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	77	0.0	12.5923	2.47751
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	direct	90	0.0	11.4931	2.42368
+ENSG00000080986	NDC80	NDC80, kinetochore complex component	29	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	99	0.0	11.0522	2.39962
+ENSG00000107249	GLIS3	GLIS family zinc finger 3	7	GO:0097190	apoptotic signaling pathway	direct	34	0.0	11.0599	2.39827
+ENSG00000140379	BCL2A1	BCL2 related protein A1	4	GO:2001233	regulation of apoptotic signaling pathway	direct	85	0.0	10.6959	2.37733
+ENSG00000188021	UBQLN2	ubiquilin 2	245	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	direct	75	5e-05	5.80457	2.35134
+ENSG00000144597	EAF1	ELL associated factor 1	42	GO:2001234	negative regulation of apoptotic signaling pathway	direct	23	0.00025	5.77364	2.35
+ENSG00000080986	NDC80	NDC80, kinetochore complex component	29	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	99	0.0	10.2174	2.34746
+ENSG00000180354	MTURN	maturin, neural progenitor differentiation regulator homolog	22	GO:2001233	regulation of apoptotic signaling pathway	direct	10	0.0002	5.70404	2.32793
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	90	0.0	9.34287	2.27889
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	90	0.0	9.34287	2.27889
+ENSG00000180089	TMEM86B	transmembrane protein 86B	107	GO:2000269	regulation of fibroblast apoptotic process	direct	5	0.0	9.15238	2.26394
+ENSG00000135951	TSGA10	testis specific 10	43	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	17	0.0	8.84386	2.23636
+ENSG00000125991	ERGIC3	ERGIC and golgi 3	195	GO:0008637	apoptotic mitochondrial changes	direct	21	0.0003	5.42695	2.22782
+ENSG00000137875	BCL2L10	BCL2 like 10	6	GO:2001233	regulation of apoptotic signaling pathway	direct	36	0.0002	8.57631	2.21367
+ENSG00000135951	TSGA10	testis specific 10	43	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	17	0.0	8.2353	2.17633
+ENSG00000129675	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6	14	GO:2001235	positive regulation of apoptotic signaling pathway	direct	58	0.0002	8.16411	2.16994
+ENSG00000179262	RAD23A	RAD23 homolog A, nucleotide excision repair protein	30	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	116	5e-05	7.71911	2.11691
+ENSG00000171552	BCL2L1	BCL2 like 1	20	GO:0097193	intrinsic apoptotic signaling pathway	direct	631	0.0001	7.66386	2.1143
+ENSG00000244687	UBE2V1	ubiquitin conjugating enzyme E2 V1	8	GO:2001233	regulation of apoptotic signaling pathway	direct	77	5e-05	7.35524	2.07118
+ENSG00000197191	CYSRT1	cysteine rich tail 1	499	GO:2000351	regulation of endothelial cell apoptotic process	direct	5	0.0008	4.85853	2.03582
+ENSG00000204131	NHSL2	NHS like 2	27	GO:0097193	intrinsic apoptotic signaling pathway	direct	4	0.0003	6.64738	1.96735
+ENSG00000179262	RAD23A	RAD23 homolog A, nucleotide excision repair protein	30	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	116	0.0002	6.50178	1.94202
+ENSG00000197191	CYSRT1	cysteine rich tail 1	499	GO:1904035	regulation of epithelial cell apoptotic process	direct	5	0.00115	4.60279	1.93293
+ENSG00000204231	RXRB	retinoid X receptor beta	9	GO:0043277	apoptotic cell clearance	direct	87	0.0	60.3023	1.9326
+ENSG00000144597	EAF1	ELL associated factor 1	42	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	23	0.00025	6.43368	1.93144
+ENSG00000180354	MTURN	maturin, neural progenitor differentiation regulator homolog	22	GO:2001235	positive regulation of apoptotic signaling pathway	direct	10	0.00045	6.39806	1.92611
+ENSG00000188021	UBQLN2	ubiquilin 2	245	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	75	0.0024	3.59522	1.92564
+ENSG00000179262	RAD23A	RAD23 homolog A, nucleotide excision repair protein	30	GO:2001233	regulation of apoptotic signaling pathway	direct	116	0.0015	4.57386	1.92556
+ENSG00000171135	JAGN1	jagunal homolog 1	122	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	12	0.0	6.44768	1.9254
+ENSG00000174695	TMEM167A	transmembrane protein 167A	2	GO:2000269	regulation of fibroblast apoptotic process	direct	9	0.0	50.0	1.91846
+ENSG00000143171	RXRG	retinoid X receptor gamma	11	GO:0043277	apoptotic cell clearance	direct	85	0.0	50.0	1.91846
+ENSG00000137875	BCL2L10	BCL2 like 10	6	GO:0001844	protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	36	0.0	48.5071	1.91591
+ENSG00000100290	BIK	BCL2 interacting killer	85	GO:0008637	apoptotic mitochondrial changes	direct	77	0.00035	6.32634	1.91194
+ENSG00000063978	RNF4	ring finger protein 4	96	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	75	0.00075	4.55154	1.90023
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:2001239	regulation of extrinsic apoptotic signaling pathway in absence of ligand	direct	294	0.0	38.4901	1.89352
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	direct	294	0.0	38.4901	1.89352
+ENSG00000185900	POMK	protein-O-mannose kinase	3	GO:2000269	regulation of fibroblast apoptotic process	direct	16	0.0	38.4901	1.89352
+ENSG00000171552	BCL2L1	BCL2 like 1	20	GO:0097190	apoptotic signaling pathway	direct	631	0.0005	6.14106	1.88237
+ENSG00000143418	CERS2	ceramide synthase 2	3	GO:2000269	regulation of fibroblast apoptotic process	direct	49	0.0	34.8156	1.882
+ENSG00000169016	E2F6	E2F transcription factor 6	2	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	60	0.0	32.8799	1.87487
+ENSG00000169016	E2F6	E2F transcription factor 6	2	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	60	0.0	32.8799	1.87487
+ENSG00000168734	PKIG	protein kinase (cAMP-dependent, catalytic) inhibitor gamma	2	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	15	0.0	32.8799	1.87487
+ENSG00000168734	PKIG	protein kinase (cAMP-dependent, catalytic) inhibitor gamma	2	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	15	0.0	32.8799	1.87487
+ENSG00000177025	C19orf18	chromosome 19 open reading frame 18	4	GO:2000269	regulation of fibroblast apoptotic process	direct	5	0.0	32.4443	1.87315
+ENSG00000169016	E2F6	E2F transcription factor 6	2	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	60	0.0	32.0257	1.87144
+ENSG00000143375	CGN	cingulin	2	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	33	0.0	30.8607	1.86646
+ENSG00000168734	PKIG	protein kinase (cAMP-dependent, catalytic) inhibitor gamma	2	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	15	0.0	30.8607	1.86646
+ENSG00000169016	E2F6	E2F transcription factor 6	2	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	60	0.0	29.4885	1.86007
+ENSG00000102871	TRADD	TNFRSF1A associated via death domain	2	GO:2001238	positive regulation of extrinsic apoptotic signaling pathway	direct	133	0.0	28.8676	1.85697
+ENSG00000168734	PKIG	protein kinase (cAMP-dependent, catalytic) inhibitor gamma	2	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	15	0.0	28.5715	1.85544
+ENSG00000181013	C17orf47	chromosome 17 open reading frame 47	2	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	4	0.0	28.0057	1.85244
+ENSG00000181013	C17orf47	chromosome 17 open reading frame 47	2	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	4	0.0	28.0057	1.85244
+ENSG00000181013	C17orf47	chromosome 17 open reading frame 47	2	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	4	0.0	28.0057	1.85244
+ENSG00000134825	TMEM258	transmembrane protein 258	5	GO:2000269	regulation of fibroblast apoptotic process	direct	19	0.0	27.4722	1.84948
+ENSG00000179085	DPM3	dolichyl-phosphate mannosyltransferase subunit 3	5	GO:2000269	regulation of fibroblast apoptotic process	direct	12	0.0	27.4722	1.84948
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	direct	294	0.0	26.9681	1.84658
+ENSG00000176490	DIRAS1	DIRAS family GTPase 1	3	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	13	0.0	26.7262	1.84515
+ENSG00000162227	TAF6L	TATA-box binding protein associated factor 6 like	3	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	29	0.0	26.4908	1.84373
+ENSG00000162227	TAF6L	TATA-box binding protein associated factor 6 like	3	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	29	0.0	26.4908	1.84373
+ENSG00000143375	CGN	cingulin	2	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	33	0.0	26.4908	1.84373
+ENSG00000143375	CGN	cingulin	2	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	33	0.0	26.4908	1.84373
+ENSG00000181013	C17orf47	chromosome 17 open reading frame 47	2	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	4	0.0	26.2614	1.84233
+ENSG00000143375	CGN	cingulin	2	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	33	0.0	25.82	1.83955
+ENSG00000162227	TAF6L	TATA-box binding protein associated factor 6 like	3	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	29	0.0	25.6075	1.83817
+ENSG00000162227	TAF6L	TATA-box binding protein associated factor 6 like	3	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	29	0.0	25.1978	1.83546
+ENSG00000143375	CGN	cingulin	2	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	33	0.0	25.1978	1.83546
+ENSG00000114209	PDCD10	programmed cell death 10	11	GO:0097194	execution phase of apoptosis	direct	88	0.0	24.6184	1.83146
+ENSG00000170373	CST1	cystatin SN	6	GO:2000269	regulation of fibroblast apoptotic process	direct	34	0.0	24.434	1.83014
+ENSG00000176490	DIRAS1	DIRAS family GTPase 1	3	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	13	0.0	24.0773	1.82754
+ENSG00000176490	DIRAS1	DIRAS family GTPase 1	3	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	13	0.0	24.0773	1.82754
+ENSG00000176490	DIRAS1	DIRAS family GTPase 1	3	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	13	0.0	23.9047	1.82625
+ENSG00000148346	LCN2	lipocalin 2	58	GO:2001233	regulation of apoptotic signaling pathway	direct	530	0.00235	3.77073	1.82505
+ENSG00000179133	C10orf67	chromosome 10 open reading frame 67	12	GO:2001239	regulation of extrinsic apoptotic signaling pathway in absence of ligand	direct	7	0.0	22.7923	1.81748
+ENSG00000179133	C10orf67	chromosome 10 open reading frame 67	12	GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	direct	7	0.0	22.7923	1.81748
+ENSG00000176490	DIRAS1	DIRAS family GTPase 1	3	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	13	0.0	22.3609	1.81383
+ENSG00000100934	SEC23A	Sec23 homolog A, coat complex II component	25	GO:2001235	positive regulation of apoptotic signaling pathway	direct	50	0.00055	5.77996	1.80818
+ENSG00000166946	CCNDBP1	cyclin D1 binding protein 1	46	GO:0043277	apoptotic cell clearance	direct	38	0.0	21.5668	1.80673
+ENSG00000137875	BCL2L10	BCL2 like 10	6	GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	direct	36	5e-05	21.3182	1.80457
+ENSG00000162227	TAF6L	TATA-box binding protein associated factor 6 like	3	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	29	0.0	21.3203	1.80441
+ENSG00000162227	TAF6L	TATA-box binding protein associated factor 6 like	3	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	29	0.0	21.3203	1.80441
+ENSG00000143384	MCL1	BCL2 family apoptosis regulator	4	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	545	0.0	20.5198	1.79649
+ENSG00000205250	E2F4	E2F transcription factor 4	4	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	126	0.0	19.8032	1.78884
+ENSG00000205250	E2F4	E2F transcription factor 4	4	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	126	0.0	19.8032	1.78884
+ENSG00000140379	BCL2A1	BCL2 related protein A1	4	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	85	0.0	19.8032	1.78884
+ENSG00000143384	MCL1	BCL2 family apoptosis regulator	4	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	545	0.0	19.0695	1.7804
+ENSG00000205250	E2F4	E2F transcription factor 4	4	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	126	0.0	19.0695	1.7804
+ENSG00000140379	BCL2A1	BCL2 related protein A1	4	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	85	0.0	18.6504	1.77526
+ENSG00000138439	FAM117B	family with sequence similarity 117 member B	5	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	17	0.0	18.4903	1.77324
+ENSG00000138439	FAM117B	family with sequence similarity 117 member B	5	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	17	0.0	18.4903	1.77324
+ENSG00000123094	RASSF8	Ras association domain family member 8	6	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	30	0.0	18.2578	1.77023
+ENSG00000138439	FAM117B	family with sequence similarity 117 member B	5	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	17	0.0	18.1075	1.76824
+ENSG00000205250	E2F4	E2F transcription factor 4	4	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	126	0.0	17.9609	1.76627
+ENSG00000162227	TAF6L	TATA-box binding protein associated factor 6 like	3	GO:2001243	negative regulation of intrinsic apoptotic signaling pathway	direct	29	0.0	17.7475	1.76335
+ENSG00000111262	KCNA1	potassium voltage-gated channel subfamily A member 1	14	GO:2000269	regulation of fibroblast apoptotic process	direct	71	5e-05	17.6763	1.76253
+ENSG00000171033	PKIA	protein kinase (cAMP-dependent, catalytic) inhibitor alpha	6	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	25	5e-05	17.6076	1.76157
+ENSG00000171033	PKIA	protein kinase (cAMP-dependent, catalytic) inhibitor alpha	6	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	25	5e-05	17.6076	1.76157
+ENSG00000104081	BMF	Bcl2 modifying factor	15	GO:2001239	regulation of extrinsic apoptotic signaling pathway in absence of ligand	direct	41	0.0001	17.3392	1.7579
+ENSG00000104081	BMF	Bcl2 modifying factor	15	GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	direct	41	0.0001	17.3392	1.7579
+ENSG00000171033	PKIA	protein kinase (cAMP-dependent, catalytic) inhibitor alpha	6	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	25	5e-05	17.0238	1.75303
+ENSG00000106330	MOSPD3	motile sperm domain containing 3	18	GO:2000269	regulation of fibroblast apoptotic process	direct	5	0.0	17.0255	1.75288
+ENSG00000143375	CGN	cingulin	2	GO:0097193	intrinsic apoptotic signaling pathway	direct	33	5e-05	16.9018	1.75117
+ENSG00000138439	FAM117B	family with sequence similarity 117 member B	5	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	17	0.0	16.9035	1.75102
+ENSG00000129675	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6	14	GO:1900117	regulation of execution phase of apoptosis	direct	58	0.0	16.9035	1.75102
+ENSG00000137875	BCL2L10	BCL2 like 10	6	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	36	0.0001	16.6638	1.74764
+ENSG00000137875	BCL2L10	BCL2 like 10	6	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	36	0.0001	16.6638	1.74764
+ENSG00000123094	RASSF8	Ras association domain family member 8	6	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	30	5e-05	16.3834	1.74295
+ENSG00000123094	RASSF8	Ras association domain family member 8	6	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	30	5e-05	16.3834	1.74295
+ENSG00000137875	BCL2L10	BCL2 like 10	6	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	36	0.0001	16.1663	1.73952
+ENSG00000123094	RASSF8	Ras association domain family member 8	6	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	30	5e-05	16.1679	1.73936
+ENSG00000171033	PKIA	protein kinase (cAMP-dependent, catalytic) inhibitor alpha	6	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	25	5e-05	15.9606	1.73583
+ENSG00000122557	HERPUD2	HERPUD family member 2	17	GO:2000269	regulation of fibroblast apoptotic process	direct	11	5e-05	15.91	1.73495
+ENSG00000174417	TRHR	thyrotropin releasing hormone receptor	18	GO:2000269	regulation of fibroblast apoptotic process	direct	32	0.0	15.9117	1.7348
+ENSG00000104154	SLC30A4	solute carrier family 30 member 4	15	GO:2000269	regulation of fibroblast apoptotic process	direct	29	5e-05	15.522	1.72801
+ENSG00000063978	RNF4	ring finger protein 4	96	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	75	0.00055	5.46421	1.72526
+ENSG00000185808	PIGP	phosphatidylinositol glycan anchor biosynthesis class P	18	GO:2000269	regulation of fibroblast apoptotic process	direct	12	0.0	15.3399	1.72446
+ENSG00000137875	BCL2L10	BCL2 like 10	6	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	36	0.0001	15.2474	1.72306
+ENSG00000168734	PKIG	protein kinase (cAMP-dependent, catalytic) inhibitor gamma	2	GO:2001235	positive regulation of apoptotic signaling pathway	direct	15	0.0	15.2504	1.72277
+ENSG00000123094	RASSF8	Ras association domain family member 8	6	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	30	5e-05	14.9897	1.7179
+ENSG00000144597	EAF1	ELL associated factor 1	42	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	23	0.0007	5.39021	1.71762
+ENSG00000104140	RHOV	ras homolog family member V	2	GO:0006915	apoptotic process	direct	12	0.0	14.7851	1.71363
+ENSG00000129675	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6	14	GO:2001233	regulation of apoptotic signaling pathway	direct	58	0.0009	5.35043	1.71178
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	294	0.0	14.6654	1.71118
+ENSG00000169016	E2F6	E2F transcription factor 6	2	GO:2001235	positive regulation of apoptotic signaling pathway	direct	60	0.0	14.5872	1.70956
+ENSG00000162227	TAF6L	TATA-box binding protein associated factor 6 like	3	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	29	0.0001	14.5456	1.70905
+ENSG00000155256	ZFYVE27	zinc finger FYVE-type containing 27	18	GO:2000269	regulation of fibroblast apoptotic process	direct	19	5e-05	14.547	1.7089
+ENSG00000221818	EBF2	early B-cell factor 2	3	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	17	5e-05	14.3215	1.7041
+ENSG00000204131	NHSL2	NHS like 2	27	GO:0097190	apoptotic signaling pathway	direct	4	0.00085	5.33092	1.7041
+ENSG00000080986	NDC80	NDC80, kinetochore complex component	29	GO:2001235	positive regulation of apoptotic signaling pathway	direct	99	0.00105	5.31356	1.70257
+ENSG00000143375	CGN	cingulin	2	GO:0097190	apoptotic signaling pathway	direct	33	0.0001	14.2112	1.70186
+ENSG00000107249	GLIS3	GLIS family zinc finger 3	7	GO:0097191	extrinsic apoptotic signaling pathway	direct	34	5e-05	14.2126	1.70172
+ENSG00000181013	C17orf47	chromosome 17 open reading frame 47	2	GO:2001235	positive regulation of apoptotic signaling pathway	direct	4	5e-05	14.1414	1.70014
+ENSG00000176490	DIRAS1	DIRAS family GTPase 1	3	GO:0097193	intrinsic apoptotic signaling pathway	direct	13	5e-05	14.1062	1.69936
+ENSG00000143375	CGN	cingulin	2	GO:2001235	positive regulation of apoptotic signaling pathway	direct	33	5e-05	13.9003	1.69469
+ENSG00000172531	PPP1CA	protein phosphatase 1 catalytic subunit alpha	11	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	221	5e-05	13.7354	1.69084
+ENSG00000116237	ICMT	isoprenylcysteine carboxyl methyltransferase	8	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	26	0.0001	13.4212	1.68341
+ENSG00000116237	ICMT	isoprenylcysteine carboxyl methyltransferase	8	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	26	0.0001	13.4212	1.68341
+ENSG00000175550	DRAP1	DR1 associated protein 1	12	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	35	5e-05	12.991	1.67221
+ENSG00000175550	DRAP1	DR1 associated protein 1	12	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	35	5e-05	12.991	1.67221
+ENSG00000189401	OTUD6A	OTU deubiquitinase 6A	11	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	6	0.0001	12.8284	1.66802
+ENSG00000189401	OTUD6A	OTU deubiquitinase 6A	11	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	6	0.0001	12.8284	1.66802
+ENSG00000175550	DRAP1	DR1 associated protein 1	12	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	35	5e-05	12.8297	1.66788
+ENSG00000189401	OTUD6A	OTU deubiquitinase 6A	11	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	6	0.0001	12.5724	1.6609
+ENSG00000171135	JAGN1	jagunal homolog 1	122	GO:0008637	apoptotic mitochondrial changes	direct	12	0.00065	5.19138	1.66074
+ENSG00000179262	RAD23A	RAD23 homolog A, nucleotide excision repair protein	30	GO:2001234	negative regulation of apoptotic signaling pathway	direct	116	0.0013	5.13671	1.65906
+ENSG00000096092	TMEM14A	transmembrane protein 14A	27	GO:2000269	regulation of fibroblast apoptotic process	direct	11	0.0001	12.4985	1.65879
+ENSG00000175550	DRAP1	DR1 associated protein 1	12	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	35	5e-05	12.3795	1.65517
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	294	0.0001	12.3546	1.65461
+ENSG00000089723	OTUB2	OTU deubiquitinase, ubiquitin aldehyde binding 2	13	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	25	0.00025	12.3275	1.65433
+ENSG00000172531	PPP1CA	protein phosphatase 1 catalytic subunit alpha	11	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	221	0.00015	12.2833	1.65267
+ENSG00000172531	PPP1CA	protein phosphatase 1 catalytic subunit alpha	11	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	221	0.00015	12.2833	1.65267
+ENSG00000167741	GGT6	gamma-glutamyltransferase 6	9	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	9	5e-05	12.2168	1.65034
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	294	0.00015	12.1916	1.64992
+ENSG00000176490	DIRAS1	DIRAS family GTPase 1	3	GO:2001235	positive regulation of apoptotic signaling pathway	direct	13	0.0	12.1057	1.64679
+ENSG00000080845	DLGAP4	DLG associated protein 4	18	GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	direct	27	0.00025	12.012	1.64474
+ENSG00000172531	PPP1CA	protein phosphatase 1 catalytic subunit alpha	11	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	221	0.00015	12.0143	1.64448
+ENSG00000121073	SLC35B1	solute carrier family 35 member B1	16	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	15	0.0001	11.9724	1.64299
+ENSG00000113368	LMNB1	lamin B1	14	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	148	0.0001	11.7433	1.63565
+ENSG00000189401	OTUD6A	OTU deubiquitinase 6A	11	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	6	0.0002	11.6807	1.63393
+ENSG00000116237	ICMT	isoprenylcysteine carboxyl methyltransferase	8	GO:2001243	negative regulation of intrinsic apoptotic signaling pathway	direct	26	0.0001	11.546	1.62909
+ENSG00000096401	CDC5L	cell division cycle 5 like	13	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	105	0.0001	11.5268	1.62844
+ENSG00000129675	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6	14	GO:2001238	positive regulation of extrinsic apoptotic signaling pathway	direct	58	0.00015	11.5065	1.62792
+ENSG00000140379	BCL2A1	BCL2 related protein A1	4	GO:0097193	intrinsic apoptotic signaling pathway	direct	85	0.0001	11.4887	1.62714
+ENSG00000167741	GGT6	gamma-glutamyltransferase 6	9	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	9	0.0001	11.451	1.62584
+ENSG00000176490	DIRAS1	DIRAS family GTPase 1	3	GO:0097190	apoptotic signaling pathway	direct	13	0.0001	11.4136	1.62455
+ENSG00000119820	YIPF4	Yip1 domain family member 4	32	GO:2000269	regulation of fibroblast apoptotic process	direct	20	0.00025	11.3549	1.62301
+ENSG00000108733	PEX12	peroxisomal biogenesis factor 12	34	GO:2000269	regulation of fibroblast apoptotic process	direct	24	0.0001	11.3218	1.62134
+ENSG00000172531	PPP1CA	protein phosphatase 1 catalytic subunit alpha	11	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	221	0.0002	11.23	1.61841
+ENSG00000187569	DPPA3	developmental pluripotency associated 3	13	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	13	0.00025	11.1414	1.61538
+ENSG00000187569	DPPA3	developmental pluripotency associated 3	13	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	13	0.00025	11.1414	1.61538
+ENSG00000113368	LMNB1	lamin B1	14	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	148	0.0002	10.9406	1.60775
+ENSG00000113368	LMNB1	lamin B1	14	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	148	0.0002	10.9406	1.60775
+ENSG00000163762	TM4SF18	transmembrane 4 L six family member 18	34	GO:2000269	regulation of fibroblast apoptotic process	direct	7	5e-05	10.9439	1.60737
+ENSG00000125991	ERGIC3	ERGIC and golgi 3	195	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	21	0.00025	5.02095	1.60724
+ENSG00000162227	TAF6L	TATA-box binding protein associated factor 6 like	3	GO:2001234	negative regulation of apoptotic signaling pathway	direct	29	0.0003	10.8098	1.60307
+ENSG00000187569	DPPA3	developmental pluripotency associated 3	13	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	13	0.00025	10.7794	1.60172
+ENSG00000111665	CDCA3	cell division cycle associated 3	5	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	27	0.0001	10.7671	1.60073
+ENSG00000184033	CTAG1B	cancer/testis antigen 1B	75	GO:0006915	apoptotic process	direct	91	0.0024	3.92034	1.59977
+ENSG00000183323	CCDC125	coiled-coil domain containing 125	65	GO:2001233	regulation of apoptotic signaling pathway	direct	3	0.0038	3.48558	1.59943
+ENSG00000113368	LMNB1	lamin B1	14	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	148	0.0002	10.7184	1.59915
+ENSG00000181552	EDDM3B	epididymal protein 3B	20	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	9	0.0002	10.7184	1.59915
+ENSG00000181552	EDDM3B	epididymal protein 3B	20	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	9	0.0002	10.7184	1.59915
+ENSG00000056558	TRAF1	TNF receptor associated factor 1	111	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	195	0.00065	4.97478	1.59856
+ENSG00000188167	TMPPE	transmembrane protein with metallophosphoesterase domain	36	GO:2000269	regulation of fibroblast apoptotic process	direct	3	0.0002	10.6123	1.59492
+ENSG00000175550	DRAP1	DR1 associated protein 1	12	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	35	0.0002	10.5973	1.59431
+ENSG00000175550	DRAP1	DR1 associated protein 1	12	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	35	0.0002	10.5973	1.59431
+ENSG00000099219	ERMP1	endoplasmic reticulum metallopeptidase 1	38	GO:2000269	regulation of fibroblast apoptotic process	direct	12	0.00025	10.5814	1.59384
+ENSG00000188191	PRKAR1B	protein kinase cAMP-dependent type I regulatory subunit beta	70	GO:0097190	apoptotic signaling pathway	direct	48	0.00255	3.90478	1.59245
+ENSG00000136935	GOLGA1	golgin A1	18	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	22	0.00015	10.5541	1.59239
+ENSG00000096401	CDC5L	cell division cycle 5 like	13	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	105	0.00025	10.4937	1.59025
+ENSG00000096401	CDC5L	cell division cycle 5 like	13	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	105	0.00025	10.4937	1.59025
+ENSG00000181552	EDDM3B	epididymal protein 3B	20	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	9	0.0002	10.466	1.58893
+ENSG00000121073	SLC35B1	solute carrier family 35 member B1	16	GO:2001233	regulation of apoptotic signaling pathway	direct	15	0.00225	4.88172	1.58799
+ENSG00000205250	E2F4	E2F transcription factor 4	4	GO:2001235	positive regulation of apoptotic signaling pathway	direct	126	0.0002	10.4091	1.58656
+ENSG00000168734	PKIG	protein kinase (cAMP-dependent, catalytic) inhibitor gamma	2	GO:2001233	regulation of apoptotic signaling pathway	direct	15	0.0001	10.3692	1.58454
+ENSG00000244687	UBE2V1	ubiquitin conjugating enzyme E2 V1	8	GO:2001243	negative regulation of intrinsic apoptotic signaling pathway	direct	77	0.0003	10.3373	1.58385
+ENSG00000096401	CDC5L	cell division cycle 5 like	13	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	105	0.00025	10.2835	1.58138
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:2001238	positive regulation of extrinsic apoptotic signaling pathway	direct	14	0.00015	10.2585	1.57997
+ENSG00000113368	LMNB1	lamin B1	14	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	148	0.0002	10.2306	1.57893
+ENSG00000181552	EDDM3B	epididymal protein 3B	20	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	9	0.00025	10.1765	1.57673
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:0097296	activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	direct	14	0.00015	10.1785	1.57648
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:2001233	regulation of apoptotic signaling pathway	direct	14	0.00175	4.84758	1.57465
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:2001269	positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	direct	14	0.00015	10.1262	1.57417
+ENSG00000105122	RASAL3	RAS protein activator like 3	22	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	7	0.0001	10.063	1.57118
+ENSG00000169016	E2F6	E2F transcription factor 6	2	GO:2001233	regulation of apoptotic signaling pathway	direct	60	5e-05	10.0641	1.57106
+ENSG00000174460	ZCCHC12	zinc finger CCHC-type containing 12	18	GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	direct	18	0.00025	10.0346	1.57039
+ENSG00000143375	CGN	cingulin	2	GO:2001233	regulation of apoptotic signaling pathway	direct	33	0.00025	10.0094	1.56925
+ENSG00000143384	MCL1	BCL2 family apoptosis regulator	4	GO:0006915	apoptotic process	direct	545	0.00015	9.99894	1.56844
+ENSG00000137875	BCL2L10	BCL2 like 10	6	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	36	0.00035	9.92084	1.56551
+ENSG00000187569	DPPA3	developmental pluripotency associated 3	13	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	13	0.0003	9.92183	1.56539
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:2001234	negative regulation of apoptotic signaling pathway	direct	294	0.0002	9.92383	1.56515
+ENSG00000181013	C17orf47	chromosome 17 open reading frame 47	2	GO:2001233	regulation of apoptotic signaling pathway	direct	4	0.0003	9.90964	1.56482
+ENSG00000121073	SLC35B1	solute carrier family 35 member B1	16	GO:0008637	apoptotic mitochondrial changes	direct	15	0.00035	9.89651	1.56438
+ENSG00000087448	KLHL42	kelch like family member 42	25	GO:1902175	regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	direct	19	0.0001	9.86537	1.56209
+ENSG00000123094	RASSF8	Ras association domain family member 8	6	GO:0097193	intrinsic apoptotic signaling pathway	direct	30	0.0003	9.83745	1.56144
+ENSG00000147679	UTP23	UTP23, small subunit processome component	15	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	direct	14	0.00025	9.74459	1.55685
+ENSG00000096401	CDC5L	cell division cycle 5 like	13	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	105	0.00025	9.74459	1.55685
+ENSG00000169562	GJB1	gap junction protein beta 1	46	GO:2000269	regulation of fibroblast apoptotic process	direct	198	0.00025	9.73305	1.5563
+ENSG00000090661	CERS4	ceramide synthase 4	48	GO:2000269	regulation of fibroblast apoptotic process	direct	12	0.0002	9.71107	1.55507
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:2001267	regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	direct	14	0.00025	9.69866	1.55463
+ENSG00000219200	RNASEK	ribonuclease K	24	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	12	0.00035	9.6627	1.55321
+ENSG00000108433	GOSR2	golgi SNAP receptor complex member 2	47	GO:2000269	regulation of fibroblast apoptotic process	direct	36	0.0002	9.64315	1.55175
+ENSG00000140379	BCL2A1	BCL2 related protein A1	4	GO:0097190	apoptotic signaling pathway	direct	85	0.00025	9.60873	1.55022
+ENSG00000103275	UBE2I	ubiquitin conjugating enzyme E2 I	115	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	431	0.0009	4.79448	1.54911
+ENSG00000036549	ZZZ3	zinc finger ZZ-type containing 3	6	GO:0097193	intrinsic apoptotic signaling pathway	direct	22	0.0004	9.56182	1.54838
+ENSG00000136935	GOLGA1	golgin A1	18	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	22	0.0001	9.55674	1.54713
+ENSG00000136935	GOLGA1	golgin A1	18	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	22	0.0001	9.55674	1.54713
+ENSG00000167741	GGT6	gamma-glutamyltransferase 6	9	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	9	0.0002	9.50074	1.54464
+ENSG00000163762	TM4SF18	transmembrane 4 L six family member 18	34	GO:0006915	apoptotic process	direct	7	0.002	4.72797	1.53853
+ENSG00000063978	RNF4	ring finger protein 4	96	GO:2001233	regulation of apoptotic signaling pathway	direct	75	0.00555	3.18121	1.53714
+ENSG00000100934	SEC23A	Sec23 homolog A, coat complex II component	25	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	50	0.00025	9.29252	1.534
+ENSG00000136935	GOLGA1	golgin A1	18	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	22	0.0002	9.29348	1.53388
+ENSG00000268651	CTAG1A	cancer/testis antigen 1A	75	GO:0006915	apoptotic process	direct	19	0.00365	3.78896	1.53303
+ENSG00000146416	AIG1	androgen induced 1	47	GO:2000269	regulation of fibroblast apoptotic process	direct	17	0.00025	9.27254	1.53293
+ENSG00000105122	RASAL3	RAS protein activator like 3	22	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	7	0.00035	9.24093	1.53157
+ENSG00000105122	RASAL3	RAS protein activator like 3	22	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	7	0.00035	9.24093	1.53157
+ENSG00000103202	NME4	NME/NM23 nucleoside diphosphate kinase 4	35	GO:0006915	apoptotic process	direct	36	0.0025	4.68182	1.52988
+ENSG00000138439	FAM117B	family with sequence similarity 117 member B	5	GO:2001235	positive regulation of apoptotic signaling pathway	direct	17	0.0004	9.20081	1.52957
+ENSG00000116237	ICMT	isoprenylcysteine carboxyl methyltransferase	8	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	26	0.00035	9.11533	1.52473
+ENSG00000017797	RALBP1	ralA binding protein 1	24	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	86	0.0006	9.04531	1.52164
+ENSG00000132406	TMEM128	transmembrane protein 128	57	GO:2000269	regulation of fibroblast apoptotic process	direct	9	0.0004	8.97569	1.51705
+ENSG00000175104	TRAF6	TNF receptor associated factor 6	19	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	direct	522	0.00035	8.96757	1.51642
+ENSG00000105122	RASAL3	RAS protein activator like 3	22	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	7	0.00045	8.9478	1.51561
+ENSG00000166405	RIC3	RIC3 acetylcholine receptor chaperone	15	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	36	0.0002	8.95236	1.51506
+ENSG00000188191	PRKAR1B	protein kinase cAMP-dependent type I regulatory subunit beta	70	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	48	0.00035	8.8788	1.51129
+ENSG00000197191	CYSRT1	cysteine rich tail 1	499	GO:2000352	negative regulation of endothelial cell apoptotic process	direct	5	0.00245	4.61559	1.50585
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	14	0.00035	8.76725	1.5047
+ENSG00000104064	GABPB1	GA binding protein transcription factor beta subunit 1	7	GO:0097193	intrinsic apoptotic signaling pathway	direct	41	0.0007	8.72771	1.50346
+ENSG00000080845	DLGAP4	DLG associated protein 4	18	GO:2001233	regulation of apoptotic signaling pathway	direct	27	0.0025	4.59423	1.50101
+ENSG00000136935	GOLGA1	golgin A1	18	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	22	0.00045	8.64188	1.4974
+ENSG00000204131	NHSL2	NHS like 2	27	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	4	0.00045	8.62579	1.49641
+ENSG00000103502	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase	53	GO:2000269	regulation of fibroblast apoptotic process	direct	28	0.00055	8.61606	1.49613
+ENSG00000181552	EDDM3B	epididymal protein 3B	20	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	9	0.0005	8.5851	1.49404
+ENSG00000124103	FAM209A	family with sequence similarity 209 member A	231	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	9	0.00055	4.64426	1.494
+ENSG00000181552	EDDM3B	epididymal protein 3B	20	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	9	0.0005	8.56933	1.49305
+ENSG00000175550	DRAP1	DR1 associated protein 1	12	GO:2001243	negative regulation of intrinsic apoptotic signaling pathway	direct	35	0.0005	8.56147	1.49255
+ENSG00000123094	RASSF8	Ras association domain family member 8	6	GO:2001235	positive regulation of apoptotic signaling pathway	direct	30	0.0005	8.56147	1.49255
+ENSG00000099812	MISP	mitotic spindle positioning	49	GO:0097193	intrinsic apoptotic signaling pathway	direct	12	0.0024	4.5723	1.49225
+ENSG00000176619	LMNB2	lamin B2	27	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	64	0.0004	8.55537	1.49185
+ENSG00000167476	JSRP1	junctional sarcoplasmic reticulum protein 1	8	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	10	0.00035	8.54064	1.49076
+ENSG00000171033	PKIA	protein kinase (cAMP-dependent, catalytic) inhibitor alpha	6	GO:2001235	positive regulation of apoptotic signaling pathway	direct	25	0.00045	8.51565	1.48949
+ENSG00000174460	ZCCHC12	zinc finger CCHC-type containing 12	18	GO:0097191	extrinsic apoptotic signaling pathway	direct	18	0.0005	8.42369	1.48374
+ENSG00000166405	RIC3	RIC3 acetylcholine receptor chaperone	15	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	36	0.0003	8.368	1.47945
+ENSG00000198189	HSD17B11	hydroxysteroid 17-beta dehydrogenase 11	58	GO:1904035	regulation of epithelial cell apoptotic process	direct	25	0.0006	8.33379	1.47815
+ENSG00000017797	RALBP1	ralA binding protein 1	24	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	86	0.0005	8.33546	1.47794
+ENSG00000017797	RALBP1	ralA binding protein 1	24	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	86	0.0005	8.33546	1.47794
+ENSG00000104969	SGTA	small glutamine rich tetratricopeptide repeat containing alpha	130	GO:0006915	apoptotic process	direct	87	0.0043	3.33174	1.47642
+ENSG00000221818	EBF2	early B-cell factor 2	3	GO:2001233	regulation of apoptotic signaling pathway	direct	17	0.0006	8.305	1.47623
+ENSG00000124098	FAM210B	family with sequence similarity 210 member B	63	GO:2000269	regulation of fibroblast apoptotic process	direct	10	0.00045	8.30036	1.47543
+ENSG00000036549	ZZZ3	zinc finger ZZ-type containing 3	6	GO:2001235	positive regulation of apoptotic signaling pathway	direct	22	0.0005	8.28526	1.47458
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	14	0.00045	8.27901	1.474
+ENSG00000198807	PAX9	paired box 9	15	GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	87	0.0005	8.25698	1.47267
+ENSG00000080986	NDC80	NDC80, kinetochore complex component	29	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	99	0.0006	8.24129	1.47193
+ENSG00000144597	EAF1	ELL associated factor 1	42	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	23	0.0025	4.50132	1.47129
+ENSG00000105122	RASAL3	RAS protein activator like 3	22	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	7	0.0008	8.21021	1.47044
+ENSG00000176490	DIRAS1	DIRAS family GTPase 1	3	GO:2001233	regulation of apoptotic signaling pathway	direct	13	0.0004	8.18921	1.46772
+ENSG00000179133	C10orf67	chromosome 10 open reading frame 67	12	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	7	0.00055	8.17302	1.46708
+ENSG00000176619	LMNB2	lamin B2	27	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	64	0.0007	8.14939	1.46608
+ENSG00000176619	LMNB2	lamin B2	27	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	64	0.0007	8.14939	1.46608
+ENSG00000017797	RALBP1	ralA binding protein 1	24	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	86	0.0005	8.16024	1.46603
+ENSG00000177042	TMEM80	transmembrane protein 80	64	GO:2000269	regulation of fibroblast apoptotic process	direct	2	0.00055	8.04641	1.45817
+ENSG00000056558	TRAF1	TNF receptor associated factor 1	111	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	195	0.00165	4.50687	1.45739
+ENSG00000167741	GGT6	gamma-glutamyltransferase 6	9	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	9	0.0006	8.00683	1.45549
+ENSG00000219200	RNASEK	ribonuclease K	24	GO:0008637	apoptotic mitochondrial changes	direct	12	0.0008	7.95283	1.4522
+ENSG00000127191	TRAF2	TNF receptor associated factor 2	190	GO:0002903	negative regulation of B cell apoptotic process	direct	393	0.0001	7.97066	1.45127
+ENSG00000127191	TRAF2	TNF receptor associated factor 2	190	GO:0070229	negative regulation of lymphocyte apoptotic process	direct	393	0.0001	7.97066	1.45127
+ENSG00000176619	LMNB2	lamin B2	27	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	64	0.00085	7.91381	1.44964
+ENSG00000187634	SAMD11	sterile alpha motif domain containing 11	23	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	direct	9	0.0004	7.92178	1.44864
+ENSG00000162227	TAF6L	TATA-box binding protein associated factor 6 like	3	GO:2001233	regulation of apoptotic signaling pathway	direct	29	0.0007	7.88609	1.44695
+ENSG00000036549	ZZZ3	zinc finger ZZ-type containing 3	6	GO:0097190	apoptotic signaling pathway	direct	22	0.0008	7.8662	1.44578
+ENSG00000100934	SEC23A	Sec23 homolog A, coat complex II component	25	GO:0008637	apoptotic mitochondrial changes	direct	50	0.0005	7.87706	1.44564
+ENSG00000123094	RASSF8	Ras association domain family member 8	6	GO:0097190	apoptotic signaling pathway	direct	30	0.00085	7.84723	1.44451
+ENSG00000172243	CLEC7A	C-type lectin domain family 7 member A	35	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	100	0.0007	7.76043	1.43743
+ENSG00000112763	BTN2A1	butyrophilin subfamily 2 member A1	6	GO:0006915	apoptotic process	direct	21	0.00085	7.67763	1.43146
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	direct	90	0.001	7.60837	1.42642
+ENSG00000100577	GSTZ1	glutathione S-transferase zeta 1	8	GO:2001234	negative regulation of apoptotic signaling pathway	direct	64	0.00065	7.5972	1.42442
+ENSG00000197191	CYSRT1	cysteine rich tail 1	499	GO:1904036	negative regulation of epithelial cell apoptotic process	direct	5	0.00335	4.36521	1.42431
+ENSG00000197771	MCMBP	minichromosome maintenance complex binding protein	9	GO:0097193	intrinsic apoptotic signaling pathway	direct	34	0.00085	7.57776	1.42349
+ENSG00000172243	CLEC7A	C-type lectin domain family 7 member A	35	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	100	0.0008	7.53002	1.41944
+ENSG00000144597	EAF1	ELL associated factor 1	42	GO:2001233	regulation of apoptotic signaling pathway	direct	23	0.00355	3.60947	1.41913
+ENSG00000017797	RALBP1	ralA binding protein 1	24	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	86	0.00085	7.49746	1.41692
+ENSG00000080986	NDC80	NDC80, kinetochore complex component	29	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	99	0.00115	7.4773	1.41619
+ENSG00000080986	NDC80	NDC80, kinetochore complex component	29	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	99	0.00115	7.4773	1.41619
+ENSG00000197870	PRB3	proline rich protein BstNI subfamily 3	7	GO:2001234	negative regulation of apoptotic signaling pathway	direct	14	0.001	7.4579	1.41426
+ENSG00000100290	BIK	BCL2 interacting killer	85	GO:2001239	regulation of extrinsic apoptotic signaling pathway in absence of ligand	direct	77	0.00045	7.44117	1.41097
+ENSG00000100290	BIK	BCL2 interacting killer	85	GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	direct	77	0.00045	7.44117	1.41097
+ENSG00000100557	C14orf105	chromosome 14 open reading frame 105	16	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	direct	7	0.00105	7.37623	1.40735
+ENSG00000158869	FCER1G	Fc fragment of IgE receptor Ig	76	GO:2000269	regulation of fibroblast apoptotic process	direct	51	0.0008	7.37991	1.40689
+ENSG00000103275	UBE2I	ubiquitin conjugating enzyme E2 I	115	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	431	0.0017	4.34757	1.40501
+ENSG00000131791	PRKAB2	protein kinase AMP-activated non-catalytic subunit beta 2	125	GO:0097193	intrinsic apoptotic signaling pathway	direct	58	0.00385	3.61262	1.40487
+ENSG00000176619	LMNB2	lamin B2	27	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	64	0.00115	7.30898	1.40217
+ENSG00000116030	SUMO1	small ubiquitin-like modifier 1	19	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	491	0.00075	7.31624	1.40124
+ENSG00000069869	NEDD4	neural precursor cell expressed, developmentally down-regulated 4, E3 ubiquitin protein ligase	7	GO:0097190	apoptotic signaling pathway	direct	266	0.0009	7.29938	1.40024
+ENSG00000188368	PRR19	proline rich 19	7	GO:0097190	apoptotic signaling pathway	direct	3	0.00085	7.30012	1.40015
+ENSG00000104064	GABPB1	GA binding protein transcription factor beta subunit 1	7	GO:0097190	apoptotic signaling pathway	direct	41	0.00105	7.29235	1.4001
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	direct	14	0.0007	7.30236	1.39988
+ENSG00000127191	TRAF2	TNF receptor associated factor 2	190	GO:0002902	regulation of B cell apoptotic process	direct	393	0.0002	7.31013	1.39899
+ENSG00000116237	ICMT	isoprenylcysteine carboxyl methyltransferase	8	GO:2001234	negative regulation of apoptotic signaling pathway	direct	26	0.0006	7.2845	1.398
+ENSG00000115271	GCA	grancalcin	11	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	29	0.00075	7.27261	1.39743
+ENSG00000166405	RIC3	RIC3 acetylcholine receptor chaperone	15	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	36	0.0007	7.26377	1.39649
+ENSG00000270765	GAS2L2	growth arrest specific 2 like 2	35	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	4	0.00085	7.24248	1.39508
+ENSG00000113648	H2AFY	H2A histone family member Y	11	GO:0097193	intrinsic apoptotic signaling pathway	direct	98	0.0008	7.23774	1.39466
+ENSG00000089486	CDIP1	cell death inducing p53 target 1	11	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	13	0.00085	7.20015	1.3913
+ENSG00000104081	BMF	Bcl2 modifying factor	15	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	41	0.001	7.16484	1.38874
+ENSG00000143158	MPC2	mitochondrial pyruvate carrier 2	12	GO:0097193	intrinsic apoptotic signaling pathway	direct	26	0.00095	7.12524	1.38481
+ENSG00000034713	GABARAPL2	GABA type A receptor associated protein like 2	34	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	76	0.00115	7.1068	1.3842
+ENSG00000034713	GABARAPL2	GABA type A receptor associated protein like 2	34	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	76	0.00115	7.1068	1.3842
+ENSG00000110330	BIRC2	baculoviral IAP repeat containing 2	17	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	direct	243	0.0006	7.13039	1.38419
+ENSG00000127191	TRAF2	TNF receptor associated factor 2	190	GO:2000107	negative regulation of leukocyte apoptotic process	direct	393	0.00065	7.12062	1.38345
+ENSG00000129028	THAP10	THAP domain containing 10	4	GO:2001233	regulation of apoptotic signaling pathway	direct	11	0.001	7.09756	1.38242
+ENSG00000123560	PLP1	proteolipid protein 1	77	GO:2000269	regulation of fibroblast apoptotic process	direct	158	0.00115	7.07764	1.38103
+ENSG00000137210	TMEM14B	transmembrane protein 14B	220	GO:1901029	negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	8	0.0004	7.09752	1.38055
+ENSG00000135018	UBQLN1	ubiquilin 1	105	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	115	0.0012	7.03737	1.37742
+ENSG00000100557	C14orf105	chromosome 14 open reading frame 105	16	GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	7	0.00115	7.03807	1.37733
+ENSG00000100290	BIK	BCL2 interacting killer	85	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	77	0.00255	4.25439	1.37567
+ENSG00000153551	CMTM7	CKLF like MARVEL transmembrane domain containing 7	46	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	10	0.0008	7.01273	1.37385
+ENSG00000153551	CMTM7	CKLF like MARVEL transmembrane domain containing 7	46	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	10	0.0008	7.01273	1.37385
+ENSG00000205250	E2F4	E2F transcription factor 4	4	GO:2001233	regulation of apoptotic signaling pathway	direct	126	0.0013	6.96728	1.37106
+ENSG00000162975	KCNF1	potassium voltage-gated channel modifier subfamily F member 1	8	GO:0006915	apoptotic process	direct	6	0.0012	6.96865	1.37089
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	14	0.00095	6.97639	1.37086
+ENSG00000172531	PPP1CA	protein phosphatase 1 catalytic subunit alpha	11	GO:0097193	intrinsic apoptotic signaling pathway	direct	221	0.001	6.96722	1.37013
+ENSG00000135185	TMEM243	transmembrane protein 243	42	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	10	0.00115	6.96089	1.36999
+ENSG00000135185	TMEM243	transmembrane protein 243	42	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	10	0.00115	6.96089	1.36999
+ENSG00000184601	C14orf180	chromosome 14 open reading frame 180	46	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	3	0.0008	6.95744	1.36857
+ENSG00000184601	C14orf180	chromosome 14 open reading frame 180	46	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	3	0.0008	6.95744	1.36857
+ENSG00000135951	TSGA10	testis specific 10	43	GO:2001235	positive regulation of apoptotic signaling pathway	direct	17	0.00365	4.20749	1.36658
+ENSG00000168826	ZBTB49	zinc finger and BTB domain containing 49	8	GO:0097190	apoptotic signaling pathway	direct	7	0.00105	6.92465	1.36617
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	14	0.00085	6.87822	1.36101
+ENSG00000034713	GABARAPL2	GABA type A receptor associated protein like 2	34	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	76	0.0014	6.85245	1.36061
+ENSG00000179133	C10orf67	chromosome 10 open reading frame 67	12	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	7	0.0013	6.85981	1.36057
+ENSG00000188021	UBQLN2	ubiquilin 2	245	GO:2001233	regulation of apoptotic signaling pathway	direct	75	0.0095	2.68613	1.36047
+ENSG00000153551	CMTM7	CKLF like MARVEL transmembrane domain containing 7	46	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	10	0.00095	6.8687	1.36037
+ENSG00000244687	UBE2V1	ubiquitin conjugating enzyme E2 V1	8	GO:2001234	negative regulation of apoptotic signaling pathway	direct	77	0.00125	6.8404	1.35849
+ENSG00000135185	TMEM243	transmembrane protein 243	42	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	10	0.0012	6.81719	1.35601
+ENSG00000174460	ZCCHC12	zinc finger CCHC-type containing 12	18	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	direct	18	0.00145	6.8046	1.35582
+ENSG00000184601	C14orf180	chromosome 14 open reading frame 180	46	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	3	0.001	6.78849	1.3525
+ENSG00000181552	EDDM3B	epididymal protein 3B	20	GO:2001243	negative regulation of intrinsic apoptotic signaling pathway	direct	9	0.00155	6.76484	1.35194
+ENSG00000113916	BCL6	B-cell CLL/lymphoma 6	30	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	direct	315	0.0008	6.77574	1.35059
+ENSG00000198398	TMEM207	transmembrane protein 207	9	GO:0006915	apoptotic process	direct	6	0.0009	6.7435	1.34761
+ENSG00000110330	BIRC2	baculoviral IAP repeat containing 2	17	GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	243	0.00075	6.73037	1.3458
+ENSG00000175550	DRAP1	DR1 associated protein 1	12	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	35	0.00145	6.7012	1.34507
+ENSG00000169446	MMGT1	membrane magnesium transporter 1	52	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	18	0.0011	6.69904	1.34363
+ENSG00000153551	CMTM7	CKLF like MARVEL transmembrane domain containing 7	46	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	10	0.0012	6.65676	1.33951
+ENSG00000167741	GGT6	gamma-glutamyltransferase 6	9	GO:2001234	negative regulation of apoptotic signaling pathway	direct	9	0.0015	6.63444	1.33806
+ENSG00000125409	TEKT3	tektin 3	31	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	direct	11	0.00065	6.6098	1.33284
+ENSG00000184601	C14orf180	chromosome 14 open reading frame 180	46	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	3	0.00115	6.5672	1.32978
+ENSG00000135185	TMEM243	transmembrane protein 243	42	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	10	0.0014	6.55616	1.3295
+ENSG00000179262	RAD23A	RAD23 homolog A, nucleotide excision repair protein	30	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	116	0.0009	6.57062	1.32939
+ENSG00000118402	ELOVL4	ELOVL fatty acid elongase 4	96	GO:2000269	regulation of fibroblast apoptotic process	direct	50	0.0013	6.53294	1.32666
+ENSG00000188021	UBQLN2	ubiquilin 2	245	GO:0001844	protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	75	0.00145	6.52056	1.32576
+ENSG00000116030	SUMO1	small ubiquitin-like modifier 1	19	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	direct	491	0.00135	6.51905	1.32513
+ENSG00000135951	TSGA10	testis specific 10	43	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	17	0.00095	6.5279	1.32489
+ENSG00000174460	ZCCHC12	zinc finger CCHC-type containing 12	18	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	18	0.00155	6.49236	1.32279
+ENSG00000063978	RNF4	ring finger protein 4	96	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	direct	75	0.0028	4.10325	1.31985
+ENSG00000063978	RNF4	ring finger protein 4	96	GO:2001235	positive regulation of apoptotic signaling pathway	direct	75	0.0047	3.46641	1.31834
+ENSG00000015153	YAF2	YY1 associated factor 2	20	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	direct	28	0.002	6.43934	1.31822
+ENSG00000174460	ZCCHC12	zinc finger CCHC-type containing 12	18	GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	18	0.0018	6.44057	1.31806
+ENSG00000129675	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6	14	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	58	0.0016	6.44035	1.31728
+ENSG00000171703	TCEA2	transcription elongation factor A2	96	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	direct	28	0.00315	4.10591	1.31712
+ENSG00000099365	STX1B	syntaxin 1B	26	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	20	0.00125	6.44554	1.31665
+ENSG00000212938	KRTAP6-3	keratin associated protein 6-3	159	GO:2000352	negative regulation of endothelial cell apoptotic process	direct	2	0.00125	6.42557	1.3144
+ENSG00000089723	OTUB2	OTU deubiquitinase, ubiquitin aldehyde binding 2	13	GO:0097193	intrinsic apoptotic signaling pathway	direct	25	0.00165	6.37068	1.30949
+ENSG00000144597	EAF1	ELL associated factor 1	42	GO:2001267	regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	direct	23	0.00095	6.3708	1.30723
+ENSG00000213654	GPSM3	G-protein signaling modulator 3	38	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	26	0.0023	6.31543	1.30486
+ENSG00000213654	GPSM3	G-protein signaling modulator 3	38	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	26	0.0023	6.31543	1.30486
+ENSG00000162735	PEX19	peroxisomal biogenesis factor 19	10	GO:2001235	positive regulation of apoptotic signaling pathway	direct	75	0.0019	6.31963	1.3043
+ENSG00000145365	TIFA	TRAF interacting protein with forkhead associated domain	10	GO:2001235	positive regulation of apoptotic signaling pathway	direct	20	0.0021	6.30342	1.3033
+ENSG00000079805	DNM2	dynamin 2	10	GO:2001234	negative regulation of apoptotic signaling pathway	direct	199	0.00175	6.30635	1.30214
+ENSG00000096401	CDC5L	cell division cycle 5 like	13	GO:0097193	intrinsic apoptotic signaling pathway	direct	105	0.00115	6.31903	1.30213
+ENSG00000034713	GABARAPL2	GABA type A receptor associated protein like 2	34	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	76	0.0021	6.28096	1.30079
+ENSG00000138439	FAM117B	family with sequence similarity 117 member B	5	GO:2001233	regulation of apoptotic signaling pathway	direct	17	0.0017	6.2783	1.29883
+ENSG00000145358	DDIT4L	DNA damage inducible transcript 4 like	151	GO:0097285	cell-type specific apoptotic process	direct	15	0.0015	6.28145	1.29845
+ENSG00000130950	NUTM2F	NUT family member 2F	19	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	2	0.00155	6.27463	1.29779
+ENSG00000126251	GPR42	G protein-coupled receptor 42 (gene/pseudogene)	105	GO:2000269	regulation of fibroblast apoptotic process	direct	8	0.00125	6.27476	1.29706
+ENSG00000129675	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6	14	GO:0097193	intrinsic apoptotic signaling pathway	direct	58	0.0015	6.25251	1.2953
+ENSG00000182591	KRTAP11-1	keratin associated protein 11-1	102	GO:2000351	regulation of endothelial cell apoptotic process	direct	8	0.0018	6.20348	1.29029
+ENSG00000188735	TMEM120B	transmembrane protein 120B	54	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	9	0.0018	6.19874	1.28941
+ENSG00000188735	TMEM120B	transmembrane protein 120B	54	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	9	0.0018	6.19874	1.28941
+ENSG00000116030	SUMO1	small ubiquitin-like modifier 1	19	GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	491	0.00145	6.20016	1.28853
+ENSG00000135018	UBQLN1	ubiquilin 1	105	GO:2000269	regulation of fibroblast apoptotic process	direct	115	0.00165	6.19169	1.2881
+ENSG00000213654	GPSM3	G-protein signaling modulator 3	38	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	26	0.00245	6.14916	1.2854
+ENSG00000197771	MCMBP	minichromosome maintenance complex binding protein	9	GO:0097190	apoptotic signaling pathway	direct	34	0.00205	6.15151	1.28436
+ENSG00000111665	CDCA3	cell division cycle associated 3	5	GO:2001233	regulation of apoptotic signaling pathway	direct	27	0.0016	6.15641	1.28377
+ENSG00000212938	KRTAP6-3	keratin associated protein 6-3	159	GO:1904036	negative regulation of epithelial cell apoptotic process	direct	2	0.00155	6.15475	1.28327
+ENSG00000166405	RIC3	RIC3 acetylcholine receptor chaperone	15	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	36	0.00165	6.14768	1.28269
+ENSG00000097021	ACOT7	acyl-CoA thioesterase 7	14	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	27	0.00255	6.12538	1.28259
+ENSG00000113368	LMNB1	lamin B1	14	GO:0097193	intrinsic apoptotic signaling pathway	direct	148	0.0022	6.12768	1.28229
+ENSG00000104081	BMF	Bcl2 modifying factor	15	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	41	0.00195	6.13471	1.28212
+ENSG00000235169	SMIM1	small integral membrane protein 1 (Vel blood group)	57	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	10	0.0014	6.1473	1.28204
+ENSG00000235169	SMIM1	small integral membrane protein 1 (Vel blood group)	57	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	10	0.0014	6.1473	1.28204
+ENSG00000183323	CCDC125	coiled-coil domain containing 125	65	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	direct	3	0.00215	6.12309	1.28142
+ENSG00000188735	TMEM120B	transmembrane protein 120B	54	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	9	0.00185	6.11926	1.27975
+ENSG00000179363	TMEM31	transmembrane protein 31	141	GO:0097194	execution phase of apoptosis	direct	2	0.0021	6.10708	1.27912
+ENSG00000133935	C14orf1	chromosome 14 open reading frame 1	57	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	23	0.00105	6.13229	1.27898
+ENSG00000133935	C14orf1	chromosome 14 open reading frame 1	57	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	23	0.00105	6.13229	1.27898
+ENSG00000166257	SCN3B	sodium voltage-gated channel beta subunit 3	105	GO:2000269	regulation of fibroblast apoptotic process	direct	36	0.0015	6.10081	1.27639
+ENSG00000084764	MAPRE3	microtubule associated protein RP/EB family member 3	46	GO:0006915	apoptotic process	direct	37	0.00425	3.97804	1.27632
+ENSG00000197114	ZGPAT	zinc finger CCCH-type and G-patch domain containing	52	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	32	0.00145	6.09861	1.27597
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29	15	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	55	0.00275	6.04563	1.27339
+ENSG00000147679	UTP23	UTP23, small subunit processome component	15	GO:0097193	intrinsic apoptotic signaling pathway	direct	14	0.0019	6.05698	1.27262
+ENSG00000148346	LCN2	lipocalin 2	58	GO:1902175	regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	direct	530	0.0015	6.0671	1.27213
+ENSG00000164007	CLDN19	claudin 19	60	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	23	0.00155	6.05536	1.27078
+ENSG00000164007	CLDN19	claudin 19	60	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	23	0.00155	6.05536	1.27078
+ENSG00000015153	YAF2	YY1 associated factor 2	20	GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	28	0.00245	6.02471	1.26967
+ENSG00000184601	C14orf180	chromosome 14 open reading frame 180	46	GO:2001233	regulation of apoptotic signaling pathway	direct	3	0.0062	3.37496	1.26852
+ENSG00000124098	FAM210B	family with sequence similarity 210 member B	63	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	10	0.00115	6.04665	1.26847
+ENSG00000117899	MESDC2	mesoderm development candidate 2	65	GO:1902175	regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	direct	27	0.00165	6.02325	1.26711
+ENSG00000086159	AQP6	aquaporin 6	304	GO:1901029	negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	8	0.0012	6.01867	1.26503
+ENSG00000143158	MPC2	mitochondrial pyruvate carrier 2	12	GO:0006915	apoptotic process	direct	26	0.00205	5.98747	1.26394
+ENSG00000235169	SMIM1	small integral membrane protein 1 (Vel blood group)	57	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	10	0.00165	5.99616	1.2636
+ENSG00000179262	RAD23A	RAD23 homolog A, nucleotide excision repair protein	30	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	116	0.0016	5.99739	1.26346
+ENSG00000172531	PPP1CA	protein phosphatase 1 catalytic subunit alpha	11	GO:2001235	positive regulation of apoptotic signaling pathway	direct	221	0.00205	5.97793	1.2624
+ENSG00000182591	KRTAP11-1	keratin associated protein 11-1	102	GO:1904035	regulation of epithelial cell apoptotic process	direct	8	0.0021	5.97408	1.26219
+ENSG00000077522	ACTN2	actinin alpha 2	16	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	113	0.00235	5.96529	1.26192
+ENSG00000133935	C14orf1	chromosome 14 open reading frame 1	57	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	23	0.0012	5.99439	1.26188
+ENSG00000135951	TSGA10	testis specific 10	43	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	17	0.0017	5.97209	1.26045
+ENSG00000135951	TSGA10	testis specific 10	43	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	17	0.0017	5.97209	1.26045
+ENSG00000100804	PSMB5	proteasome subunit beta 5	10	GO:0006915	apoptotic process	direct	128	0.0022	5.95432	1.25988
+ENSG00000109084	TMEM97	transmembrane protein 97	60	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	24	0.00145	5.95078	1.25705
+ENSG00000109084	TMEM97	transmembrane protein 97	60	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	24	0.00145	5.95078	1.25705
+ENSG00000178307	TMEM11	transmembrane protein 11	46	GO:2001233	regulation of apoptotic signaling pathway	direct	18	0.0063	3.36025	1.25538
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	14	0.0021	5.92201	1.25515
+ENSG00000164007	CLDN19	claudin 19	60	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	23	0.00165	5.92283	1.25378
+ENSG00000188735	TMEM120B	transmembrane protein 120B	54	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	9	0.0023	5.89446	1.25189
+ENSG00000063978	RNF4	ring finger protein 4	96	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	75	0.00395	3.93783	1.25108
+ENSG00000087076	HSD17B14	hydroxysteroid 17-beta dehydrogenase 14	17	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	15	0.0025	5.85997	1.24824
+ENSG00000189401	OTUD6A	OTU deubiquitinase 6A	11	GO:2001235	positive regulation of apoptotic signaling pathway	direct	6	0.00275	5.83464	1.2455
+ENSG00000235169	SMIM1	small integral membrane protein 1 (Vel blood group)	57	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	10	0.0019	5.80598	1.23875
+ENSG00000109084	TMEM97	transmembrane protein 97	60	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	24	0.0017	5.80289	1.23788
+ENSG00000133935	C14orf1	chromosome 14 open reading frame 1	57	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	23	0.00145	5.80231	1.23677
+ENSG00000143158	MPC2	mitochondrial pyruvate carrier 2	12	GO:0097190	apoptotic signaling pathway	direct	26	0.00205	5.77811	1.23515
+ENSG00000113648	H2AFY	H2A histone family member Y	11	GO:0097190	apoptotic signaling pathway	direct	98	0.00235	5.75853	1.23371
+ENSG00000164007	CLDN19	claudin 19	60	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	23	0.00185	5.72821	1.2275
+ENSG00000213654	GPSM3	G-protein signaling modulator 3	38	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	26	0.00305	5.68566	1.22517
+ENSG00000099812	MISP	mitotic spindle positioning	49	GO:2001267	regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	direct	12	0.00145	5.71148	1.22408
+ENSG00000188191	PRKAR1B	protein kinase cAMP-dependent type I regulatory subunit beta	70	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	direct	48	0.0024	5.67781	1.22185
+ENSG00000111676	ATN1	atrophin 1	30	GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	79	0.0023	5.66982	1.2204
+ENSG00000171135	JAGN1	jagunal homolog 1	122	GO:2000269	regulation of fibroblast apoptotic process	direct	12	0.0023	5.65847	1.21874
+ENSG00000036549	ZZZ3	zinc finger ZZ-type containing 3	6	GO:2001233	regulation of apoptotic signaling pathway	direct	22	0.0023	5.64436	1.2174
+ENSG00000172531	PPP1CA	protein phosphatase 1 catalytic subunit alpha	11	GO:0097190	apoptotic signaling pathway	direct	221	0.00285	5.63439	1.21738
+ENSG00000171033	PKIA	protein kinase (cAMP-dependent, catalytic) inhibitor alpha	6	GO:2001233	regulation of apoptotic signaling pathway	direct	25	0.00295	5.63215	1.21705
+ENSG00000123094	RASSF8	Ras association domain family member 8	6	GO:2001233	regulation of apoptotic signaling pathway	direct	30	0.00255	5.63314	1.21575
+ENSG00000078114	NEBL	nebulette	12	GO:2001234	negative regulation of apoptotic signaling pathway	direct	40	0.00285	5.60486	1.21256
+ENSG00000109084	TMEM97	transmembrane protein 97	60	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	24	0.00195	5.62106	1.2125
+ENSG00000182463	TSHZ2	teashirt zinc finger homeobox 2	19	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	17	0.00265	5.5955	1.21073
+ENSG00000155755	TMEM237	transmembrane protein 237	122	GO:2000269	regulation of fibroblast apoptotic process	direct	16	0.00215	5.5957	1.20902
+ENSG00000165886	UBTD1	ubiquitin domain containing 1	13	GO:2001235	positive regulation of apoptotic signaling pathway	direct	17	0.00295	5.56829	1.2075
+ENSG00000175104	TRAF6	TNF receptor associated factor 6	19	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	522	0.0028	5.56612	1.2066
+ENSG00000175550	DRAP1	DR1 associated protein 1	12	GO:2001234	negative regulation of apoptotic signaling pathway	direct	35	0.0031	5.53931	1.20339
+ENSG00000129675	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6	14	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	58	0.0027	5.54148	1.20257
+ENSG00000197114	ZGPAT	zinc finger CCCH-type and G-patch domain containing	52	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	32	0.0027	5.52508	1.19991
+ENSG00000197114	ZGPAT	zinc finger CCCH-type and G-patch domain containing	52	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	32	0.0027	5.52508	1.19991
+ENSG00000147378	FATE1	fetal and adult testis expressed 1	73	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	21	0.0021	5.53608	1.19986
+ENSG00000171847	FAM90A1	family with sequence similarity 90 member A1	143	GO:0097190	apoptotic signaling pathway	direct	12	0.00705	3.03933	1.19788
+ENSG00000187569	DPPA3	developmental pluripotency associated 3	13	GO:2001235	positive regulation of apoptotic signaling pathway	direct	13	0.0027	5.50719	1.19745
+ENSG00000179133	C10orf67	chromosome 10 open reading frame 67	12	GO:2001234	negative regulation of apoptotic signaling pathway	direct	7	0.00295	5.49771	1.19684
+ENSG00000174460	ZCCHC12	zinc finger CCHC-type containing 12	18	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	18	0.00325	5.47644	1.19425
+ENSG00000169446	MMGT1	membrane magnesium transporter 1	52	GO:0008637	apoptotic mitochondrial changes	direct	18	0.0027	5.48696	1.19417
+ENSG00000123560	PLP1	proteolipid protein 1	77	GO:2001233	regulation of apoptotic signaling pathway	direct	158	0.00745	3.02388	1.19268
+ENSG00000171703	TCEA2	transcription elongation factor A2	96	GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	28	0.0045	3.79498	1.19004
+ENSG00000179933	C14orf119	chromosome 14 open reading frame 119	55	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	8	0.003	5.45557	1.18997
+ENSG00000179933	C14orf119	chromosome 14 open reading frame 119	55	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	8	0.003	5.45557	1.18997
+ENSG00000080845	DLGAP4	DLG associated protein 4	18	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	27	0.00375	5.41507	1.18583
+ENSG00000175104	TRAF6	TNF receptor associated factor 6	19	GO:0097193	intrinsic apoptotic signaling pathway	direct	522	0.00315	5.4201	1.18578
+ENSG00000197114	ZGPAT	zinc finger CCCH-type and G-patch domain containing	52	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	32	0.0029	5.39276	1.17969
+ENSG00000136935	GOLGA1	golgin A1	18	GO:0097193	intrinsic apoptotic signaling pathway	direct	22	0.003	5.38671	1.17928
+ENSG00000186141	POLR3C	RNA polymerase III subunit C	33	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	23	0.0026	5.39212	1.17872
+ENSG00000135185	TMEM243	transmembrane protein 243	42	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	10	0.00365	5.36731	1.17827
+ENSG00000063978	RNF4	ring finger protein 4	96	GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	75	0.0049	3.75127	1.17753
+ENSG00000197256	KANK2	KN motif and ankyrin repeat domains 2	178	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	37	0.00255	5.38376	1.17752
+ENSG00000135185	TMEM243	transmembrane protein 243	42	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	10	0.00365	5.36149	1.17732
+ENSG00000110330	BIRC2	baculoviral IAP repeat containing 2	17	GO:0097193	intrinsic apoptotic signaling pathway	direct	243	0.00355	5.36349	1.17708
+ENSG00000132563	REEP2	receptor accessory protein 2	24	GO:2001233	regulation of apoptotic signaling pathway	direct	19	0.00705	3.72713	1.17489
+ENSG00000153551	CMTM7	CKLF like MARVEL transmembrane domain containing 7	46	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	10	0.00335	5.34053	1.17276
+ENSG00000096401	CDC5L	cell division cycle 5 like	13	GO:2001235	positive regulation of apoptotic signaling pathway	direct	105	0.00335	5.33533	1.17176
+ENSG00000108091	CCDC6	coiled-coil domain containing 6	27	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	59	0.00365	5.32557	1.17129
+ENSG00000104081	BMF	Bcl2 modifying factor	15	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	41	0.0031	5.33361	1.17091
+ENSG00000153551	CMTM7	CKLF like MARVEL transmembrane domain containing 7	46	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	10	0.0034	5.3243	1.17037
+ENSG00000116030	SUMO1	small ubiquitin-like modifier 1	19	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	491	0.00335	5.32069	1.16921
+ENSG00000123560	PLP1	proteolipid protein 1	77	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	158	0.0022	5.33887	1.16891
+ENSG00000123560	PLP1	proteolipid protein 1	77	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	direct	158	0.0022	5.33887	1.16891
+ENSG00000184601	C14orf180	chromosome 14 open reading frame 180	46	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	3	0.0031	5.31713	1.16805
+ENSG00000113368	LMNB1	lamin B1	14	GO:2001235	positive regulation of apoptotic signaling pathway	direct	148	0.00345	5.30735	1.16756
+ENSG00000184601	C14orf180	chromosome 14 open reading frame 180	46	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	3	0.0031	5.3115	1.16711
+ENSG00000100290	BIK	BCL2 interacting killer	85	GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	direct	77	0.0031	5.30141	1.16615
+ENSG00000204131	NHSL2	NHS like 2	27	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	4	0.00355	5.28685	1.16414
+ENSG00000100557	C14orf105	chromosome 14 open reading frame 105	16	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	7	0.00395	5.26992	1.16242
+ENSG00000179933	C14orf119	chromosome 14 open reading frame 119	55	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	8	0.00365	5.27108	1.16177
+ENSG00000130950	NUTM2F	NUT family member 2F	19	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	2	0.00295	5.28098	1.16174
+ENSG00000100577	GSTZ1	glutathione S-transferase zeta 1	8	GO:2001233	regulation of apoptotic signaling pathway	direct	64	0.0036	5.25463	1.15899
+ENSG00000198807	PAX9	paired box 9	15	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	87	0.00335	5.24322	1.1562
+ENSG00000089723	OTUB2	OTU deubiquitinase, ubiquitin aldehyde binding 2	13	GO:0097190	apoptotic signaling pathway	direct	25	0.004	5.21061	1.15273
+ENSG00000151575	TEX9	testis expressed 9	7	GO:2001233	regulation of apoptotic signaling pathway	direct	10	0.0033	5.20399	1.14947
+ENSG00000100934	SEC23A	Sec23 homolog A, coat complex II component	25	GO:2001233	regulation of apoptotic signaling pathway	direct	50	0.00635	3.67688	1.14914
+ENSG00000167081	PBX3	PBX homeobox 3	54	GO:2001235	positive regulation of apoptotic signaling pathway	direct	42	0.00635	3.67926	1.14733
+ENSG00000181552	EDDM3B	epididymal protein 3B	20	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	9	0.0038	5.18039	1.14706
+ENSG00000089723	OTUB2	OTU deubiquitinase, ubiquitin aldehyde binding 2	13	GO:0006915	apoptotic process	direct	25	0.00385	5.1707	1.14565
+ENSG00000123560	PLP1	proteolipid protein 1	77	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	158	0.0026	5.18575	1.14419
+ENSG00000171847	FAM90A1	family with sequence similarity 90 member A1	143	GO:0097193	intrinsic apoptotic signaling pathway	direct	12	0.0063	3.22776	1.14299
+ENSG00000099812	MISP	mitotic spindle positioning	49	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	direct	12	0.00225	5.18099	1.14236
+ENSG00000188191	PRKAR1B	protein kinase cAMP-dependent type I regulatory subunit beta	70	GO:0097193	intrinsic apoptotic signaling pathway	direct	48	0.0051	3.6763	1.14135
+ENSG00000009790	TRAF3IP3	TRAF3 interacting protein 3	39	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	direct	17	0.0023	5.16667	1.14
+ENSG00000188191	PRKAR1B	protein kinase cAMP-dependent type I regulatory subunit beta	70	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	48	0.00345	5.12662	1.13633
+ENSG00000140259	MFAP1	microfibrillar associated protein 1	63	GO:2001267	regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	direct	34	0.00195	5.14852	1.13581
+ENSG00000197870	PRB3	proline rich protein BstNI subfamily 3	7	GO:2001233	regulation of apoptotic signaling pathway	direct	14	0.00395	5.10623	1.13464
+ENSG00000063515	GSC2	goosecoid homeobox 2	59	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	6	0.0061	3.64609	1.12826
+ENSG00000110330	BIRC2	baculoviral IAP repeat containing 2	17	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	243	0.00305	5.06691	1.12473
+ENSG00000129675	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6	14	GO:0097190	apoptotic signaling pathway	direct	58	0.0037	5.04042	1.12185
+ENSG00000172243	CLEC7A	C-type lectin domain family 7 member A	35	GO:2001243	negative regulation of intrinsic apoptotic signaling pathway	direct	100	0.0039	5.02398	1.11895
+ENSG00000165272	AQP3	aquaporin 3 (Gill blood group)	27	GO:2001233	regulation of apoptotic signaling pathway	direct	149	0.0069	3.61816	1.11875
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	14	0.00365	5.01282	1.11646
+ENSG00000123560	PLP1	proteolipid protein 1	77	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	direct	158	0.0032	5.00953	1.11417
+ENSG00000197114	ZGPAT	zinc finger CCCH-type and G-patch domain containing	52	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	32	0.00405	4.99525	1.11415
+ENSG00000105122	RASAL3	RAS protein activator like 3	22	GO:0097193	intrinsic apoptotic signaling pathway	direct	7	0.0039	4.98901	1.11298
+ENSG00000063978	RNF4	ring finger protein 4	96	GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	direct	75	0.0041	4.98397	1.11259
+ENSG00000096401	CDC5L	cell division cycle 5 like	13	GO:0097190	apoptotic signaling pathway	direct	105	0.00365	4.98062	1.11071
+ENSG00000115274	INO80B	INO80 complex subunit B	58	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	direct	19	0.00235	4.99735	1.10979
+ENSG00000069011	PITX1	paired like homeodomain 1	79	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	69	0.0057	3.60499	1.10934
+ENSG00000116237	ICMT	isoprenylcysteine carboxyl methyltransferase	8	GO:2001233	regulation of apoptotic signaling pathway	direct	26	0.00355	4.96366	1.10667
+ENSG00000104081	BMF	Bcl2 modifying factor	15	GO:2001234	negative regulation of apoptotic signaling pathway	direct	41	0.0043	4.95121	1.10652
+ENSG00000187634	SAMD11	sterile alpha motif domain containing 11	23	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	9	0.00405	4.95259	1.10596
+ENSG00000212938	KRTAP6-3	keratin associated protein 6-3	159	GO:2000351	regulation of endothelial cell apoptotic process	direct	2	0.00405	4.94149	1.10398
+ENSG00000147155	EBP	emopamil binding protein (sterol isomerase)	166	GO:2000269	regulation of fibroblast apoptotic process	direct	42	0.00385	4.92146	1.09944
+ENSG00000166405	RIC3	RIC3 acetylcholine receptor chaperone	15	GO:2001234	negative regulation of apoptotic signaling pathway	direct	36	0.005	4.88934	1.0965
+ENSG00000179933	C14orf119	chromosome 14 open reading frame 119	55	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	8	0.00445	4.89444	1.09599
+ENSG00000127191	TRAF2	TNF receptor associated factor 2	190	GO:0070228	regulation of lymphocyte apoptotic process	direct	393	0.0043	4.89635	1.09581
+ENSG00000100721	TCL1A	T-cell leukemia/lymphoma 1A	27	GO:2001233	regulation of apoptotic signaling pathway	direct	77	0.00715	3.56483	1.09512
+ENSG00000084652	TXLNA	taxilin alpha	74	GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	direct	48	0.00425	4.89098	1.09504
+ENSG00000104964	AES	amino-terminal enhancer of split	268	GO:0043524	negative regulation of neuron apoptotic process	direct	50	0.0045	4.87263	1.09254
+ENSG00000124098	FAM210B	family with sequence similarity 210 member B	63	GO:0008637	apoptotic mitochondrial changes	direct	10	0.0043	4.85094	1.08703
+ENSG00000113368	LMNB1	lamin B1	14	GO:0097190	apoptotic signaling pathway	direct	148	0.00555	4.83063	1.08693
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:2001235	positive regulation of apoptotic signaling pathway	direct	14	0.00435	4.84003	1.08472
+ENSG00000123500	COL10A1	collagen type X alpha 1 chain	8	GO:2001233	regulation of apoptotic signaling pathway	direct	59	0.0046	4.82963	1.0836
+ENSG00000147679	UTP23	UTP23, small subunit processome component	15	GO:0097190	apoptotic signaling pathway	direct	14	0.00495	4.82175	1.08352
+ENSG00000188735	TMEM120B	transmembrane protein 120B	54	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	9	0.00415	4.83299	1.0829
+ENSG00000056558	TRAF1	TNF receptor associated factor 1	111	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	195	0.0071	3.55307	1.08254
+ENSG00000188735	TMEM120B	transmembrane protein 120B	54	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	9	0.00415	4.82736	1.08178
+ENSG00000163069	SGCB	sarcoglycan beta	15	GO:2001234	negative regulation of apoptotic signaling pathway	direct	34	0.0053	4.80968	1.08177
+ENSG00000121073	SLC35B1	solute carrier family 35 member B1	16	GO:2001235	positive regulation of apoptotic signaling pathway	direct	15	0.00485	4.81373	1.08136
+ENSG00000235169	SMIM1	small integral membrane protein 1 (Vel blood group)	57	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	10	0.00455	4.80397	1.07817
+ENSG00000070367	EXOC5	exocyst complex component 5	18	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	33	0.00475	4.80024	1.0781
+ENSG00000120075	HOXB5	homeobox B5	60	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	direct	41	0.00325	4.81546	1.0769
+ENSG00000235169	SMIM1	small integral membrane protein 1 (Vel blood group)	57	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	10	0.0046	4.79519	1.07653
+ENSG00000145358	DDIT4L	DNA damage inducible transcript 4 like	151	GO:0006915	apoptotic process	direct	15	0.00945	2.89654	1.07562
+ENSG00000103528	SYT17	synaptotagmin 17	36	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	direct	15	0.0047	4.7805	1.07381
+ENSG00000213593	TMX2	thioredoxin related transmembrane protein 2	159	GO:2000269	regulation of fibroblast apoptotic process	direct	14	0.0042	4.77523	1.07151
+ENSG00000167476	JSRP1	junctional sarcoplasmic reticulum protein 1	8	GO:2001233	regulation of apoptotic signaling pathway	direct	10	0.0051	4.75101	1.06925
+ENSG00000174791	RIN1	Ras and Rab interactor 1	33	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	43	0.00415	4.75143	1.06648
+ENSG00000099812	MISP	mitotic spindle positioning	49	GO:0097190	apoptotic signaling pathway	direct	12	0.00755	3.50594	1.06646
+ENSG00000131738	KRT33B	keratin 33B	54	GO:2001234	negative regulation of apoptotic signaling pathway	direct	22	0.007	3.5121	1.06628
+ENSG00000163206	SMCP	sperm mitochondria associated cysteine rich protein	66	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	15	0.0042	4.74342	1.06482
+ENSG00000163206	SMCP	sperm mitochondria associated cysteine rich protein	66	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	15	0.0042	4.74342	1.06482
+ENSG00000188021	UBQLN2	ubiquilin 2	245	GO:2000352	negative regulation of endothelial cell apoptotic process	direct	75	0.0054	4.71986	1.06372
+ENSG00000187634	SAMD11	sterile alpha motif domain containing 11	23	GO:0097193	intrinsic apoptotic signaling pathway	direct	9	0.0047	4.72657	1.0635
+ENSG00000212938	KRTAP6-3	keratin associated protein 6-3	159	GO:1904035	regulation of epithelial cell apoptotic process	direct	2	0.0051	4.71992	1.06252
+ENSG00000133935	C14orf1	chromosome 14 open reading frame 1	57	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	23	0.00455	4.71486	1.06024
+ENSG00000133935	C14orf1	chromosome 14 open reading frame 1	57	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	23	0.00455	4.71094	1.05941
+ENSG00000148346	LCN2	lipocalin 2	58	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	530	0.00445	4.70749	1.05855
+ENSG00000144597	EAF1	ELL associated factor 1	42	GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	23	0.00555	4.69057	1.05809
+ENSG00000148346	LCN2	lipocalin 2	58	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	530	0.00445	4.70358	1.05773
+ENSG00000160185	UBASH3A	ubiquitin associated and SH3 domain containing A	68	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	40	0.00535	4.69235	1.05752
+ENSG00000160185	UBASH3A	ubiquitin associated and SH3 domain containing A	68	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	40	0.00535	4.69235	1.05752
+ENSG00000164007	CLDN19	claudin 19	60	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	23	0.0042	4.70692	1.05748
+ENSG00000164007	CLDN19	claudin 19	60	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	23	0.0042	4.70043	1.05612
+ENSG00000174460	ZCCHC12	zinc finger CCHC-type containing 12	18	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	18	0.0056	4.66137	1.05253
+ENSG00000100290	BIK	BCL2 interacting killer	85	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	77	0.0069	3.48827	1.04965
+ENSG00000124103	FAM209A	family with sequence similarity 209 member A	231	GO:0008637	apoptotic mitochondrial changes	direct	9	0.00565	3.50184	1.04842
+ENSG00000169446	MMGT1	membrane magnesium transporter 1	52	GO:2001233	regulation of apoptotic signaling pathway	direct	18	0.0101	3.06917	1.04706
+ENSG00000132950	ZMYM5	zinc finger MYM-type containing 5	17	GO:2001234	negative regulation of apoptotic signaling pathway	direct	14	0.005	4.62623	1.04226
+ENSG00000130950	NUTM2F	NUT family member 2F	19	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	2	0.0058	4.60495	1.04069
+ENSG00000105617	LENG1	leukocyte receptor cluster member 1	64	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	direct	13	0.004	4.61826	1.03755
+ENSG00000253797	UTP14C	UTP14, small subunit processome component homolog C (S. cerevisiae)	25	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	12	0.0054	4.59591	1.03697
+ENSG00000100557	C14orf105	chromosome 14 open reading frame 105	16	GO:0097190	apoptotic signaling pathway	direct	7	0.0058	4.57934	1.03504
+ENSG00000080845	DLGAP4	DLG associated protein 4	18	GO:2001235	positive regulation of apoptotic signaling pathway	direct	27	0.00505	4.58558	1.03416
+ENSG00000179168	GGN	gametogenetin	18	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	8	0.00585	4.57545	1.03351
+ENSG00000136935	GOLGA1	golgin A1	18	GO:2001235	positive regulation of apoptotic signaling pathway	direct	22	0.00545	4.57745	1.03262
+ENSG00000163206	SMCP	sperm mitochondria associated cysteine rich protein	66	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	15	0.00515	4.57851	1.03219
+ENSG00000160185	UBASH3A	ubiquitin associated and SH3 domain containing A	68	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	direct	40	0.0061	4.55535	1.02969
+ENSG00000103275	UBE2I	ubiquitin conjugating enzyme E2 I	115	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	direct	431	0.00765	3.44073	1.02756
+ENSG00000099365	STX1B	syntaxin 1B	26	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	20	0.00535	4.55316	1.02734
+ENSG00000116030	SUMO1	small ubiquitin-like modifier 1	19	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	491	0.0057	4.54504	1.02618
+ENSG00000173480	ZNF417	zinc finger protein 417	128	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	direct	7	0.00715	3.44836	1.02559
+ENSG00000051128	HOMER3	homer scaffolding protein 3	73	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	34	0.00605	4.53686	1.0254
+ENSG00000051128	HOMER3	homer scaffolding protein 3	73	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	34	0.00605	4.53686	1.0254
+ENSG00000084652	TXLNA	taxilin alpha	74	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	48	0.00545	4.53976	1.02446
+ENSG00000084652	TXLNA	taxilin alpha	74	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	direct	48	0.00545	4.53976	1.02446
+ENSG00000127191	TRAF2	TNF receptor associated factor 2	190	GO:2000106	regulation of leukocyte apoptotic process	direct	393	0.0058	4.53039	1.02341
+ENSG00000109084	TMEM97	transmembrane protein 97	60	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	24	0.00525	4.5332	1.02285
+ENSG00000135018	UBQLN1	ubiquilin 1	105	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	direct	115	0.0055	4.53364	1.02281
+ENSG00000109084	TMEM97	transmembrane protein 97	60	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	direct	24	0.00525	4.52854	1.02179
+ENSG00000100721	TCL1A	T-cell leukemia/lymphoma 1A	27	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	77	0.00595	4.52138	1.02163
+ENSG00000188021	UBQLN2	ubiquilin 2	245	GO:1904036	negative regulation of epithelial cell apoptotic process	direct	75	0.00635	4.50819	1.0202
+ENSG00000017797	RALBP1	ralA binding protein 1	24	GO:0097193	intrinsic apoptotic signaling pathway	direct	86	0.0062	4.50392	1.01804
+ENSG00000110330	BIRC2	baculoviral IAP repeat containing 2	17	GO:2001234	negative regulation of apoptotic signaling pathway	direct	243	0.0065	4.49234	1.01722
+ENSG00000141570	CBX8	chromobox 8	69	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	direct	40	0.00405	4.52304	1.01651
+ENSG00000108091	CCDC6	coiled-coil domain containing 6	27	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	59	0.00635	4.49055	1.01629
+ENSG00000104228	TRIM35	tripartite motif containing 35	34	GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	19	0.00605	4.49362	1.01568
+ENSG00000198794	SCAMP5	secretory carrier membrane protein 5	18	GO:2001234	negative regulation of apoptotic signaling pathway	direct	18	0.00655	4.4859	1.01561
+ENSG00000121542	SEC22A	SEC22 homolog A, vesicle trafficking protein	103	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	16	0.00385	4.51197	1.01359
+ENSG00000133246	PRAM1	PML-RARA regulated adaptor molecule 1	9	GO:2001233	regulation of apoptotic signaling pathway	direct	29	0.0059	4.4833	1.01264
+ENSG00000015153	YAF2	YY1 associated factor 2	20	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	28	0.0066	4.46932	1.01164
+ENSG00000087448	KLHL42	kelch like family member 42	25	GO:2001242	regulation of intrinsic apoptotic signaling pathway	direct	19	0.0066	4.46188	1.00977
+ENSG00000103528	SYT17	synaptotagmin 17	36	GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	direct	15	0.0061	4.46695	1.00938
+ENSG00000167741	GGT6	gamma-glutamyltransferase 6	9	GO:2001233	regulation of apoptotic signaling pathway	direct	9	0.00585	4.45426	1.00655
+ENSG00000204131	NHSL2	NHS like 2	27	GO:2001236	regulation of extrinsic apoptotic signaling pathway	direct	4	0.00645	4.44796	1.006
+ENSG00000160207	HSF2BP	heat shock transcription factor 2 binding protein	292	GO:1900119	positive regulation of execution phase of apoptosis	direct	12	0.0008	4.51448	1.00557
+ENSG00000166091	CMTM5	CKLF like MARVEL transmembrane domain containing 5	104	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	19	0.00465	4.46117	1.00418
+ENSG00000126262	FFAR2	free fatty acid receptor 2	106	GO:0043653	mitochondrial fragmentation involved in apoptotic process	direct	43	0.00455	4.46259	1.00411
+ENSG00000070367	EXOC5	exocyst complex component 5	18	GO:0006915	apoptotic process	direct	33	0.0061	4.43334	1.00164
+ENSG00000188021	UBQLN2	ubiquilin 2	245	GO:1902175	regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	indirect	75	0.0	14.1848	1.76777
+ENSG00000188021	UBQLN2	ubiquilin 2	245	GO:2001242	regulation of intrinsic apoptotic signaling pathway	indirect	75	0.0	6.17643	1.3685
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001239	regulation of extrinsic apoptotic signaling pathway in absence of ligand	indirect	90	0.0	25.7563	1.31522
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	indirect	90	0.0	25.7563	1.31522
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	indirect	90	0.0	11.6294	1.08965
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001236	regulation of extrinsic apoptotic signaling pathway	indirect	90	0.0	9.64272	0.99939
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	indirect	90	0.0	12.4727	0.966321
+ENSG00000124103	FAM209A	family with sequence similarity 209 member A	231	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	9	0.0	11.1679	0.95
+ENSG00000124103	FAM209A	family with sequence similarity 209 member A	231	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	9	0.0	11.1679	0.949523
+ENSG00000050748	MAPK9	mitogen-activated protein kinase 9	49	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	230	0.0	11.3104	0.94109
+ENSG00000050748	MAPK9	mitogen-activated protein kinase 9	49	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	230	0.0	11.3104	0.94109
+ENSG00000050748	MAPK9	mitogen-activated protein kinase 9	49	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	230	0.0	10.513	0.928121
+ENSG00000124103	FAM209A	family with sequence similarity 209 member A	231	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	9	0.0	9.95109	0.892453
+ENSG00000050748	MAPK9	mitogen-activated protein kinase 9	49	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	230	0.0	9.4597	0.87628
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001234	negative regulation of apoptotic signaling pathway	indirect	90	0.0	7.47156	0.874042
+ENSG00000170310	STX8	syntaxin 8	67	GO:0008637	apoptotic mitochondrial changes	indirect	45	0.0	11.1329	0.87069
+ENSG00000167110	GOLGA2	golgin A2	233	GO:0097193	intrinsic apoptotic signaling pathway	indirect	104	0.0001	5.15806	0.853597
+ENSG00000086159	AQP6	aquaporin 6	304	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	8	0.0	9.23196	0.851075
+ENSG00000086159	AQP6	aquaporin 6	304	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	8	0.0	9.23196	0.851075
+ENSG00000172977	KAT5	lysine acetyltransferase 5	57	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	240	0.0	9.18507	0.840133
+ENSG00000163217	BMP10	bone morphogenetic protein 10	55	GO:2001234	negative regulation of apoptotic signaling pathway	indirect	24	0.0	6.54256	0.830076
+ENSG00000124103	FAM209A	family with sequence similarity 209 member A	231	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	9	0.0	8.33508	0.802476
+ENSG00000166845	C18orf54	chromosome 18 open reading frame 54	7	GO:0006915	apoptotic process	indirect	9	0.0	11.1817	0.800066
+ENSG00000172977	KAT5	lysine acetyltransferase 5	57	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	240	0.0	8.21201	0.782027
+ENSG00000050748	MAPK9	mitogen-activated protein kinase 9	49	GO:2001235	positive regulation of apoptotic signaling pathway	indirect	230	0.0	6.46936	0.779788
+ENSG00000086159	AQP6	aquaporin 6	304	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	8	0.0	8.10795	0.779248
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001242	regulation of intrinsic apoptotic signaling pathway	indirect	90	0.0	7.45964	0.773451
+ENSG00000071051	NCK2	NCK adaptor protein 2	107	GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	indirect	83	0.0	7.34975	0.770281
+ENSG00000104081	BMF	Bcl2 modifying factor	15	GO:0097193	intrinsic apoptotic signaling pathway	indirect	41	0.0	12.1311	0.759953
+ENSG00000104081	BMF	Bcl2 modifying factor	15	GO:0097190	apoptotic signaling pathway	indirect	41	0.0	8.98507	0.75806
+ENSG00000172977	KAT5	lysine acetyltransferase 5	57	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	240	0.0	8.87353	0.749849
+ENSG00000172977	KAT5	lysine acetyltransferase 5	57	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	240	0.0	8.87353	0.749849
+ENSG00000157613	CREB3L1	cAMP responsive element binding protein 3 like 1	177	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	35	0.0	10.0485	0.749287
+ENSG00000157613	CREB3L1	cAMP responsive element binding protein 3 like 1	177	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	35	0.0	10.0485	0.749287
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0008637	apoptotic mitochondrial changes	indirect	90	0.0	11.7192	0.747761
+ENSG00000197172	MAGEA6	MAGE family member A6	55	GO:1902235	regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	indirect	20	0.0	12.6163	0.718113
+ENSG00000100290	BIK	BCL2 interacting killer	85	GO:0008637	apoptotic mitochondrial changes	indirect	77	0.0	8.50172	0.718044
+ENSG00000125991	ERGIC3	ERGIC and golgi 3	195	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	21	0.0	9.28813	0.71002
+ENSG00000125991	ERGIC3	ERGIC and golgi 3	195	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	21	0.0	9.28813	0.71002
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0019050	suppression by virus of host apoptotic process	indirect	90	0.0	27.8493	0.705753
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0039526	modulation by virus of host apoptotic process	indirect	90	0.0	27.8493	0.705753
+ENSG00000071051	NCK2	NCK adaptor protein 2	107	GO:1902237	positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	indirect	83	0.0	14.1153	0.705096
+ENSG00000157613	CREB3L1	cAMP responsive element binding protein 3 like 1	177	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	35	0.0	8.97175	0.702845
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001235	positive regulation of apoptotic signaling pathway	indirect	90	0.0	6.27297	0.696234
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0033668	negative regulation by symbiont of host apoptotic process	indirect	90	0.0	23.5726	0.693647
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0044532	modulation of apoptotic process in other organism	indirect	90	0.0	23.5726	0.693647
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0052150	modulation by symbiont of host apoptotic process	indirect	90	0.0	23.5726	0.693647
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:0052433	modulation by organism of apoptotic process in other organism involved in symbiotic interaction	indirect	90	0.0	23.5726	0.693647
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:1900118	negative regulation of execution phase of apoptosis	indirect	90	0.0	21.9921	0.687398
+ENSG00000197172	MAGEA6	MAGE family member A6	55	GO:1902236	negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	indirect	20	0.0	15.7217	0.684775
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:0001844	protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	294	0.0	46.5879	0.674247
+ENSG00000105369	CD79A	CD79a molecule	166	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	72	0.0	9.47633	0.668002
+ENSG00000105369	CD79A	CD79a molecule	166	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	72	0.0	9.47633	0.668002
+ENSG00000166974	MAPRE2	microtubule associated protein RP/EB family member 2	12	GO:0006915	apoptotic process	indirect	60	0.0001	7.74428	0.665496
+ENSG00000086159	AQP6	aquaporin 6	304	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	8	0.0	6.55676	0.663774
+ENSG00000125991	ERGIC3	ERGIC and golgi 3	195	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	21	0.0	8.27048	0.659867
+ENSG00000152465	NMT2	N-myristoyltransferase 2	2	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	54	0.0	35.2962	0.659636
+ENSG00000152465	NMT2	N-myristoyltransferase 2	2	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	54	0.0	35.2962	0.659636
+ENSG00000152465	NMT2	N-myristoyltransferase 2	2	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	54	0.0	33.0151	0.656172
+ENSG00000152465	NMT2	N-myristoyltransferase 2	2	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	54	0.0	30.5782	0.65146
+ENSG00000164294	GPX8	glutathione peroxidase 8 (putative)	151	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	12	0.0	9.55962	0.650611
+ENSG00000164294	GPX8	glutathione peroxidase 8 (putative)	151	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	12	0.0	9.55962	0.650611
+ENSG00000077092	RARB	retinoic acid receptor beta	5	GO:0043277	apoptotic cell clearance	indirect	223	0.0	51.6074	0.650186
+ENSG00000082512	TRAF5	TNF receptor associated factor 5	31	GO:0097190	apoptotic signaling pathway	indirect	99	0.0	6.23836	0.646903
+ENSG00000178307	TMEM11	transmembrane protein 11	46	GO:2001234	negative regulation of apoptotic signaling pathway	indirect	18	0.0001	5.8077	0.645004
+ENSG00000167110	GOLGA2	golgin A2	233	GO:2001238	positive regulation of extrinsic apoptotic signaling pathway	indirect	104	0.0002	6.43711	0.641904
+ENSG00000168522	FNTA	farnesyltransferase, CAAX box, alpha	3	GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	indirect	45	0.0	27.8416	0.641887
+ENSG00000124103	FAM209A	family with sequence similarity 209 member A	231	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	indirect	9	0.0	6.50437	0.640276
+ENSG00000112578	BYSL	bystin like	106	GO:1902231	positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage	indirect	43	0.0	22.8503	0.638952
+ENSG00000112578	BYSL	bystin like	106	GO:2001272	positive regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	indirect	43	0.0	22.8503	0.638952
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	indirect	294	0.0	23.2544	0.633971
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	294	0.0	23.5634	0.633624
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	294	0.0	23.5634	0.633624
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:1900117	regulation of execution phase of apoptosis	indirect	90	0.0	14.984	0.631289
+ENSG00000100290	BIK	BCL2 interacting killer	85	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	77	0.0	6.06344	0.62656
+ENSG00000157613	CREB3L1	cAMP responsive element binding protein 3 like 1	177	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	35	0.0	7.42065	0.625397
+ENSG00000105369	CD79A	CD79a molecule	166	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	72	0.0	8.46505	0.624148
+ENSG00000112578	BYSL	bystin like	106	GO:1900119	positive regulation of execution phase of apoptosis	indirect	43	0.0	14.0653	0.616874
+ENSG00000100290	BIK	BCL2 interacting killer	85	GO:0001844	protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	77	0.0	11.3791	0.615876
+ENSG00000124103	FAM209A	family with sequence similarity 209 member A	231	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	indirect	9	0.0	6.14979	0.613929
+ENSG00000221983	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	14	GO:2001233	regulation of apoptotic signaling pathway	indirect	79	0.0	6.36995	0.61383
+ENSG00000100290	BIK	BCL2 interacting killer	85	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	77	0.0001	6.26732	0.613229
+ENSG00000152465	NMT2	N-myristoyltransferase 2	2	GO:2001235	positive regulation of apoptotic signaling pathway	indirect	54	0.0	19.561	0.612463
+ENSG00000164294	GPX8	glutathione peroxidase 8 (putative)	151	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	12	0.0	8.55411	0.609523
+ENSG00000112578	BYSL	bystin like	106	GO:2001270	regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	indirect	43	0.0	16.1321	0.599403
+ENSG00000181092	ADIPOQ	adiponectin, C1Q and collagen domain containing	57	GO:2001234	negative regulation of apoptotic signaling pathway	indirect	1903	0.0001	5.19005	0.59886
+ENSG00000131323	TRAF3	TNF receptor associated factor 3	27	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	indirect	211	0.0	11.113	0.595057
+ENSG00000086159	AQP6	aquaporin 6	304	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	indirect	8	0.0	5.68779	0.59432
+ENSG00000183323	CCDC125	coiled-coil domain containing 125	65	GO:1900739	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	3	0.0	7.09907	0.593822
+ENSG00000183323	CCDC125	coiled-coil domain containing 125	65	GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	indirect	3	0.0	7.09907	0.593822
+ENSG00000030110	BAK1	BCL2 antagonist/killer 1	4	GO:2001242	regulation of intrinsic apoptotic signaling pathway	indirect	294	0.0	15.2675	0.593243
+ENSG00000163217	BMP10	bone morphogenetic protein 10	55	GO:2001233	regulation of apoptotic signaling pathway	indirect	24	0.0002	4.16967	0.592882
+ENSG00000056558	TRAF1	TNF receptor associated factor 1	111	GO:2001267	regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	indirect	195	0.0	8.3974	0.592044
+ENSG00000106089	STX1A	syntaxin 1A	115	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	indirect	169	0.0	5.9031	0.588461
+ENSG00000172819	RARG	retinoic acid receptor gamma	5	GO:0043277	apoptotic cell clearance	indirect	85	0.0	51.7801	0.587947
+ENSG00000197172	MAGEA6	MAGE family member A6	55	GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	indirect	20	0.0	7.59531	0.584954
+ENSG00000125991	ERGIC3	ERGIC and golgi 3	195	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	21	0.0001	6.8676	0.579618
+ENSG00000005486	RHBDD2	rhomboid domain containing 2	51	GO:0097193	intrinsic apoptotic signaling pathway	indirect	21	0.0	6.32787	0.579497
+ENSG00000131323	TRAF3	TNF receptor associated factor 3	27	GO:0097296	activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	indirect	211	0.0	16.1317	0.577661
+ENSG00000168522	FNTA	farnesyltransferase, CAAX box, alpha	3	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	indirect	45	0.0	14.6771	0.576719
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:2001243	negative regulation of intrinsic apoptotic signaling pathway	indirect	90	0.0	7.58632	0.575439
+ENSG00000131323	TRAF3	TNF receptor associated factor 3	27	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	indirect	211	0.0	9.7299	0.572337
+ENSG00000131323	TRAF3	TNF receptor associated factor 3	27	GO:2001269	positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	indirect	211	0.0	15.004	0.569256
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	indirect	90	0.0	8.88053	0.563953
+ENSG00000123689	G0S2	G0/G1 switch 2	2	GO:2001235	positive regulation of apoptotic signaling pathway	indirect	25	0.0	17.6057	0.563698
+ENSG00000086159	AQP6	aquaporin 6	304	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	indirect	8	0.0	5.35003	0.562749
+ENSG00000100290	BIK	BCL2 interacting killer	85	GO:2001242	regulation of intrinsic apoptotic signaling pathway	indirect	77	0.0	4.79475	0.559063
+ENSG00000131323	TRAF3	TNF receptor associated factor 3	27	GO:2001238	positive regulation of extrinsic apoptotic signaling pathway	indirect	211	0.0	13.2848	0.558225
+ENSG00000131323	TRAF3	TNF receptor associated factor 3	27	GO:2001267	regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	indirect	211	0.0	14.0338	0.55703
+ENSG00000169379	ARL13B	ADP ribosylation factor like GTPase 13B	129	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	26	0.0	8.47042	0.556779
+ENSG00000149451	ADAM33	ADAM metallopeptidase domain 33	30	GO:2001234	negative regulation of apoptotic signaling pathway	indirect	134	0.0	6.05206	0.552299
+ENSG00000105369	CD79A	CD79a molecule	166	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	72	0.0	7.01615	0.552156
+ENSG00000152465	NMT2	N-myristoyltransferase 2	2	GO:2001233	regulation of apoptotic signaling pathway	indirect	54	0.0	12.3639	0.548987
+ENSG00000123689	G0S2	G0/G1 switch 2	2	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	25	0.0	26.1243	0.547272
+ENSG00000166886	NAB2	NGFI-A binding protein 2	62	GO:0006915	apoptotic process	indirect	54	0.0004	4.12378	0.546204
+ENSG00000184012	TMPRSS2	transmembrane protease, serine 2	58	GO:1902254	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	153	0.0	11.2399	0.545751
+ENSG00000164294	GPX8	glutathione peroxidase 8 (putative)	151	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	12	0.0	7.20355	0.54526
+ENSG00000183323	CCDC125	coiled-coil domain containing 125	65	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	3	0.0	6.33037	0.545168
+ENSG00000123689	G0S2	G0/G1 switch 2	2	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	25	0.0	24.2319	0.542394
+ENSG00000056558	TRAF1	TNF receptor associated factor 1	111	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	indirect	195	0.0	8.19628	0.537718
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	indirect	90	0.0	7.80206	0.536659
+ENSG00000071051	NCK2	NCK adaptor protein 2	107	GO:1902235	regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	indirect	83	0.0	8.04152	0.536497
+ENSG00000150991	UBC	ubiquitin C	15	GO:2001233	regulation of apoptotic signaling pathway	indirect	926	0.0	5.69827	0.535247
+ENSG00000056558	TRAF1	TNF receptor associated factor 1	111	GO:0097296	activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	indirect	195	0.0	8.60559	0.534364
+ENSG00000169379	ARL13B	ADP ribosylation factor like GTPase 13B	129	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	26	0.0	8.71908	0.533405
+ENSG00000169379	ARL13B	ADP ribosylation factor like GTPase 13B	129	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	26	0.0	8.71908	0.533405
+ENSG00000156502	SUPV3L1	Suv3 like RNA helicase	1	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	indirect	33	0.0	30.5709	0.533288
+ENSG00000100353	EIF3D	eukaryotic translation initiation factor 3 subunit D	18	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	66	0.0	10.0133	0.53266
+ENSG00000123689	G0S2	G0/G1 switch 2	2	GO:0006915	apoptotic process	indirect	25	0.0	13.1916	0.529151
+ENSG00000189325	C6orf222	chromosome 6 open reading frame 222	4	GO:2001235	positive regulation of apoptotic signaling pathway	indirect	2	0.0	12.2311	0.52729
+ENSG00000140379	BCL2A1	BCL2 related protein A1	4	GO:2001239	regulation of extrinsic apoptotic signaling pathway in absence of ligand	indirect	85	0.0	31.465	0.527252
+ENSG00000140379	BCL2A1	BCL2 related protein A1	4	GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	indirect	85	0.0	31.465	0.527252
+ENSG00000198471	RTP2	receptor transporter protein 2	72	GO:0043653	mitochondrial fragmentation involved in apoptotic process	indirect	8	0.0001	11.3352	0.526409
+ENSG00000112578	BYSL	bystin like	106	GO:1900117	regulation of execution phase of apoptosis	indirect	43	0.0001	9.37677	0.524643
+ENSG00000156502	SUPV3L1	Suv3 like RNA helicase	1	GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	indirect	33	0.0	25.1691	0.523664
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	indirect	90	0.0	10.3512	0.521248
+ENSG00000189325	C6orf222	chromosome 6 open reading frame 222	4	GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	2	0.0	18.6413	0.521071
+ENSG00000161526	SAP30BP	SAP30 binding protein	4	GO:0006915	apoptotic process	indirect	33	0.0	9.75256	0.519817
+ENSG00000124103	FAM209A	family with sequence similarity 209 member A	231	GO:0043653	mitochondrial fragmentation involved in apoptotic process	indirect	9	0.0	7.49869	0.519311
+ENSG00000123689	G0S2	G0/G1 switch 2	2	GO:2001233	regulation of apoptotic signaling pathway	indirect	25	0.0	11.7841	0.517767
+ENSG00000171703	TCEA2	transcription elongation factor A2	96	GO:0097191	extrinsic apoptotic signaling pathway	indirect	28	0.0002	5.08946	0.514539
+ENSG00000184012	TMPRSS2	transmembrane protease, serine 2	58	GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	153	0.0	9.71659	0.514528
+ENSG00000189325	C6orf222	chromosome 6 open reading frame 222	4	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	2	0.0	17.209	0.513299
+ENSG00000131323	TRAF3	TNF receptor associated factor 3	27	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	indirect	211	0.0	7.64717	0.513087
+ENSG00000171840	NINJ2	ninjurin 2	71	GO:0008637	apoptotic mitochondrial changes	indirect	17	0.0	7.09226	0.512756
+ENSG00000056558	TRAF1	TNF receptor associated factor 1	111	GO:2001269	positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	indirect	195	0.0	7.89654	0.51235
+ENSG00000129473	BCL2L2	BCL2 like 2	42	GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	indirect	90	0.0002	9.78758	0.511811
+ENSG00000034053	APBA2	amyloid beta precursor protein binding family A member 2	2	GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	indirect	49	0.0	21.6088	0.511776
+ENSG00000156502	SUPV3L1	Suv3 like RNA helicase	1	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	indirect	33	0.0	21.2876	0.511222
+ENSG00000025800	KPNA6	karyopherin subunit alpha 6	16	GO:0006309	apoptotic DNA fragmentation	indirect	95	0.0	18.4237	0.509601
+ENSG00000140379	BCL2A1	BCL2 related protein A1	4	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	indirect	85	0.0	16.1232	0.508691
+ENSG00000196911	KPNA5	karyopherin subunit alpha 5	15	GO:0006309	apoptotic DNA fragmentation	indirect	76	0.0	18.0823	0.508604
+ENSG00000100353	EIF3D	eukaryotic translation initiation factor 3 subunit D	18	GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	indirect	66	0.0	9.0534	0.50828
+ENSG00000019995	ZRANB1	zinc finger RANBP2-type containing 1	145	GO:2001267	regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	indirect	20	0.0	6.91807	0.508185
+ENSG00000131323	TRAF3	TNF receptor associated factor 3	27	GO:2001236	regulation of extrinsic apoptotic signaling pathway	indirect	211	0.0	6.74844	0.507135
+ENSG00000184012	TMPRSS2	transmembrane protease, serine 2	58	GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	153	0.0	11.2459	0.505837
+ENSG00000184012	TMPRSS2	transmembrane protease, serine 2	58	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	indirect	153	0.0	11.2459	0.505837
+ENSG00000150991	UBC	ubiquitin C	15	GO:1902255	positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator	indirect	926	0.0	32.7092	0.505817
+ENSG00000005486	RHBDD2	rhomboid domain containing 2	51	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	indirect	21	0.0	9.22422	0.505002
