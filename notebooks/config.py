@@ -2,7 +2,13 @@
 
 import os, sys
 import igraph
-import ccsblib
+
+from utils import (load_nw_hi_iii,
+					load_nw_hi_union,
+					load_nw_lit_bm_17,
+					load_nw_qubic,
+					load_nw_bioplex,
+					load_nw_cofrac)
 
 
 rand_home_dir = '../data/katjas_data'
@@ -68,37 +74,37 @@ def load_networks(network_names=network_names,cache='read',no_homodimer_ppis=Tru
 def load_network(network_name,cache='read',no_homodimer_ppis=True):
 
 	if network_name == 'HI-I-05':
-		snw = ccsblib.huri.load_nw_hi_union(id_type='ensembl_gene_id',fmt='igraph',cache=cache)
+		snw = load_nw_hi_union(id_type='ensembl_gene_id',fmt='igraph')
 		hi_i_05_edges = snw.es.select(lambda e: e['in_Rual'])
 		hi_i_05_edges_ensg_id = [(snw.vs[e.source]['name'],snw.vs[e.target]['name']) for e in hi_i_05_edges]
 		nw = igraph.Graph.TupleList(hi_i_05_edges_ensg_id)
 		for attribute in hi_i_05_edges.attributes():
 			nw.es[attribute] = hi_i_05_edges[attribute]
 	elif network_name == 'HI-II-14':
-		snw = ccsblib.huri.load_nw_hi_union(id_type='ensembl_gene_id',fmt='igraph',cache=cache)
+		snw = load_nw_hi_union(id_type='ensembl_gene_id',fmt='igraph')
 		hi_ii_14_edges = snw.es.select(lambda e: e['in_HI_II_14_screen_1'] or e['in_HI_II_14_screen_2'])
 		hi_ii_14_edges_ensg_id = [(snw.vs[e.source]['name'],snw.vs[e.target]['name']) for e in hi_ii_14_edges]
 		nw = igraph.Graph.TupleList(hi_ii_14_edges_ensg_id)
 		for attribute in hi_ii_14_edges.attributes():
 			nw.es[attribute] = hi_ii_14_edges[attribute]
 	elif network_name == 'HI-III':
-		nw = ccsblib.huri.load_nw_hi_iii(id_type='ensembl_gene_id',fmt='igraph',cache=cache)
+		nw = load_nw_hi_iii(id_type='ensembl_gene_id',fmt='igraph')
 	elif network_name == 'HI-III-2ev':
-		nw = ccsblib.huri.load_nw_hi_iii(id_type='ensembl_gene_id',fmt='igraph',cache=cache)
+		nw = load_nw_hi_iii(id_type='ensembl_gene_id',fmt='igraph')
 		nw = get_2ev_network(nw)
 	elif network_name == 'HI-union':
-		nw = ccsblib.huri.load_nw_hi_union_for_paper(id_type='ensembl_gene_id',fmt='igraph',cache=cache)
+		nw = load_nw_hi_union(id_type='ensembl_gene_id',fmt='igraph')
 	elif network_name == 'Lit-BM-17':
-		nw = ccsblib.huri.load_nw_lit_bm_17(id_type='ensembl_gene_id',fmt='igraph',cache=cache)
+		nw = load_nw_lit_bm_17(id_type='ensembl_gene_id',fmt='igraph')
 	elif network_name == 'BioPlex':
-		nw = ccsblib.huri.load_nw_bioplex(id_type='ensembl_gene_id',fmt='igraph',cache=cache)
+		nw = load_nw_bioplex(id_type='ensembl_gene_id',fmt='igraph')
 	elif network_name == 'CoFrac':
-		nw = ccsblib.huri.load_nw_cofrac(id_type='ensembl_gene_id',fmt='igraph',cache=cache)
+		nw = load_nw_cofrac(id_type='ensembl_gene_id',fmt='igraph')
 	elif network_name == 'QUBIC':
-		nw = ccsblib.huri.load_nw_qubic(id_type='ensembl_gene_id',fmt='igraph',cache=cache)
+		nw = load_nw_qubic(id_type='ensembl_gene_id',fmt='igraph')
 	elif network_name == 'HI_BP':
-		nw = ccsblib.huri.load_nw_hi_iii(id_type='ensembl_gene_id',fmt='igraph',cache=cache)
-		bp = ccsblib.huri.load_nw_bioplex(id_type='ensembl_gene_id',fmt='igraph',cache=cache)
+		nw = load_nw_hi_iii(id_type='ensembl_gene_id',fmt='igraph')
+		bp = load_nw_bioplex(id_type='ensembl_gene_id',fmt='igraph')
 		new_nodes = set(bp.vs['name']).difference(set(nw.vs['name']))
 		nw.add_vertices(list(new_nodes))
 		new_edges = set()
