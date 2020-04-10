@@ -594,7 +594,7 @@ def load_id_map(id_in, id_out):
 
 
 def load_nw_gsm():
-    hi = pd.read_csv('../data/processed/Supplementary Table 4.txt', sep='\t')
+    hi = pd.read_csv('../data/processed/Supplementary Table 7.txt', sep='\t')
     hi = hi.join(pd.get_dummies(hi['assay_id'],
                                 prefix='in_assay_v', prefix_sep=''))
     for col in [c for c in hi.columns if c.startswith('in_assay_v')]:
@@ -616,7 +616,7 @@ def load_nw_gsm():
 
 
 def load_nw_hi_union(id_type='ensembl_gene_id', fmt='pandas'):
-    df = pd.read_csv('../data/processed/Supplementary Table 8.txt', sep='\t')
+    df = pd.read_csv('../data/processed/Supplementary Table 11.txt', sep='\t')
     for column in df.columns:
         if column.startswith('in_'):
             df[column] = df[column] == 1
@@ -631,7 +631,7 @@ def load_nw_hi_union(id_type='ensembl_gene_id', fmt='pandas'):
 
 
 def load_nw_hi_iii(id_type='ensembl_gene_id', fmt='pandas'):
-    df = pd.read_csv('../data/processed/Supplementary Table 6.txt', sep='\t')
+    df = pd.read_csv('../data/processed/Supplementary Table 9.txt', sep='\t')
     for column in df.columns:
         if column.startswith('in_'):
             df[column] = df[column] == 1
@@ -646,7 +646,7 @@ def load_nw_hi_iii(id_type='ensembl_gene_id', fmt='pandas'):
 
 
 def load_nw_lit_bm_17(id_type='ensembl_gene_id', fmt='pandas'):
-    df = pd.read_csv('../data/processed/Supplementary Table 25.txt', sep='\t')
+    df = pd.read_csv('../data/processed/Supplementary Table 14.txt', sep='\t')
     df = format_network(df,
                         fmt,
                         id_type=id_type,
@@ -657,12 +657,12 @@ def load_nw_lit_bm_17(id_type='ensembl_gene_id', fmt='pandas'):
 
 def load_space_iii(id_type='ensembl_gene_id'):
     if id_type == 'ensembl_gene_id':
-        return set(pd.read_csv('../data/processed/Supplementary Table 19.txt', sep='\t')
+        return set(pd.read_csv('../data/processed/Supplementary Table 2.txt', sep='\t')
                        ['ensembl_gene_id']
                        .str.replace(r'\..*', '')
                        .values)
     elif id_type == 'orf_id':
-        return set(pd.read_csv('../data/processed/Supplementary Table 19.txt', sep='\t')
+        return set(pd.read_csv('../data/processed/Supplementary Table 2.txt', sep='\t')
                      ['orf_id']
                      .values)
     else:

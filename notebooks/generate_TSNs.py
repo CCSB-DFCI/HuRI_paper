@@ -97,7 +97,7 @@ def generate_TSN(network_name):
 		return frac
 
 	# load tissue names
-	tissues = pandas.read_csv('../data/processed/Supplementary Table 27.txt', sep='\t').set_index('Ensembl_gene_id').columns
+	tissues = pandas.read_csv('../data/processed/Supplementary Table 22.txt', sep='\t').set_index('Ensembl_gene_id').columns
 
 	# for every tissue:
 	for tissue in tissues:
