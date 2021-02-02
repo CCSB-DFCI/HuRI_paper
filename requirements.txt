@@ -10,7 +10,7 @@ attrs==19.3.0             # via jsonschema
 backcall==0.1.0           # via ipython
 beautifulsoup4==4.8.2     # via bioservices
 bioservices==1.6.0        # via -r requirements.in
-bleach==3.1.0             # via nbconvert
+bleach==3.3.0             # via nbconvert
 certifi==2019.11.28       # via requests
 chardet==3.0.4            # via requests
 colorama==0.4.3           # via easydev
