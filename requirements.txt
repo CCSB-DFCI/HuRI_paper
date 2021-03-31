@@ -37,7 +37,7 @@ jupyter-console==6.0.0    # via jupyter
 jupyter-core==4.6.1       # via jupyter-client, nbconvert, nbformat, notebook, qtconsole
 jupyter==1.0.0            # via -r requirements.in
 kiwisolver==1.1.0         # via matplotlib
-lxml==4.4.2               # via bioservices
+lxml==4.6.3               # via bioservices
 markupsafe==1.1.1         # via jinja2
 matplotlib-venn==0.11.5   # via -r requirements.in
 matplotlib==3.1.2         # via -r requirements.in, matplotlib-venn
