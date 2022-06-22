@@ -46,7 +46,7 @@ more-itertools==8.0.2     # via zipp
 nbconvert==5.6.1          # via jupyter, notebook
 nbformat==4.4.0           # via ipywidgets, nbconvert, notebook
 notebook==6.0.2           # via -r requirements.in, jupyter, widgetsnbextension
-numpy==1.18.0             # via -r requirements.in, matplotlib, matplotlib-venn, pandas, scipy
+numpy==1.22.0             # via -r requirements.in, matplotlib, matplotlib-venn, pandas, scipy
 pandas==0.25.3            # via -r requirements.in, bioservices
 pandocfilters==1.4.2      # via nbconvert
 parso==0.5.2              # via jedi
