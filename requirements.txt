@@ -41,7 +41,7 @@ lxml==4.4.2               # via bioservices
 markupsafe==1.1.1         # via jinja2
 matplotlib-venn==0.11.5   # via -r requirements.in
 matplotlib==3.1.2         # via -r requirements.in, matplotlib-venn
-mistune==0.8.4            # via nbconvert
+mistune==2.0.3            # via nbconvert
 more-itertools==8.0.2     # via zipp
 nbconvert==5.6.1          # via jupyter, notebook
 nbformat==4.4.0           # via ipywidgets, nbconvert, notebook
