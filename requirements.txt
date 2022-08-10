@@ -43,7 +43,7 @@ matplotlib-venn==0.11.5   # via -r requirements.in
 matplotlib==3.1.2         # via -r requirements.in, matplotlib-venn
 mistune==0.8.4            # via nbconvert
 more-itertools==8.0.2     # via zipp
-nbconvert==5.6.1          # via jupyter, notebook
+nbconvert==6.3.0          # via jupyter, notebook
 nbformat==4.4.0           # via ipywidgets, nbconvert, notebook
 notebook==6.0.2           # via -r requirements.in, jupyter, widgetsnbextension
 numpy==1.18.0             # via -r requirements.in, matplotlib, matplotlib-venn, pandas, scipy
